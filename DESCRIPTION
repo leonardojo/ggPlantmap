@@ -2,13 +2,13 @@ Package: ggPlantmap
 Type: Package
 Title: ggPlantmap
 Version: 0.1.0
-Authors@R:  
+Authors@R: 
     person("Leonardo", "jo", ,"l.jo@uu.nl", role = c("aut", "cre"))
 Maintainer: Leonardo Jo <jo.leonardo85@gmail.com>
 Description: gPlantmap is a R tidyverse based package with a series of plant images to be mapped in a ggplot enviroment. 
     We also provide a series of functions and instructions to easily create your own personal ggPlantmap. 
     These ggPlantmap objects can be added into R pipelines for the visual representation of quantitative data in plant distinct cells/structures. 
-License: `use_gpl3_license()`
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports:
