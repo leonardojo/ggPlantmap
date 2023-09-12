@@ -1,3 +1,0 @@
-library(ggplot2)
-ggplot2::ggplot(ggPm.At.3weekrosette.topview) +
-  geom_polygon(aes(x,y,group=ROI.id),fill="white",colour="black",linewidth=0.1)

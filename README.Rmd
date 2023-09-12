@@ -29,7 +29,12 @@ library(XML)
 ## Installation
 
 ```{r, eval = FALSE}
-##later
+##install devtools (if you haven't already)
+install.packages("devtools")
+library(devtools)
+
+## Installing from a github respository
+install_github("leonardojo/ggPlantmap")
 ```
 
 
@@ -49,10 +54,10 @@ Because most ggPlantmaps are based on previously published plant images, the ref
 <img src="man/figures/ggPm.someexamples.jpg" align="center" height="500"/></a>
 
 ```{r}
-##head(ggPm.summary)
+head(ggPm.summary)
 
 ##Listing all the ggPlantmap objects
-##ggPm.summary$ggPlantmap.name
+ggPm.summary$ggPlantmap.name
 ```
 
 ## General usage
@@ -69,8 +74,9 @@ ggPm.Ms.root.crosssection
 ## How can I plot a ggPlantmap?
 
 You can use the ggPlantmap.plot() function to quickly visualize your ggPlantmap.
+
 ```{r,warning=F,out.width="70%"}
-## ggPlantmap.plot(data,layer,linewidth=0.5,show.legend=T)
+##ggPlantmap.plot(data,layer,linewidth=0.5,show.legend=T)
 ggPlantmap.plot(ggPm.At.roottip.longitudinal,ROI.id,linewidth = 1,show.legend = F)
 ```
 

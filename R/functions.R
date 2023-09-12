@@ -49,11 +49,11 @@ XML.to.ggPlantmap <- function(data) {
 #' ggPlantmap.plot(data=ggPm.At.3weekrosette.topview,layer=ROI.name,linewdith=1,show.legend=T)
 ggPlantmap.plot <- function(data,layer=ROI.name,linewidth=0.5,show.legend=T) {
   ggPlantmap <- data
+  ggplot(data,aes(x,y)) +
     geom_polygon(aes(group=ROI.id,fill=factor({{layer}})),colour="black",linewidth=linewidth,show.legend={{show.legend}}) +
     theme_void() +
     theme(panel.grid = element_blank(),legend.position="right") +
     coord_fixed()
-  ##theme(aspect.ratio = ar)
 }
 
 #' ggPlantmap.merge

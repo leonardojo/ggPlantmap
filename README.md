@@ -26,7 +26,12 @@ library(XML)
 ## Installation
 
 ``` r
-##later
+##install devtools (if you haven't already)
+install.packages("devtools")
+library(devtools)
+
+## Installing from a github respository
+install_github("leonardojo/ggPlantmap")
 ```
 
 ## What is a ggPlantmap?
@@ -59,10 +64,37 @@ the ggPlantmap catalog, with the help of the plant research community.
 <img src="man/figures/ggPm.someexamples.jpg" align="center" height="500"/></a>
 
 ``` r
-##head(ggPm.summary)
+head(ggPm.summary)
+#> # A tibble: 6 × 9
+#>   ggPlantmap.name    Species Tissue Type  Descr…¹ Layers Image…² Made.by Conta…³
+#>   <chr>              <chr>   <chr>  <chr> <chr>   <chr>  <chr>   <chr>   <chr>  
+#> 1 ggPm.At.roottip.c… Arabid… root   cros… Cross-… Cells  https:… Leonar… jo.leo…
+#> 2 ggPm.At.roottip.l… Arabid… root   long… Longit… Cells  https:… Leonar… jo.leo…
+#> 3 ggPm.At.3weekrose… Arabid… roset… top … Top vi… Leaves https:… Leonar… jo.leo…
+#> 4 ggPm.At.leafepide… Arabid… leaf … top … Top vi… Cells  https:… Leonar… jo.leo…
+#> 5 ggPm.At.leaf.cros… Arabid… leaves cros… Cross-… Cells  https:… Leonar… jo.leo…
+#> 6 ggPm.At.seed.devs… Arabid… seed   deve… Diagra… Cells… https:… Leonar… jo.leo…
+#> # … with abbreviated variable names ¹​Description, ²​Image.Reference,
+#> #   ³​Contact.Info
 
 ##Listing all the ggPlantmap objects
-##ggPm.summary$ggPlantmap.name
+ggPm.summary$ggPlantmap.name
+#>  [1] "ggPm.At.roottip.crosssection"         
+#>  [2] "ggPm.At.roottip.longitudinal"         
+#>  [3] "ggPm.At.3weekrosette.topview"         
+#>  [4] "ggPm.At.leafepidermis.topview"        
+#>  [5] "ggPm.At.leaf.crosssection"            
+#>  [6] "ggPm.At.seed.devseries"               
+#>  [7] "ggPm.At.earlyembryogenesis.devseries" 
+#>  [8] "ggPm.At.shootapex.longitudinal"       
+#>  [9] "ggPm.At.inflorescencestem.crossection"
+#> [10] "ggPm.Sl.root.crossection"             
+#> [11] "ggPm.At.leaf.topview"                 
+#> [12] "ggPm.At.rootelong.longitudinal"       
+#> [13] "ggPm.At.rootmatur.crosssection"       
+#> [14] "ggPm.At.flower.diagram"               
+#> [15] "ggPm.At.lateralroot.devseries"        
+#> [16] "ggPm.Ms.root.crosssection"
 ```
 
 ## General usage
@@ -126,7 +158,7 @@ You can use the ggPlantmap.plot() function to quickly visualize your
 ggPlantmap.
 
 ``` r
-## ggPlantmap.plot(data,layer,linewidth=0.5,show.legend=T)
+##ggPlantmap.plot(data,layer,linewidth=0.5,show.legend=T)
 ggPlantmap.plot(ggPm.At.roottip.longitudinal,ROI.id,linewidth = 1,show.legend = F)
 ```
 
