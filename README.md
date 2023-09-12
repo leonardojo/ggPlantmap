@@ -1,5 +1,5 @@
 
-# ggPlantmap <img src="man/figures/hex.png" align="right" height="200"/>
+# ggCornmap <img src="man/figures/hex.png" align="right" height="200"/>
 
 ###### Version Beta.1
 
@@ -8,13 +8,13 @@
 
 ## Overview
 
-ggPlantmap is a R tidyverse based package with a series of plant images
+ggCornmap is a R tidyverse based package with a series of plant images
 to be mapped in a ggplot enviroment. We also provide a series of
 functions and instructions to easily create your own personal
-ggPlantmap. These ggPlantmap objects can be added into R pipelines for
+ggCornmap. These ggPlantmap objects can be added into R pipelines for
 the visual representation of quantitative data in distinct plant cells
 and/or structures.
-<img src="man/figures/ggPlantmap.example1.jpg" align="center" height="250"/>
+<img src="man/figures/ggCornmap.example1.jpg" align="center" height="250"/>
 
 ## Required packages
 
@@ -31,16 +31,16 @@ install.packages("devtools")
 library(devtools)
 
 ## Installing from a github respository
-install_github("leonardojo/ggPlantmap")
+install_github("leonardojo/ggCornmap")
 ```
 
-## What is a ggPlantmap?
+## What is a ggCornmap?
 
-Each unique ggPlantmap is a table (tibble) object with points
+Each unique ggCornmap is a table (tibble) object with points
 coordinates (x,y) of specific polygons extracted from plant images.
 
 ``` r
-library(ggPlantmap)
+library(ggCornmap)
 head(ggPm.At.roottip.longitudinal)
 #> # A tibble: 6 × 7
 #>   ROI.name    Level1   Level2 ROI.id point     x     y
@@ -53,20 +53,20 @@ head(ggPm.At.roottip.longitudinal)
 #> 6 Meristem.QC Meristem QC          1     6  134. -327.
 ```
 
-## Where can I find the list of all ggPlantmaps objects?
+## Where can I find the list of all ggCornmaps objects?
 
-The whole list of pre-loaded ggPlantmap objects can be found in the
-table ggPm.summary. You can find the description of ggPlantmaps, as well
-as information of its creator. Because most ggPlantmaps are based on
+The whole list of pre-loaded ggCornmap objects can be found in the
+table ggPm.summary. You can find the description of ggCornmaps, as well
+as information of its creator. Because most ggCornmaps are based on
 previously published plant images, the references for each specific
 image can also be found in the summary table. We hope to keep updating
-the ggPlantmap catalog, with the help of the plant research community.
+the ggCornmap catalog, with the help of the plant research community.
 <img src="man/figures/ggPm.someexamples.jpg" align="center" height="500"/></a>
 
 ``` r
 head(ggPm.summary)
 #> # A tibble: 6 × 9
-#>   ggPlantmap.name    Species Tissue Type  Descr…¹ Layers Image…² Made.by Conta…³
+#>   ggCornmap.name    Species Tissue Type  Descr…¹ Layers Image…² Made.by Conta…³
 #>   <chr>              <chr>   <chr>  <chr> <chr>   <chr>  <chr>   <chr>   <chr>  
 #> 1 ggPm.At.roottip.c… Arabid… root   cros… Cross-… Cells  https:… Leonar… jo.leo…
 #> 2 ggPm.At.roottip.l… Arabid… root   long… Longit… Cells  https:… Leonar… jo.leo…
@@ -77,8 +77,8 @@ head(ggPm.summary)
 #> # … with abbreviated variable names ¹​Description, ²​Image.Reference,
 #> #   ³​Contact.Info
 
-##Listing all the ggPlantmap objects
-ggPm.summary$ggPlantmap.name
+##Listing all the ggCornmap objects
+ggPm.summary$ggCornmap.name
 #>  [1] "ggPm.At.roottip.crosssection"         
 #>  [2] "ggPm.At.roottip.longitudinal"         
 #>  [3] "ggPm.At.3weekrosette.topview"         
@@ -99,11 +99,11 @@ ggPm.summary$ggPlantmap.name
 
 ## General usage
 
-All ggPlantmaps are pre-loaded in the package, you can call them
+All ggCornmaps are pre-loaded in the package, you can call them
 directly in your R environment by typing their name.
 
 ``` r
-library(ggPlantmap)
+library(ggCornmap)
 ##examples
 ggPm.At.roottip.longitudinal
 #> # A tibble: 1,541 × 7
@@ -152,19 +152,19 @@ ggPm.Ms.root.crosssection
 #> # … with 2,431 more rows
 ```
 
-## How can I plot a ggPlantmap?
+## How can I plot a ggCornmap?
 
-You can use the ggPlantmap.plot() function to quickly visualize your
-ggPlantmap.
+You can use the ggCornmap.plot() function to quickly visualize your
+ggCornmap.
 
 ``` r
-##ggPlantmap.plot(data,layer,linewidth=0.5,show.legend=T)
-ggPlantmap.plot(ggPm.At.roottip.longitudinal,ROI.id,linewidth = 1,show.legend = F)
+##ggCornmap.plot(data,layer,linewidth=0.5,show.legend=T)
+ggCornmap.plot(ggPm.At.roottip.longitudinal,ROI.id,linewidth = 1,show.legend = F)
 ```
 
 <img src="man/figures/README-unnamed-chunk-7-1.png" width="70%" />
 
-If you have experience with ggplot, you can feed your a ggPlantmap
+If you have experience with ggplot, you can feed your a ggCornmap
 object into a ggplot with the geom\_polygon() function.
 
 ``` r
@@ -176,12 +176,12 @@ ggplot(ggPm.At.roottip.longitudinal,aes(x,y)) +
 
 <img src="man/figures/README-unnamed-chunk-8-1.png" width="50%" />
 
-## How can I colormap distinct layers of a ggPlantmap?
+## How can I colormap distinct layers of a ggCornmap?
 
-Because each polygon on ggPlantmap is characterized by specific levels
+Because each polygon on ggCornmap is characterized by specific levels
 (examples: Region,Stage,Part), you can color map them individually. Just
 specify the column you want to colormap in the layer option of the
-function. ggPlantmap.plot() is based on ggplot so you can add specific
+function. ggCornmap.plot() is based on ggplot so you can add specific
 modifications to it using ggplot coding logic.
 
 ``` r
@@ -204,17 +204,17 @@ head(ggPm.At.seed.devseries)
 ## Region: Specific regions of each part of the Arabidopsis seed
 ## Reference: Belmonte, Mark F., et al. "Comprehensive developmental profiles of gene activity in regions and subregions of the Arabidopsis seed." Proceedings of the National Academy of Sciences 110.5 (2013): E435-E444.
 
-a <- ggPlantmap.plot(ggPm.At.seed.devseries,Region,linewidth = 0.5) +
+a <- ggCornmap.plot(ggPm.At.seed.devseries,Region,linewidth = 0.5) +
   scale_fill_brewer(palette="Set3") +
   ggtitle("Regions of Arabidopsis seed development") +
    theme(legend.key.height= unit(0.25, 'cm'),
         legend.key.width= unit(0.25, 'cm'))
-b <- ggPlantmap.plot(ggPm.At.seed.devseries,Stage,linewidth = 0.5) +
+b <- ggCornmap.plot(ggPm.At.seed.devseries,Stage,linewidth = 0.5) +
   scale_fill_brewer(palette="Set1") +
   ggtitle("Stages of Arabidopsis seed development") +
    theme(legend.key.height= unit(0.25, 'cm'),
         legend.key.width= unit(0.25, 'cm'))
-c <- ggPlantmap.plot(ggPm.At.seed.devseries,Part,linewidth = 0.5) +
+c <- ggCornmap.plot(ggPm.At.seed.devseries,Part,linewidth = 0.5) +
   scale_fill_brewer(palette="Set1") +
   ggtitle("Parts of Arabidopsis seed development") +
    theme(legend.key.height= unit(0.25, 'cm'),
@@ -225,23 +225,23 @@ plot_grid(a,b,c,ncol=1,labels=c("a","b","c"),align = "v")
 ![](man/figures/README-unnamed-chunk-9-1.png)<!-- -->
 
 Each map will have their own classification. If you would like to adjust
-or create your own classification, you can save the ggPlantmap as a
+or create your own classification, you can save the ggCornmap as a
 table and modify it on to mach the degree of separation you want to
 show.
 
-## How can I create my own ggPlantmap?
+## How can I create my own ggCornmap?
 
-The principle of creating a ggPlantmap is fairly simple. We generate a
+The principle of creating a ggCornmap is fairly simple. We generate a
 list of ROIs (region of interests) in the Icy open-source software
 (<https://icy.bioimageanalysis.org/>) from any image. These ROIs are
-saved as XML files and later be converted into ggPlantmaps by using the
-function XML.to.ggPlantmap() function. We created step-by-step tutorial
+saved as XML files and later be converted into ggCornmaps by using the
+function XML.to.ggCornmap() function. We created step-by-step tutorial
 on how to generate xml images from plant images, you can find the
 tutorial here.
 
 ``` r
-##converting the sample file: ggPm.sample.xml into a ggPlantmap table
-ggPm <- XML.to.ggPlantmap("data/ggPm.sample.xml")
+##converting the sample file: ggPm.sample.xml into a ggCornmap table
+ggPm <- XML.to.ggCornmap("data/ggPm.sample.xml")
 head(ggPm)
 #> # A tibble: 6 × 5
 #>   ROI.name  ROI.id point     x     y
@@ -253,12 +253,12 @@ head(ggPm)
 #> 5 Epidermis      1     5  173. -384.
 #> 6 Epidermis      1     6  165. -387.
 ##plotting the ggPm
-ggPlantmap.plot(ggPm)
+ggCornmap.plot(ggPm)
 ```
 
 ![](man/figures/README-unnamed-chunk-10-1.png)<!-- -->
 
-## How can I overlay quantitative data into my ggPlantmap?
+## How can I overlay quantitative data into my ggCornmap?
 
 Over the recent years, we are seeing a crescent interest on the
 characterization of molecular events that occur in specific cells/parts
@@ -271,10 +271,10 @@ events in a complex plant tissue. To better explore this type of data,
 it would be important to create tools that allow us to visualize and
 communicate the quantitative features of cells/parts the plant.
 
-With ggPlantmap, we can overlay external quantitative data in the map as
-a form of a heatmap. You can combine the ggPlantmap with a external
-quantitative data using the ggPlantmap.merge() function. later, the
-heatmap can be generated using the ggPlantmap.heatmap() function.
+With ggCornmap, we can overlay external quantitative data in the map as
+a form of a heatmap. You can combine the ggCornmap with a external
+quantitative data using the ggCornmap.merge() function. later, the
+heatmap can be generated using the ggCornmap.heatmap() function.
 
 This approach can be very helpful for R Shiny app developers to create
 web interactive tools to visualize gene expression gene profiles.
@@ -295,7 +295,7 @@ head(ggPm.tomatoatlas.expression.sample)
 ##important: Names in the quantitative data needs to match the ones found in the map.
 
 ##Merging both datasets
-expression.sample2 <- ggPlantmap.merge(ggPm.Sl.root.crosssection,ggPm.tomatoatlas.expression.sample,id.x = "ROI.name",id.y="Cell.layer") ##Column names between tables are different, need to specify both identifiers in x and y.
+expression.sample2 <- ggCornmap.merge(ggPm.Sl.root.crosssection,ggPm.tomatoatlas.expression.sample,id.x = "ROI.name",id.y="Cell.layer") ##Column names between tables are different, need to specify both identifiers in x and y.
 head(expression.sample2)
 #> # A tibble: 6 × 6
 #>   ROI.name  ROI.id point     x     y SCR.expression
@@ -308,7 +308,7 @@ head(expression.sample2)
 #> 6 Exodermis      1     6  651. -310.             NA
 
 ##Ploting
-ggPlantmap.heatmap(expression.sample2,SCR.expression) +
+ggCornmap.heatmap(expression.sample2,SCR.expression) +
   scale_fill_gradient(low="white",high="Red",na.value ="white")
 ```
 
@@ -330,7 +330,7 @@ head(ggPm.At.seed.expression.sample)
 ##important: Names in the quantitative data needs to match the ones found in the map.
 
 ##Merging both datasets
-expression.sample <- ggPlantmap.merge(ggPm.At.seed.devseries,ggPm.At.seed.expression.sample,"ROI.name")
+expression.sample <- ggCornmap.merge(ggPm.At.seed.devseries,ggPm.At.seed.expression.sample,"ROI.name")
 head(expression.sample)
 #> # A tibble: 6 × 9
 #>   ROI.name                   Stage Part  Region ROI.id point     x     y AT5G4…¹
@@ -344,25 +344,25 @@ head(expression.sample)
 #> # … with abbreviated variable name ¹​AT5G47670.expression
 
 ##Ploting
-ggPlantmap.heatmap(expression.sample,AT5G47670.expression) +
+ggCornmap.heatmap(expression.sample,AT5G47670.expression) +
   scale_fill_gradient(low="white",high="Red")
 ```
 
 ![](man/figures/README-unnamed-chunk-12-1.png)<!-- -->
 
-## Is ggPlantmap only usefull for molecular expression data?
+## Is ggCornmap only usefull for molecular expression data?
 
-Not at all. ggPlantmap can also be used to produce many other type of
+Not at all. ggCornmap can also be used to produce many other type of
 plots. Essentially anything that you can trace, you can create! Be
 creative! We hope to build a community where people explore the usage of
-ggPlantmap for the communication of Plant science.
+ggCornmap for the communication of Plant science.
 
 <img src="man/figures/ggPm.otherexamples.png" align="center" height="500"/></a>
 
-## Can my ggPlantmap be included in the package?
+## Can my ggCornmap be included in the package?
 
 YES!!! Any Plant map can be included in the package. If you create one,
-please email me (<l.jo@uu.nl>) your ggPlantmap as tab-delimited table
+please email me (<l.jo@uu.nl>) your ggCornmap as tab-delimited table
 and I’ll make sure to include in the package. You will be credited and
 your information will be displayed in the summary file. I really hope
 this becomes an organic package with the contribution of the plant
