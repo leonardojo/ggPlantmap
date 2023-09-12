@@ -1,0 +1,8 @@
+"Cell.layer"	"SCR.expression"
+"Epidermis"	1.24
+"Cortex"	1.17
+"Endodermis"	75.82
+"Phloem"	0.44
+"Procambium"	0.95
+"Pericycle"	0.95
+"Xylem"	2.78

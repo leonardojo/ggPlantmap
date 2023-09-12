@@ -1,0 +1,31 @@
+"ROI.name"	"AT5G47670.expression"
+"Globular.endosperm.Chalazal Endosperm"	16
+"Globular.seedcoat.Chalazal Seed Coat"	8
+"Globular.embryo.Embryo Proper"	10
+"Globular.endosperm.Micropylar Endosperm"	48
+"Globular.endosperm.Peripheral Endosperm"	10
+"Globular.seedcoat.Distal Seed Coat"	10
+"Heart.endosperm.Chalazal Endosperm"	16
+"Heart.seedcoat.Chalazal Seed Coat"	11
+"Heart.embryo.Embryo Proper"	23
+"Heart.endosperm.Micropylar Endosperm"	39
+"Heart.endosperm.Peripheral Endosperm"	110
+"Heart.seedcoat.Distal Seed Coat"	9
+"Linearcotyledon.endosperm.Chalazal Endosperm"	25
+"Linearcotyledon.seedcoat.Chalazal Seed Coat"	12
+"Linearcotyledon.embryo.Embryo Proper"	254
+"Linearcotyledon.endosperm.Micropylar Endosperm"	1179
+"Linearcotyledon.endosperm.Peripheral Endosperm"	206
+"Linearcotyledon.seedcoat.Distal Seed Coat"	186
+"Maturegreen.endosperm.Chalazal Endosperm"	1130
+"Maturegreen.seedcoat.Chalazal Seed Coat"	82
+"Maturegreen.embryo.Embryo Proper"	882
+"Maturegreen.endosperm.Micropylar Endosperm"	1180
+"Maturegreen.endosperm.Peripheral Endosperm"	1192
+"Maturegreen.seedcoat.Distal Seed Coat"	211
+"Preglobular.endosperm.Chalazal Endosperm"	13
+"Preglobular.seedcoat.Chalazal Seed Coat"	8
+"Preglobular.embryo.Embryo Proper"	10
+"Preglobular.endosperm.Micropylar Endosperm"	19
+"Preglobular.endosperm.Peripheral Endosperm"	10
+"Preglobular.seedcoat.Distal Seed Coat"	8

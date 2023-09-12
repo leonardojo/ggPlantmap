@@ -1,0 +1,1542 @@
+"ROI.name"	"Level1"	"Level2"	"ROI.id"	"point"	"x"	"y"
+"Meristem.QC"	"Meristem"	"QC"	1	1	120.838400805629	-323.193345393956
+"Meristem.QC"	"Meristem"	"QC"	1	2	127.302267713508	-315.293063617659
+"Meristem.QC"	"Meristem"	"QC"	1	3	133.766134621387	-314.57485618345
+"Meristem.QC"	"Meristem"	"QC"	1	4	149.378378421534	-318.224282658363
+"Meristem.QC"	"Meristem"	"QC"	1	5	149.207594456876	-329.477660443283
+"Meristem.QC"	"Meristem"	"QC"	1	6	133.766134621387	-326.963934423552
+"Meristem.QC"	"Meristem"	"QC"	2	1	150.200358777998	-329.667480533729
+"Meristem.QC"	"Meristem"	"QC"	2	2	150.259844068603	-318.24630473754
+"Meristem.QC"	"Meristem"	"QC"	2	3	155.910946676092	-316.759172472412
+"Meristem.QC"	"Meristem"	"QC"	2	4	163.881975617182	-316.16431956636
+"Meristem.QC"	"Meristem"	"QC"	2	5	168.521828284383	-314.08233439518
+"Meristem.QC"	"Meristem"	"QC"	2	6	178.515357106048	-323.421525020188
+"Meristem.QC"	"Meristem"	"QC"	2	7	167.570063634701	-327.526010071943
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	3	1	168.979756371893	-313.827400496791
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	3	2	178.984413385453	-322.952527223445
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	3	3	187.065097896406	-314.596989497834
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	3	4	183.21715289119	-309.814543562781
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	3	5	176.125939953007	-307.505776559652
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	4	1	104.621963302184	-310.604806737705
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	4	2	112.801401414209	-303.387655462388
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	4	3	122.905413199653	-303.975719640377
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	4	4	127.128783205209	-314.721255983626
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	4	5	118.949345093183	-323.061075235103
+"Meristem.Cortex-Endodermis Initial"	"Meristem"	"Cortex-Endodermis Initial"	4	6	109.754159764631	-316.485448517592
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	5	1	110.983720374242	-268.544914372989
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	5	2	117.152182857135	-266.287817983355
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	5	3	128.724625057162	-299.16254633538
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	5	4	132.952718632741	-313.952683245662
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	5	5	127.672864528655	-314.31650782835
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	5	6	123.72986089466	-303.735018398378
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	5	7	112.769858646348	-277.58734436024
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	6	1	129.482988103699	-299.09239707458
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	6	2	137.396226424801	-298.742253786036
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	6	3	139.917258102321	-315.269017005329
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	6	4	133.544650250813	-313.868443851151
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	7	1	137.79453950628	-294.050054489948
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	7	2	146.004138628167	-293.899144240013
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	7	3	146.853747503769	-317.082139938934
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	7	4	140.628977929647	-315.430670460085
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	7	5	138.024737597617	-298.725421500963
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	8	1	147.404920061859	-304.689861472523
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	8	2	147.598539163263	-316.872388273578
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	8	3	149.821647875781	-317.666355670906
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	8	4	155.935196835206	-315.840230657052
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	8	5	157.126147931198	-304.804083834193
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	9	1	156.67660872067	-315.786548201314
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	9	2	157.840718588793	-304.804083834193
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	9	3	159.428653383449	-300.993040327019
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	9	4	168.003501274591	-304.486496875262
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	9	5	163.71607732902	-315.52264369812
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	9	6	159.298955019598	-315.580014158407
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	10	1	164.696326717393	-315.064676293621
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	10	2	168.693078235718	-304.582629858768
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	10	3	177.365274926423	-283.769357801076
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	10	4	182.456942052665	-270.965298117203
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	10	5	187.37407294514	-268.663662380301
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	10	6	187.879080473537	-278.645808123225
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	10	7	176.014660951405	-306.585468433501
+"Meristem.Stele Initial"	"Meristem"	"Stele Initial"	10	8	168.543136235441	-313.409751944749
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	11	1	112.577322556061	-339.599103749601
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	11	2	113.346143295469	-333.558369368544
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	11	3	119.716372279129	-324.222688961456
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	11	4	133.555145588459	-327.73729805589
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	11	5	130.589694165031	-335.096010847359
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	11	6	130.040536494026	-342.235060570426
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	11	7	120.375361484335	-342.564555173029
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	12	1	131.598600162873	-342.395449477513
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	12	2	131.399359284504	-335.222777856221
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	12	3	134.587213338412	-328.149726674114
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	12	4	149.23141789855	-330.44099677536
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	12	5	149.430658776919	-345.981785288159
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	12	6	139.667855736827	-345.085201335498
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	13	1	150.440507563161	-330.485673068457
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	13	2	167.599986014491	-328.209865919745
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	13	3	170.95957189645	-344.628487246092
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	13	4	159.765999927826	-345.604309573428
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	13	5	150.664756874049	-346.075228269224
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	14	1	168.519236834406	-327.938837073637
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	14	2	178.875729312893	-323.766075541042
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	14	3	183.802604375474	-331.759678958904
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	14	4	184.657266376126	-341.663703319398
+"Meristem.Columella Initial"	"Meristem"	"Columella Initial"	14	5	171.787062131016	-344.328237792019
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	15	1	179.481170732304	-323.515934813717
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	15	2	184.384290434013	-331.567846984414
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	15	3	187.578065652558	-330.173381748148
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	15	4	197.474270555091	-322.121469577451
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	15	5	187.873374049069	-314.948300972608
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	16	1	112.796158484669	-332.63356940887
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	16	2	104.970482330005	-327.371814644456
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	16	3	108.826557008799	-317.561745740145
+"Meristem.Epidermis Initial"	"Meristem"	"Epidermis Initial"	16	4	118.301852625442	-323.971504539639
+"Columella.Columella"	"Columella"	"Columella"	17	1	105.782732503297	-350.398825980558
+"Columella.Columella"	"Columella"	"Columella"	17	2	111.68833069398	-340.970590272625
+"Columella.Columella"	"Columella"	"Columella"	17	3	120.287710515502	-343.560764917662
+"Columella.Columella"	"Columella"	"Columella"	17	4	130.130374166641	-343.146336974456
+"Columella.Columella"	"Columella"	"Columella"	17	5	128.576269379619	-358.376563887271
+"Columella.Columella"	"Columella"	"Columella"	17	6	125.882487748781	-380.444851862984
+"Columella.Columella"	"Columella"	"Columella"	17	7	109.408977006348	-372.985148885278
+"Columella.Columella"	"Columella"	"Columella"	18	1	131.062837038855	-343.146336974456
+"Columella.Columella"	"Columella"	"Columella"	18	2	139.24778891717	-345.840118605294
+"Columella.Columella"	"Columella"	"Columella"	18	3	149.504880511516	-347.290616406514
+"Columella.Columella"	"Columella"	"Columella"	18	4	148.261596681898	-381.480921720998
+"Columella.Columella"	"Columella"	"Columella"	18	5	126.814950620995	-380.859279806189
+"Columella.Columella"	"Columella"	"Columella"	19	1	150.644557355332	-347.187009420713
+"Columella.Columella"	"Columella"	"Columella"	19	2	149.194059554111	-381.273707749395
+"Columella.Columella"	"Columella"	"Columella"	19	3	170.433491643412	-380.444851862984
+"Columella.Columella"	"Columella"	"Columella"	19	4	171.158740544022	-345.425690662088
+"Columella.Columella"	"Columella"	"Columella"	20	1	172.151518217571	-345.091998480136
+"Columella.Columella"	"Columella"	"Columella"	20	2	185.011599550964	-342.330631322659
+"Columella.Columella"	"Columella"	"Columella"	20	3	190.771022479417	-355.900778496546
+"Columella.Columella"	"Columella"	"Columella"	20	4	189.982060434423	-357.87318360903
+"Columella.Columella"	"Columella"	"Columella"	20	5	185.011599550964	-368.524171216441
+"Columella.Columella"	"Columella"	"Columella"	20	6	171.520348581576	-377.202753711369
+"Columella.Columella"	"Columella"	"Columella"	21	1	93.7065084259269	-384.31284963939
+"Columella.Columella"	"Columella"	"Columella"	22	1	92.544857495027	-383.925632662424
+"Columella.Columella"	"Columella"	"Columella"	22	2	107.839928085209	-374.051599749774
+"Columella.Columella"	"Columella"	"Columella"	22	3	125.071083560225	-382.183156266074
+"Columella.Columella"	"Columella"	"Columella"	22	4	120.037262859658	-423.228155824538
+"Columella.Columella"	"Columella"	"Columella"	22	5	111.324880877909	-415.290207796721
+"Columella.Columella"	"Columella"	"Columella"	22	6	102.999715873126	-413.354122911888
+"Columella.Columella"	"Columella"	"Columella"	22	7	96.80424424166	-402.318439068339
+"Columella.Columella"	"Columella"	"Columella"	22	8	93.7065084259269	-394.76770801749
+"Columella.Columella"	"Columella"	"Columella"	23	1	126.827546816992	-382.416478521883
+"Columella.Columella"	"Columella"	"Columella"	23	2	148.422071942122	-382.738784867035
+"Columella.Columella"	"Columella"	"Columella"	23	3	148.422071942122	-402.399471921257
+"Columella.Columella"	"Columella"	"Columella"	23	4	147.777459251819	-418.192482833665
+"Columella.Columella"	"Columella"	"Columella"	23	5	146.165927526063	-430.278970776835
+"Columella.Columella"	"Columella"	"Columella"	23	6	121.026032604271	-423.832843873811
+"Columella.Columella"	"Columella"	"Columella"	24	1	149.337709431351	-382.358132059553
+"Columella.Columella"	"Columella"	"Columella"	24	2	170.776075548739	-381.261851974004
+"Columella.Columella"	"Columella"	"Columella"	24	3	173.334062415019	-389.788474861602
+"Columella.Columella"	"Columella"	"Columella"	24	4	174.430342500567	-404.770969364095
+"Columella.Columella"	"Columella"	"Columella"	24	5	175.283004789327	-418.657183781039
+"Columella.Columella"	"Columella"	"Columella"	24	6	174.430342500567	-424.016775310386
+"Columella.Columella"	"Columella"	"Columella"	24	7	166.390955206546	-425.478482091117
+"Columella.Columella"	"Columella"	"Columella"	24	8	149.58132722814	-428.523704550973
+"Columella.Columella"	"Columella"	"Columella"	24	9	147.02334036186	-430.107220230099
+"Columella.Columella"	"Columella"	"Columella"	24	10	148.972282736168	-419.022610476222
+"Columella.Columella"	"Columella"	"Columella"	24	11	149.58132722814	-402.943835888181
+"Columella.Columella"	"Columella"	"Columella"	25	1	171.582058236981	-380.839249673453
+"Columella.Columella"	"Columella"	"Columella"	25	2	171.692542498563	-378.850532964975
+"Columella.Columella"	"Columella"	"Columella"	25	3	185.392590934741	-369.790823515244
+"Columella.Columella"	"Columella"	"Columella"	25	4	188.817603043786	-378.519080180229
+"Columella.Columella"	"Columella"	"Columella"	25	5	192.353099414413	-385.921525706229
+"Columella.Columella"	"Columella"	"Columella"	25	6	196.882954139278	-390.672348954258
+"Columella.Columella"	"Columella"	"Columella"	25	7	194.673268907637	-400.394963973482
+"Columella.Columella"	"Columella"	"Columella"	25	8	189.370024351697	-410.670000300616
+"Columella.Columella"	"Columella"	"Columella"	25	9	185.171622411577	-414.978886502317
+"Columella.Columella"	"Columella"	"Columella"	25	10	175.669975915518	-422.270847766735
+"Columella.Columella"	"Columella"	"Columella"	25	11	176.553850008174	-419.177288442437
+"Columella.Columella"	"Columella"	"Columella"	25	12	175.228038869189	-398.516731526587
+"Columella.Columella"	"Columella"	"Columella"	25	13	174.233680514951	-389.457022076855
+"Columella.Columella"	"Columella"	"Columella"	26	1	100.706118130738	-466.935579626986
+"Columella.Columella"	"Columella"	"Columella"	26	2	96.2364984633542	-453.247369395623
+"Columella.Columella"	"Columella"	"Columella"	26	3	89.5320689622787	-436.486295642935
+"Columella.Columella"	"Columella"	"Columella"	26	4	89.9510958060959	-428.385109995802
+"Columella.Columella"	"Columella"	"Columella"	26	5	94.1413642442681	-425.731273318293
+"Columella.Columella"	"Columella"	"Columella"	26	6	99.8680644431034	-419.306195046429
+"Columella.Columella"	"Columella"	"Columella"	26	7	102.382225506007	-414.417548535228
+"Columella.Columella"	"Columella"	"Columella"	26	8	110.762762382351	-416.792033983525
+"Columella.Columella"	"Columella"	"Columella"	26	9	119.702001717118	-424.474192786841
+"Columella.Columella"	"Columella"	"Columella"	26	10	119.282974873301	-434.810188267666
+"Columella.Columella"	"Columella"	"Columella"	26	11	119.00362364409	-449.75547903048
+"Columella.Columella"	"Columella"	"Columella"	26	12	119.841677331724	-463.862716105659
+"Columella.Columella"	"Columella"	"Columella"	26	13	119.702001717118	-477.411250722416
+"Columella.Columella"	"Columella"	"Columella"	27	1	120.520652571175	-424.906907648101
+"Columella.Columella"	"Columella"	"Columella"	27	2	146.078962805647	-431.626980597682
+"Columella.Columella"	"Columella"	"Columella"	27	3	146.850118717894	-439.669035111115
+"Columella.Columella"	"Columella"	"Columella"	27	4	146.519623326931	-444.846796236202
+"Columella.Columella"	"Columella"	"Columella"	27	5	146.960283848215	-462.142721696599
+"Columella.Columella"	"Columella"	"Columella"	27	6	147.731439760462	-472.938904468057
+"Columella.Columella"	"Columella"	"Columella"	27	7	147.731439760462	-482.413105675663
+"Columella.Columella"	"Columella"	"Columella"	27	8	147.51110949982	-484.726573412404
+"Columella.Columella"	"Columella"	"Columella"	27	9	142.00285298377	-482.853766196947
+"Columella.Columella"	"Columella"	"Columella"	27	10	137.706412901251	-480.98095898149
+"Columella.Columella"	"Columella"	"Columella"	27	11	129.333862996855	-478.997986635712
+"Columella.Columella"	"Columella"	"Columella"	27	12	120.520652571175	-477.455674811218
+"Columella.Columella"	"Columella"	"Columella"	27	13	121.181643353101	-461.812226305636
+"Columella.Columella"	"Columella"	"Columella"	27	14	120.079992049891	-449.694061970326
+"Columella.Columella"	"Columella"	"Columella"	28	1	147.210244904083	-431.445885410742
+"Columella.Columella"	"Columella"	"Columella"	28	2	149.717284732146	-429.252225561187
+"Columella.Columella"	"Columella"	"Columella"	28	3	174.47430303427	-424.708215872822
+"Columella.Columella"	"Columella"	"Columella"	28	4	174.866028007404	-435.206445152837
+"Columella.Columella"	"Columella"	"Columella"	28	5	174.552648028896	-445.312949459716
+"Columella.Columella"	"Columella"	"Columella"	28	6	173.982229605635	-468.774591679002
+"Columella.Columella"	"Columella"	"Columella"	28	7	172.806269266867	-477.107838139156
+"Columella.Columella"	"Columella"	"Columella"	28	8	164.340906631325	-479.478139677108
+"Columella.Columella"	"Columella"	"Columella"	28	9	155.549133755162	-482.608507146741
+"Columella.Columella"	"Columella"	"Columella"	28	10	148.391669462589	-484.990721897418
+"Columella.Columella"	"Columella"	"Columella"	28	11	148.624296936829	-481.754341027658
+"Columella.Columella"	"Columella"	"Columella"	28	12	148.750860583509	-472.658378931977
+"Columella.Columella"	"Columella"	"Columella"	28	13	147.805048693919	-462.74140475076
+"Columella.Columella"	"Columella"	"Columella"	28	14	147.336328662511	-444.890138037644
+"Columella.Columella"	"Columella"	"Columella"	28	15	147.665899791565	-439.584249931221
+"Columella.Columella"	"Columella"	"Columella"	29	1	175.333485072518	-423.78000002056
+"Columella.Columella"	"Columella"	"Columella"	29	2	186.786998586587	-415.512802296119
+"Columella.Columella"	"Columella"	"Columella"	29	3	186.87311522955	-420.335334302043
+"Columella.Columella"	"Columella"	"Columella"	29	4	188.423214802882	-426.191266023522
+"Columella.Columella"	"Columella"	"Columella"	29	5	191.092830734733	-431.788847816112
+"Columella.Columella"	"Columella"	"Columella"	29	6	194.020796595473	-437.128079679813
+"Columella.Columella"	"Columella"	"Columella"	29	7	196.60429588436	-441.261678542034
+"Columella.Columella"	"Columella"	"Columella"	29	8	197.120995742138	-442.811778115366
+"Columella.Columella"	"Columella"	"Columella"	29	9	193.10579208215	-454.736211829814
+"Columella.Columella"	"Columella"	"Columella"	29	10	185.519360297591	-469.330930078956
+"Columella.Columella"	"Columella"	"Columella"	29	11	183.507531448508	-470.767950685444
+"Columella.Columella"	"Columella"	"Columella"	29	12	176.466130476717	-475.222714565556
+"Columella.Columella"	"Columella"	"Columella"	29	13	174.023195445687	-476.372331050746
+"Columella.Columella"	"Columella"	"Columella"	29	14	175.095849519636	-468.779268899228
+"Columella.Columella"	"Columella"	"Columella"	29	15	175.272921404988	-459.256276672301
+"Columella.Columella"	"Columella"	"Columella"	29	16	175.770767236341	-447.403383189487
+"Columella.Columella"	"Columella"	"Columella"	29	17	175.661415353819	-435.058374851727
+"Columella.Columella"	"Columella"	"Columella"	30	1	84.4933137358041	-490.234666352752
+"Columella.Columella"	"Columella"	"Columella"	30	2	100.351296372436	-467.934378269988
+"Columella.Columella"	"Columella"	"Columella"	30	3	119.678212710831	-478.836741332673
+"Columella.Columella"	"Columella"	"Columella"	30	4	119.306541242785	-486.64184216164
+"Columella.Columella"	"Columella"	"Columella"	30	5	113.658934175921	-524.958958533992
+"Columella.Columella"	"Columella"	"Columella"	30	6	110.285495490334	-536.636246291792
+"Columella.Columella"	"Columella"	"Columella"	30	7	99.9056841500676	-522.623500982432
+"Columella.Columella"	"Columella"	"Columella"	30	8	90.8233492273342	-507.313279255538
+"Columella.Columella"	"Columella"	"Columella"	31	1	120.863664936359	-479.301269197795
+"Columella.Columella"	"Columella"	"Columella"	31	2	124.740162780824	-479.578161900971
+"Columella.Columella"	"Columella"	"Columella"	31	3	130.278016844346	-481.101071768439
+"Columella.Columella"	"Columella"	"Columella"	31	4	138.307905236452	-483.17776704226
+"Columella.Columella"	"Columella"	"Columella"	31	5	147.445364441263	-486.085140425609
+"Columella.Columella"	"Columella"	"Columella"	31	6	146.337793628558	-494.945706927243
+"Columella.Columella"	"Columella"	"Columella"	31	7	144.953330112678	-513.912857094805
+"Columella.Columella"	"Columella"	"Columella"	31	8	143.291973893621	-528.449724011549
+"Columella.Columella"	"Columella"	"Columella"	31	9	141.907510377741	-542.709698225117
+"Columella.Columella"	"Columella"	"Columella"	31	10	140.799939565037	-550.047354859283
+"Columella.Columella"	"Columella"	"Columella"	31	11	140.661493213449	-551.70871107834
+"Columella.Columella"	"Columella"	"Columella"	31	12	133.046943876106	-550.324247562459
+"Columella.Columella"	"Columella"	"Columella"	31	13	122.94036021018	-546.586196069582
+"Columella.Columella"	"Columella"	"Columella"	31	14	115.741149927601	-541.325234709236
+"Columella.Columella"	"Columella"	"Columella"	31	15	112.2799911379	-538.002522271124
+"Columella.Columella"	"Columella"	"Columella"	31	16	115.048918169661	-526.23458238614
+"Columella.Columella"	"Columella"	"Columella"	31	17	117.679398849834	-513.49751804004
+"Columella.Columella"	"Columella"	"Columella"	31	18	121.002111287947	-487.746496644665
+"Columella.Columella"	"Columella"	"Columella"	32	1	148.429557893028	-486.226098275638
+"Columella.Columella"	"Columella"	"Columella"	32	2	162.87067393169	-481.705401080927
+"Columella.Columella"	"Columella"	"Columella"	32	3	172.79109277564	-478.440453106968
+"Columella.Columella"	"Columella"	"Columella"	32	4	172.037643243188	-488.737596717144
+"Columella.Columella"	"Columella"	"Columella"	32	5	171.409768632811	-507.322685184292
+"Columella.Columella"	"Columella"	"Columella"	32	6	170.90746894451	-519.629027547673
+"Columella.Columella"	"Columella"	"Columella"	32	7	170.154019412058	-528.795996859172
+"Columella.Columella"	"Columella"	"Columella"	32	8	169.651719723757	-532.437669599356
+"Columella.Columella"	"Columella"	"Columella"	32	9	166.763496516025	-536.204917261615
+"Columella.Columella"	"Columella"	"Columella"	32	10	165.382172373196	-538.967565547272
+"Columella.Columella"	"Columella"	"Columella"	32	11	160.233600568108	-544.492862118586
+"Columella.Columella"	"Columella"	"Columella"	32	12	155.964053217547	-547.88338501462
+"Columella.Columella"	"Columella"	"Columella"	32	13	149.057432503405	-549.892583767825
+"Columella.Columella"	"Columella"	"Columella"	32	14	143.406561010015	-550.143733611976
+"Columella.Columella"	"Columella"	"Columella"	32	15	145.16460991907	-532.563244521431
+"Columella.Columella"	"Columella"	"Columella"	33	1	174.133807503734	-477.91318339964
+"Columella.Columella"	"Columella"	"Columella"	33	2	185.897634710553	-470.123610679682
+"Columella.Columella"	"Columella"	"Columella"	33	3	187.113874897386	-474.707900614667
+"Columella.Columella"	"Columella"	"Columella"	33	4	188.704342834013	-480.414873799038
+"Columella.Columella"	"Columella"	"Columella"	33	5	191.511050957474	-489.115668981766
+"Columella.Columella"	"Columella"	"Columella"	33	6	191.978835644718	-494.916199103585
+"Columella.Columella"	"Columella"	"Columella"	33	7	191.511050957474	-498.752033538982
+"Columella.Columella"	"Columella"	"Columella"	33	8	189.359241396154	-504.833234473147
+"Columella.Columella"	"Columella"	"Columella"	33	9	179.961293248551	-519.322073742533
+"Columella.Columella"	"Columella"	"Columella"	33	10	172.500814964233	-528.602180876685
+"Columella.Columella"	"Columella"	"Columella"	33	11	172.695747934678	-509.379211273868
+"Columella.Columella"	"Columella"	"Columella"	33	12	173.428199268991	-485.615234649492
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	34	1	192.249886306482	-354.449181800164
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	34	2	185.722503875833	-341.763891416072
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	34	3	185.229871239558	-334.251243712872
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	34	4	199.146743214338	-323.413325714813
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	34	5	206.043600122194	-328.585968395705
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	34	6	207.52149803102	-334.374401871941
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	34	7	201.733064554784	-347.921799369515
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	35	1	203.21096246361	-348.291273846721
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	35	2	208.62992146264	-334.867034508216
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	35	3	208.62992146264	-329.817549986393
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	35	4	220.083630256043	-333.142820281252
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	35	5	223.65521686904	-334.251243712872
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	35	6	214.664671257014	-357.03550314061
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	36	1	217.743625233735	-354.326023641095
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	36	2	224.886798459729	-333.265978440321
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	36	3	233.261553276411	-316.516468806957
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	36	4	247.794216046536	-317.994366715783
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	36	5	243.976313115401	-334.990192667285
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	36	6	233.015236958273	-362.577620298708
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	37	1	197.555359385883	-389.871786869055
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	37	2	193.554720478358	-385.394881424919
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	37	3	186.410722429206	-368.820805950887
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	37	4	192.221174175849	-355.961609462413
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	37	5	202.413278059306	-349.008118027905
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	37	6	213.748421630627	-358.914461989396
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	37	7	206.604423581475	-382.15626897597
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	38	1	207.366450040052	-383.013548741869
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	38	2	215.081967933136	-358.62870206743
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	38	3	216.415514235644	-354.818569774549
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	38	4	232.418069865745	-363.486620740853
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	38	5	229.84623056805	-374.15499116092
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	38	6	224.22628543605	-388.72874718119
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	38	7	222.79748582622	-393.110399318003
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	38	8	219.939886606559	-397.301544840173
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	1	223.940525514084	-393.300905932647
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	2	231.27503017788	-374.536004390208
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	3	233.561109553609	-363.867633970141
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	4	234.894655856117	-361.200541365125
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	5	242.324413827235	-365.772700116582
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	6	242.610173749202	-370.535365482683
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	7	240.324094373473	-381.775255746682
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	8	235.46617570005	-397.206291532851
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	39	9	234.037376090219	-400.349650674477
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	1	198.519940626077	-441.155423613506
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	2	189.162098307003	-426.068290078671
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	3	188.780145559286	-419.766069741336
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	4	188.493680998498	-414.323243086364
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	5	190.390877881886	-411.08217930909
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	6	195.794775074682	-401.142868400913
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	7	198.615891766233	-391.740822859624
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	8	205.904348898115	-385.426715261141
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	9	219.485606179492	-399.164078948051
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	10	218.705074151826	-404.471696736175
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	11	214.021881985834	-420.550656506081
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	40	12	209.494796225375	-428.512083188268
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	1	210.259079818721	-429.00886498835
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	2	214.550081447675	-421.705032428429
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	3	219.388870518622	-405.271409168607
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	4	221.306126565601	-398.971853585676
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	5	223.223382612581	-394.498256142724
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	6	233.722641917467	-402.532471958637
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	7	233.357450289471	-406.366984052595
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	8	227.696980055532	-418.87479731146
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	9	221.580020286598	-433.391164524302
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	41	10	219.480168425621	-436.495293362269
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	1	187.034796691909	-469.058051928474
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	2	194.740350113673	-454.487550912775
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	3	198.242874396294	-443.279473208391
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	4	209.731154043287	-430.390183848349
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	5	218.697616206794	-437.955636298808
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	6	217.99711135027	-444.400280978829
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	7	214.214385125041	-454.767752855384
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	8	210.711860842421	-466.396133473683
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	9	204.127115191095	-478.5849179772
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	10	193.75964331454	-493.996024820729
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	42	11	192.638835544101	-486.850875284184
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	43	1	200.118234833607	-322.636036247021
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	43	2	213.211347266222	-303.135199959399
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	43	3	219.780506815075	-305.595400529749
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	43	4	207.546204248829	-329.627066284876
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	43	5	205.973222490311	-326.568490643315
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	44	1	209.556125384712	-328.927963281091
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	44	2	220.566997694334	-306.207115658061
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	44	3	223.450797584949	-305.508012654276
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	44	4	232.451748758688	-315.645006209166
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	44	5	223.800349086842	-333.122581303804
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	45	1	224.740769024204	-304.805587851426
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	45	2	225.623836878916	-298.329756916871
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	45	3	233.129913643969	-277.87201828271
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	45	4	243.285193973157	-277.283306379569
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	45	5	244.168261827868	-289.351900393966
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	45	6	240.635990409021	-301.273316432578
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	45	7	233.865803522895	-315.108046156399
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	46	1	245.282116008605	-289.973840884759
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	46	2	254.568708190663	-291.250747309792
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	46	3	252.130977742873	-301.001669100952
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	46	4	248.996752881428	-315.860216592245
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	46	5	247.835928858671	-317.021040615002
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	46	6	234.718617401514	-315.395886983142
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	46	7	239.826243101646	-306.22537720336
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	47	1	235.642127045753	-360.399038702522
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	47	2	245.537859415129	-335.571353025786
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	47	3	249.955597080028	-338.310350378024
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	47	4	252.341175419074	-339.547316924195
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	47	5	247.393309234386	-356.511429557411
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	47	6	243.505700089275	-365.523614393806
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	48	1	245.870642284126	-334.666167594039
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	48	2	249.052803747444	-317.479643703222
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	48	3	255.343370612201	-297.383328867691
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	48	4	261.268465399888	-296.536886755164
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	48	5	259.01128643315	-307.54063421801
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	48	6	255.907665353886	-319.108676422541
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	48	7	252.67550782026	-338.437353397111
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	49	1	233.057399796429	-277.080696903798
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	49	2	234.387774159564	-270.670711335967
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	49	3	243.700394701507	-243.579451577586
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	49	4	255.069048350114	-239.951157859946
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	49	5	255.915650217563	-246.240200303856
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	49	6	249.263778401889	-262.083749537552
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	49	7	243.700394701507	-276.113151912427
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	50	1	245.131663500391	-288.698281584468
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	50	2	244.417456646553	-276.794834020512
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	50	3	256.87639843016	-246.1632956226
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	50	4	261.796490089928	-246.956858793531
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	50	5	260.606145333533	-258.780950040393
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	50	6	256.479616844695	-285.285959949467
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	50	7	254.813134185741	-290.285407926329
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	51	1	254.892490502834	-296.395844342492
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	51	2	257.511248966904	-285.682741534932
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	51	3	261.769949458502	-259.652754784784
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	51	4	262.616827327989	-245.848645512142
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	51	5	264.790890540978	-234.592207614191
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	51	6	272.156422962146	-239.37980368795
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	51	7	269.33368515173	-252.648291386005
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	51	8	261.586083965145	-295.757250876204
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	52	1	257.266094197101	-244.947416648463
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	52	2	256.360189125516	-239.651934997644
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	52	3	263.869975917597	-208.331997628528
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	52	4	269.5642610623	-208.502697850354
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	52	5	266.140767086143	-217.916039797182
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	52	6	263.960100303348	-233.821735521902
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	52	7	261.174475226899	-246.014319719285
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	1	265.244203742341	-233.76909489158
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	2	267.015181733943	-218.232787965246
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	3	270.637636716767	-208.49240901143
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	4	276.082502896905	-190.160121095954
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	5	280.138924355319	-178.35962230784
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	6	282.474439740467	-163.117311373194
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	7	284.420799371319	-170.051590610035
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	8	275.207167842389	-221.327453031907
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	53	9	272.281140869955	-238.73467875502
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	54	1	264.226777663003	-206.172046719881
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	54	2	263.190086039019	-197.360167916015
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	54	3	272.779483560874	-179.247188917113
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	54	4	278.383093851837	-179.412626685096
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	54	5	269.669408688921	-207.736271562841
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	1	272.978427451557	-178.355026335779
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	2	273.971834876723	-169.201254174382
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	3	274.618566856367	-147.616574353761
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	4	279.223705171857	-138.720983882098
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	5	281.259976494897	-134.266640362948
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	6	284.187116521767	-135.030242109088
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	7	284.314383479457	-145.720666555048
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	8	282.405379114107	-155.774756212558
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	9	281.259976494897	-163.538040631648
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	10	280.814590240849	-168.227101744724
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	11	279.50632824192	-173.844932681304
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	55	12	278.582849183852	-178.462327971644
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	56	1	281.484031968391	-133.717845510588
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	56	2	283.039022886424	-122.122788504196
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	56	3	283.932293021773	-112.807257092696
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	56	4	288.39864369852	-108.468516435284
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	56	5	284.221111621162	-134.478524794724
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	1	284.822555432435	-168.601857526096
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	2	282.53087969907	-160.99022026885
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	3	285.149937680058	-145.685100192452
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	4	285.231783241964	-135.045177144689
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	5	289.440462190951	-107.807783488128
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	6	292.450343911722	-93.8495431029513
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	7	295.057275664582	-77.2599774029347
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	8	291.672002857017	-116.83794128726
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	57	9	287.294254596071	-147.884128525863
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	1	84.1299022506847	-489.246728329602
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	2	77.791108550574	-472.457897247663
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	3	73.0645601829442	-458.869070690728
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	4	70.7012859991293	-443.704728011249
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	5	87.9632406111429	-435.581883917782
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	6	89.0005947105039	-436.853906532348
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	7	90.598450988969	-440.768654414587
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	8	94.8988255715849	-451.860504218926
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	9	97.5377233949659	-460.99515053063
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	10	99.6691408676967	-467.186410808562
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	11	94.0837831025188	-475.022395903544
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	58	12	89.5160796772299	-481.119315195274
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	59	1	70.2807053503528	-442.408029833631
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	59	2	61.5406689157576	-418.710817644986
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	59	3	76.2275342646134	-410.331195083983
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	59	4	89.2925371823072	-427.000336737592
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	59	5	88.4816059667262	-434.208614209423
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	59	6	79.2009487217437	-437.812752945339
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	60	1	61.1265917327686	-417.26353320021
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	60	2	57.399360529551	-405.150031789753
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	60	3	53.1130446458507	-392.850168819135
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	60	4	64.8538229359862	-386.513875773665
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	60	5	66.8106193176754	-388.097949035032
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	60	6	76.3150588858803	-406.73410505112
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	60	7	75.9423357655585	-409.436347673453
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	61	1	52.5199180977305	-390.457069003726
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	61	2	46.2253960785268	-364.492165674511
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	61	3	43.2748388820251	-346.985526308601
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	61	4	52.1265104715302	-342.264634794199
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	61	5	64.9122583230376	-375.114171581918
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	61	6	64.7155545099375	-384.752658423823
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	1	27.9207316976413	-273.749128824994
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	2	32.1193379679633	-270.810104435769
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	3	41.1463414491556	-287.604529517057
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	4	43.2456445843166	-304.189024284829
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	5	48.0740417951869	-323.082752501278
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	6	50.8031358708962	-333.369337863567
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	7	51.6428571249606	-340.506968523114
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	8	42.8257839572844	-345.125435420468
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	9	36.3179442382853	-320.563588739085
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	62	10	30.2299651463184	-289.703832652218
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	1	14.0437746007896	-196.205778480596
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	2	18.9285657662816	-195.391646619681
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	3	19.7426976271969	-204.550630054978
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	4	22.5921591404006	-215.337877212107
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	5	23.6098239665448	-226.735723264921
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	6	26.0522195492908	-242.61129455277
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	7	29.9193458886386	-259.708063631992
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	8	31.7511425756981	-264.389321832256
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	9	32.1582085061558	-268.663514102061
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	10	31.8530325495837	-270.20544380516
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	11	27.8259590753606	-273.197783122812
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	12	26.6234301906968	-268.471564948203
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	13	24.2362243950754	-258.28890569609
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	14	19.9009051555782	-236.307603356803
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	63	15	16.2711803158816	-214.278928467609
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	64	1	13.889698022289	-195.362557834898
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	64	2	11.9003305887554	-170.104725474563
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	64	3	9.80027224956329	-140.703908725873
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	64	4	6.30017501757641	-103.042862509694
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	64	5	10.0802800281222	-125.023473126572
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	64	6	12.8803578137118	-150.784188753995
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	64	7	16.6604628242576	-176.544904381419
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	64	8	18.9005250527292	-194.525714052418
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	65	1	11.0449970074617	-125.176632751233
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	65	2	17.1811064560516	-143.278155624573
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	65	3	19.6355502354875	-151.715306116384
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	65	4	20.4025639165612	-161.226275761698
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	65	5	15.4074924388749	-161.782318632354
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	65	6	13.6862105851498	-151.053135679543
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	65	7	12.2278438834535	-138.544836661148
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	1	15.3545138184913	-162.610145107853
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	2	20.6272917236929	-161.786273560165
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	3	20.7920660332305	-166.729502846292
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	4	22.0278733547621	-176.368799954239
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	5	25.4057467002819	-187.491065848023
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	6	26.8887154861199	-197.459911575045
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	7	20.043054856369	-199.613938261874
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	8	19.5583455488256	-194.879556162591
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	66	9	17.8251715192793	-180.438269565824
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	1	20.3145246267653	-204.178188197828
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	2	20.1423676384029	-200.218577465492
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	3	27.2868826554433	-198.066615110962
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	4	30.2135514576044	-203.919952715284
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	5	32.107278329591	-211.150546226506
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	6	32.1933568237722	-215.110156958841
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	7	27.9755106088929	-217.089962325009
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	8	23.5855074056513	-218.55329672609
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	67	9	23.4133504172888	-215.196235453022
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	68	1	25.3931557834567	-232.928405254352
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	68	2	24.1019783707385	-225.956047225674
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	68	3	23.7576643940137	-219.241924679539
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	68	4	28.0615891030741	-217.950747266821
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	68	5	32.7098277888594	-215.970941900653
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	68	6	36.7555170153762	-222.512907458425
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	68	7	37.5302234630071	-230.518207417278
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	68	8	31.6768858586849	-230.862521394003
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	1	32.2398355918828	-263.229655331405
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	2	30.5941827310443	-259.41473279037
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	3	26.8540625927748	-242.658994570923
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	4	25.358014537467	-233.682706239076
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	5	31.9406259808213	-231.588238961646
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	6	37.850015799287	-231.51343655888
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	7	40.3184950905449	-238.395257613296
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	8	42.3381599652104	-246.473917111958
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	9	44.8814416592336	-253.206133360843
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	10	46.8263041311338	-255.300600638274
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	11	46.9011065338992	-259.339930387605
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	12	40.9917167154334	-259.26512798484
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	69	13	36.4287701467446	-260.23755922079
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	1	32.3846650713319	-270.163962667147
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	2	32.6764188107133	-268.996947709622
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	3	32.4430158192082	-264.32888787952
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	4	36.6442696662999	-260.769492259067
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	5	40.9622250091441	-260.010932536676
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	6	46.7972997967715	-260.185984780304
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	7	49.8315386863377	-266.137761063684
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	8	52.0488671056361	-279.791836066732
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	9	52.9241283237802	-283.409582435061
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	70	10	41.5637080935599	-287.323431637591
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	71	1	49.8335881525762	-325.247989496977
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	71	2	44.0524294341799	-303.395209541439
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	71	3	42.0868354699252	-288.595443222344
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	71	4	53.302283383614	-284.433008945099
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	71	5	55.9616163940763	-290.561037186599
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	71	6	62.3208909843123	-314.148164757656
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	71	7	63.4771227279915	-322.473033312147
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	71	8	56.8866017890197	-322.357410137779
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	72	1	66.2199410481669	-374.430579709309
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	72	2	52.6880400513676	-341.320609185225
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	72	3	51.6803452962868	-333.115094750996
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	72	4	50.0968249668741	-326.349144252596
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	72	5	57.4386010396056	-323.61397277452
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	72	6	64.2045515380053	-324.189798348852
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	72	7	79.3199728642173	-358.883289202348
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	72	8	81.047449587213	-369.967931508237
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	1	65.6100232531924	-385.321215700403
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	2	66.0820378089707	-375.408910029058
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	3	81.3962878408909	-370.478980224261
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	4	91.9903923150275	-383.538049600796
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	5	92.8584811761101	-394.297399481415
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	6	95.9797746610213	-403.193085913412
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	7	101.988264619476	-413.649419087865
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	8	99.0230358088098	-418.877585675091
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	9	94.6532249299341	-424.105752262318
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	10	90.2834140510583	-426.758851724492
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	11	77.0179167401854	-409.903866905972
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	12	77.0179167401854	-406.236347061201
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	73	13	67.9661656339428	-387.898747837347
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	74	1	82.3716322520937	-369.309579159663
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	74	2	80.4031925107752	-359.013125128151
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	74	3	96.6049657662422	-346.748231355321
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	74	4	104.478724731516	-350.533692396318
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	74	5	107.507093564313	-372.4893664341
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	74	6	92.6680862836054	-382.482983582332
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	75	1	65.2613483467874	-323.732628226059
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	75	2	82.3716322520937	-321.915606926381
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	75	3	91.7595756337661	-334.78617446577
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	75	4	96.1507104413226	-345.536883822202
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	75	5	80.1003556274955	-357.347522270112
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	76	1	92.7997288617325	-334.874636475753
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	76	2	96.9082200200523	-345.374113880348
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	76	3	104.864345755211	-349.743461620148
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	76	4	111.581402728337	-340.222196396106
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	76	5	111.450974437597	-333.048640405388
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	76	6	104.007900713759	-327.500851965036
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	77	1	83.2690010521088	-321.12154366135
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	77	2	85.0003367175487	-317.576427774974
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	77	3	93.4921259337539	-316.092425776025
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	77	4	103.632806259902	-326.975107101647
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	77	5	92.5027912677882	-333.900449763407
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	78	1	56.9323953446069	-290.604415294357
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	78	2	71.021725505646	-285.524588773711
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	78	3	73.0344869572231	-288.399962275963
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	78	4	84.3442893994177	-316.770314164858
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	78	5	82.5232195146575	-320.604145501196
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	78	6	64.6000580172813	-322.80859851959
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	78	7	63.5457543997886	-314.470015363056
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	1	47.5908840373324	-259.567747435058
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	2	47.5908840373324	-255.619158803139
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	3	55.2109673620872	-257.281722437631
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	4	63.2466915954651	-257.489542891943
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	5	64.493614321334	-262.962148188812
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	6	66.848912803531	-271.967701208977
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	7	67.8880150750884	-277.371033021076
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	8	70.8667749202199	-284.436928467667
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	9	65.463443108121	-286.653679980323
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	10	58.0511802376777	-289.355345886372
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	11	56.6657105422677	-289.770986794995
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	12	53.6176772123658	-283.46709968088
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	13	52.0243870626443	-273.76881181301
+"Lateral Root Cap.Lateral Root Cap"	"Lateral Root Cap"	"Lateral Root Cap"	79	14	50.5003703976934	-265.802361064402
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	80	1	188.507548887724	-314.234607697121
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	80	2	198.494432646911	-321.400103397888
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	80	3	212.452920759149	-302.709924400146
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	80	4	204.882215342342	-296.913603065403
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	80	5	199.913939912562	-300.225786685256
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	80	6	193.999326305681	-309.097707095577
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	1	205.303872078426	-296.38836812456
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	2	215.125283393305	-270.707196316025
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	3	216.94406326643	-268.961167637824
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	4	223.782675589383	-269.90693317185
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	5	233.676838099186	-270.48894273125
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	6	232.294565395611	-277.473057444053
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	7	224.801192318333	-297.69788963321
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	8	223.709924394458	-304.318248371388
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	9	220.654374207607	-305.264013905413
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	81	10	213.088249935404	-302.062961328712
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	82	1	217.24914773948	-268.063570761683
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	82	2	221.064999280572	-258.07875922916
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	82	3	223.007530889377	-242.70133444314
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	82	4	225.699489648524	-239.442647524172
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	82	5	240.434421803858	-241.709560163454
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	82	6	242.70133444314	-242.98469852305
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	82	7	233.492001846056	-269.620922034615
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	82	8	224.216091207504	-269.377105921683
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	83	1	226.364127934466	-238.259396465273
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	83	2	229.691970916299	-230.258412274909
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	83	3	229.904386425777	-227.213789972381
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	83	4	233.019813898132	-221.053740197498
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	83	5	259.996583601926	-220.062467819931
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	83	6	255.465052733047	-238.68422748423
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	83	7	243.56978420224	-242.507706654847
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	83	8	241.162408428148	-240.737577409191
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	84	1	233.218115555696	-219.78625804552
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	84	2	232.695352805035	-214.164437337057
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	84	3	234.548444351833	-207.546253241351
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	84	4	234.548444351833	-199.604432326503
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	84	5	236.666263262459	-196.162976596736
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	84	6	261.815362826143	-197.221886052049
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	84	7	262.344817553799	-207.016798513694
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	84	8	259.641689824441	-218.727348590207
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	85	1	236.918718449791	-195.241862430638
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	85	2	238.694720836971	-189.321854473372
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	85	3	238.576320677826	-182.336245083798
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	85	4	243.430727202784	-174.16663410277
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	85	5	272.675566511679	-171.680230760718
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	85	6	272.201965875098	-178.429039832002
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	85	7	262.374752666036	-196.307463862946
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	86	1	243.78592768022	-173.101032670462
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	86	2	243.78592768022	-155.6962092761
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	86	3	273.741167943987	-147.526598295073
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	86	4	273.267567307406	-168.483426463795
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	86	5	272.438766193388	-170.614629328411
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	87	1	243.861239363937	-154.537928966953
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	87	2	244.451293613022	-137.073271540052
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	87	3	249.677657519228	-131.371783642372
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	87	4	280.853818369599	-131.598237756335
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	87	5	280.809324992657	-133.870916806629
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	87	6	273.626555935997	-146.412998128297
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	88	1	250.007100577564	-130.390443616144
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	88	2	248.073343998511	-123.346044649594
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	88	3	246.553963829255	-119.064155081691
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	88	4	250.559602457293	-114.644140043855
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	88	5	282.6047114816	-113.401010814464
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	88	6	281.914084131938	-121.826664480338
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	88	7	280.892117103756	-130.860177846792
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	89	1	251.168724917942	-113.620017809463
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	89	2	251.498775804825	-99.262804230054
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	89	3	252.818979352357	-95.7972699177827
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	89	4	291.104882230782	-94.8896299788546
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	89	5	288.546987857439	-107.184025515245
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	89	6	282.771097336987	-112.547352427094
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	90	1	252.927837518178	-94.3911062785828
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	90	2	249.777266547598	-85.6955303997814
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	90	3	255.322271455819	-79.6464341362674
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	90	4	293.633214458074	-77.8821143927425
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	90	5	290.986734842787	-93.7609920844667
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	91	1	255.70447026189	-78.7358916621364
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	91	2	254.220785024948	-69.2938144283578
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	91	3	255.368508659372	-66.5679707966004
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	91	4	293.673784958278	-65.5637126164793
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	91	5	294.069949089496	-68.2078018507822
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	91	6	293.94161832402	-74.2393478281796
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	91	7	293.749122175805	-77.0626246686636
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	92	1	255.633935981359	-65.7191266505653
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	92	2	254.330853108446	-55.3032954926078
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	92	3	258.028457167545	-46.3004334356716
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	92	4	295.165263152407	-45.6573718601762
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	92	5	293.557609213668	-64.5937688934483
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	93	1	93.9910755793161	-315.735363994779
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	93	2	99.9856929146997	-310.815253540266
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	93	3	104.057508463262	-310.928359527726
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	93	4	108.468641974205	-316.640211894459
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	93	5	104.340273431912	-326.932856753325
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	1	74.3677428601451	-288.355507813305
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	2	87.4542995527677	-285.828448589902
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	3	90.5228714668999	-289.980045885493
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	4	93.5011912659106	-298.283240476674
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	5	103.248419699036	-310.106267557595
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	6	100.089595669783	-310.196519672717
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	7	93.3206870356675	-314.979881774158
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	8	85.0174924444863	-316.604419846346
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	94	9	80.5048866884095	-304.420384304939
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	95	1	74.1261319088949	-287.320759080495
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	95	2	71.9707576561711	-284.977960979709
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	95	3	68.597128391038	-277.387295133159
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	95	4	63.9115321894644	-257.239231466393
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	95	5	76.6045215762401	-255.587911075643
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	95	6	82.7476289197904	-267.172695413729
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	95	7	87.2451668441553	-285.198102470456
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	1	41.1395346498165	-238.028287039941
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	2	70.565078795699	-238.59055858413
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	3	75.9066584654929	-249.648565619843
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	4	76.3752180856503	-254.802721441574
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	5	63.442972569307	-256.583247998172
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	6	55.102611330506	-256.583247998172
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	7	48.0742170281455	-254.709009517543
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	8	45.6377070033272	-252.741059112882
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	96	9	43.2011969785089	-246.087512506647
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	97	1	41.0635354476365	-237.09728293244
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	97	2	38.3854787880081	-230.848484059974
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	97	3	37.4035246794776	-222.457239859805
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	97	4	64.808971163009	-221.386017195953
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	97	5	68.290444820526	-224.242610966224
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	97	6	70.5221587035497	-237.722162819687
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	98	1	37.2474139808147	-221.663730408172
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	98	2	32.9296271646029	-215.056996364089
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	98	3	32.7735625808844	-210.84325260369
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	98	4	30.8487660483563	-204.132475503794
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	98	5	64.03850085249	-204.288540087513
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	98	6	65.599146689675	-208.086111624663
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	98	7	64.9228668268949	-220.675321377955
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	99	1	30.7375673754068	-203.477615435544
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	99	2	27.6384076896219	-197.330101960463
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	99	3	26.1514313028451	-187.021040102882
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	99	4	58.8332281334232	-187.067310869831
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	99	5	65.0823534014811	-196.161566341232
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	99	6	64.1170413682038	-203.680839021497
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	100	1	26.069270780363	-186.155434135621
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	100	2	22.8336621101535	-176.39337805563
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	100	3	22.0324809834815	-169.316278103361
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	100	4	57.4179807448305	-167.446855474459
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	100	5	61.5574165659694	-170.651579981147
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	100	6	61.1568260026334	-182.402236505671
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	100	7	58.8868128103959	-185.874021387916
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	101	1	22.0345014289564	-168.43823575558
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	101	2	21.0732647894382	-161.265931599175
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	101	3	20.4077932697717	-151.653565203992
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	101	4	22.4781491087341	-150.174739604733
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	101	5	55.038037279564	-150.320049665946
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	101	6	57.8220809310199	-153.35421464314
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	101	7	58.1178460508717	-165.554525837025
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	101	8	57.3044919712793	-166.737586316432
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	102	1	20.1239840235501	-150.563556317774
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	102	2	14.5824916400256	-132.270677375873
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	102	3	51.461829471885	-129.490951405355
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	102	4	54.3153534770183	-135.001204656647
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	102	5	57.9560565180503	-144.644147846407
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	102	6	54.9057377539424	-149.564016820775
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	102	7	22.7297946615783	-148.875235164363
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	103	1	14.3120272708145	-131.242765540098
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	103	2	11.1397738035721	-123.053925194426
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	103	3	8.70525370080469	-111.471511372169
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	103	4	49.7970021020608	-110.438684661904
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	103	5	52.8217088964081	-119.660351717841
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	103	6	53.9283089431206	-126.299951998116
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	103	7	51.7151088496957	-128.660698764435
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	104	1	8.65161754723908	-110.014395971065
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	104	2	6.62222577689904	-96.5563242309151
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	104	3	50.9484144448523	-93.2452113424656
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	104	4	50.093933699446	-109.266725318834
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	105	1	6.68677775969482	-95.2159480993163
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	105	2	5.65079810678436	-79.9587932109986
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	105	3	44.7354850120428	-75.6265146624639
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	105	4	48.8794036236846	-78.7344536211953
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	105	5	50.7630029926128	-92.2021891090313
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	106	1	5.52070983563011	-78.4900920109153
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	106	2	3.84049379869921	-63.3681476785371
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	106	3	43.805632391413	-58.8075612925818
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	106	4	45.9659101531813	-61.2078699167688
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	106	5	45.7258792907626	-73.0893976064945
+"Epidermis.Epidermis"	"Epidermis"	"Epidermis"	106	6	44.7657558410878	-74.6495982122161
+"Cortex.Cortex"	"Cortex"	"Cortex"	107	1	183.603529272903	-309.566348276928
+"Cortex.Cortex"	"Cortex"	"Cortex"	107	2	187.44883272076	-313.994273459308
+"Cortex.Cortex"	"Cortex"	"Cortex"	107	3	193.597545272943	-308.507981555734
+"Cortex.Cortex"	"Cortex"	"Cortex"	107	4	198.546871180254	-300.546022487451
+"Cortex.Cortex"	"Cortex"	"Cortex"	107	5	190.871829555873	-296.098802106968
+"Cortex.Cortex"	"Cortex"	"Cortex"	107	6	186.496338536366	-306.284371365493
+"Cortex.Cortex"	"Cortex"	"Cortex"	108	1	199.254753947646	-299.545293184992
+"Cortex.Cortex"	"Cortex"	"Cortex"	108	2	191.296806785375	-295.158219749381
+"Cortex.Cortex"	"Cortex"	"Cortex"	108	3	192.215031457944	-288.628622077773
+"Cortex.Cortex"	"Cortex"	"Cortex"	108	4	194.663630584797	-279.140300461218
+"Cortex.Cortex"	"Cortex"	"Cortex"	108	5	197.826404456982	-271.590453153422
+"Cortex.Cortex"	"Cortex"	"Cortex"	108	6	215.782798053902	-268.835779135713
+"Cortex.Cortex"	"Cortex"	"Cortex"	108	7	214.048373672382	-270.774253444471
+"Cortex.Cortex"	"Cortex"	"Cortex"	108	8	204.662077019446	-296.178469385569
+"Cortex.Cortex"	"Cortex"	"Cortex"	109	1	198.234504311457	-270.366153589996
+"Cortex.Cortex"	"Cortex"	"Cortex"	109	2	203.335752492401	-247.104461884894
+"Cortex.Cortex"	"Cortex"	"Cortex"	109	3	210.57952490934	-244.451812830804
+"Cortex.Cortex"	"Cortex"	"Cortex"	109	4	222.006320834653	-242.717388449283
+"Cortex.Cortex"	"Cortex"	"Cortex"	109	5	220.169871489514	-257.715058101257
+"Cortex.Cortex"	"Cortex"	"Cortex"	109	6	216.088872944759	-267.815529499524
+"Cortex.Cortex"	"Cortex"	"Cortex"	110	1	203.316635068139	-245.735213607535
+"Cortex.Cortex"	"Cortex"	"Cortex"	110	2	203.050687867265	-232.969747965585
+"Cortex.Cortex"	"Cortex"	"Cortex"	110	3	206.109080677316	-227.783777548543
+"Cortex.Cortex"	"Cortex"	"Cortex"	110	4	229.213613389242	-226.602301385276
+"Cortex.Cortex"	"Cortex"	"Cortex"	110	5	228.847566352039	-229.911355155535
+"Cortex.Cortex"	"Cortex"	"Cortex"	110	6	225.390252740677	-237.623823980879
+"Cortex.Cortex"	"Cortex"	"Cortex"	110	7	222.331859930627	-241.480058393552
+"Cortex.Cortex"	"Cortex"	"Cortex"	110	8	210.231262290862	-243.075741598796
+"Cortex.Cortex"	"Cortex"	"Cortex"	111	1	206.203231861137	-226.978815628357
+"Cortex.Cortex"	"Cortex"	"Cortex"	111	2	207.065931342557	-217.388866336174
+"Cortex.Cortex"	"Cortex"	"Cortex"	111	3	210.709320163834	-213.138246044685
+"Cortex.Cortex"	"Cortex"	"Cortex"	111	4	232.331856838977	-212.641286697759
+"Cortex.Cortex"	"Cortex"	"Cortex"	111	5	231.962421621281	-214.35270898511
+"Cortex.Cortex"	"Cortex"	"Cortex"	111	6	232.670858336529	-220.323818442203
+"Cortex.Cortex"	"Cortex"	"Cortex"	111	7	229.465254724866	-225.788901674118
+"Cortex.Cortex"	"Cortex"	"Cortex"	112	1	210.920674478741	-212.36686053793
+"Cortex.Cortex"	"Cortex"	"Cortex"	112	2	211.254409723169	-196.736926590534
+"Cortex.Cortex"	"Cortex"	"Cortex"	112	3	235.839572729393	-196.069456101677
+"Cortex.Cortex"	"Cortex"	"Cortex"	112	4	234.170896507252	-199.128695842271
+"Cortex.Cortex"	"Cortex"	"Cortex"	112	5	234.004028885037	-207.416454412243
+"Cortex.Cortex"	"Cortex"	"Cortex"	112	6	232.446597744372	-212.08874783424
+"Cortex.Cortex"	"Cortex"	"Cortex"	113	1	211.294082371142	-195.701978167447
+"Cortex.Cortex"	"Cortex"	"Cortex"	113	2	211.799772237207	-187.610940310395
+"Cortex.Cortex"	"Cortex"	"Cortex"	113	3	213.316841835405	-182.806886582771
+"Cortex.Cortex"	"Cortex"	"Cortex"	113	4	237.589955406561	-182.554041649738
+"Cortex.Cortex"	"Cortex"	"Cortex"	113	5	237.927081983938	-189.212291552937
+"Cortex.Cortex"	"Cortex"	"Cortex"	113	6	236.072885808364	-195.196288301382
+"Cortex.Cortex"	"Cortex"	"Cortex"	114	1	213.350526696509	-182.327253772804
+"Cortex.Cortex"	"Cortex"	"Cortex"	114	2	214.87548020428	-170.36589969623
+"Cortex.Cortex"	"Cortex"	"Cortex"	114	3	243.230084489386	-168.078469434574
+"Cortex.Cortex"	"Cortex"	"Cortex"	114	4	243.134774895151	-173.272842320417
+"Cortex.Cortex"	"Cortex"	"Cortex"	114	5	237.988056806426	-181.803051004508
+"Cortex.Cortex"	"Cortex"	"Cortex"	115	1	215.132287082508	-169.643076060061
+"Cortex.Cortex"	"Cortex"	"Cortex"	115	2	216.626676406504	-160.616964543123
+"Cortex.Cortex"	"Cortex"	"Cortex"	115	3	242.927928508839	-153.384120214981
+"Cortex.Cortex"	"Cortex"	"Cortex"	115	4	242.74860178996	-156.074020998174
+"Cortex.Cortex"	"Cortex"	"Cortex"	115	5	242.927928508839	-167.371604287586
+"Cortex.Cortex"	"Cortex"	"Cortex"	116	1	216.806003125384	-159.541004229846
+"Cortex.Cortex"	"Cortex"	"Cortex"	116	2	215.909369530986	-135.033019316306
+"Cortex.Cortex"	"Cortex"	"Cortex"	116	3	243.705010957317	-136.766510932142
+"Cortex.Cortex"	"Cortex"	"Cortex"	116	4	242.987704081799	-152.427711047623
+"Cortex.Cortex"	"Cortex"	"Cortex"	117	1	215.760492065343	-133.724085192147
+"Cortex.Cortex"	"Cortex"	"Cortex"	117	2	215.879041786258	-129.811944401951
+"Cortex.Cortex"	"Cortex"	"Cortex"	117	3	218.368585925473	-117.956972310448
+"Cortex.Cortex"	"Cortex"	"Cortex"	117	4	245.516472015014	-118.786820356854
+"Cortex.Cortex"	"Cortex"	"Cortex"	117	5	248.717314479719	-130.523242727441
+"Cortex.Cortex"	"Cortex"	"Cortex"	117	6	244.212425084948	-135.739430447702
+"Cortex.Cortex"	"Cortex"	"Cortex"	118	1	218.537690922147	-116.949875414119
+"Cortex.Cortex"	"Cortex"	"Cortex"	118	2	218.438580858237	-108.822850173477
+"Cortex.Cortex"	"Cortex"	"Cortex"	118	3	218.537690922147	-102.083365827579
+"Cortex.Cortex"	"Cortex"	"Cortex"	118	4	250.550241565164	-99.5065041659118
+"Cortex.Cortex"	"Cortex"	"Cortex"	118	5	250.153801309523	-113.58013324117
+"Cortex.Cortex"	"Cortex"	"Cortex"	118	6	246.288508817023	-117.742755925402
+"Cortex.Cortex"	"Cortex"	"Cortex"	119	1	218.537690922147	-101.191375252386
+"Cortex.Cortex"	"Cortex"	"Cortex"	119	2	218.735911049967	-90.9830386696285
+"Cortex.Cortex"	"Cortex"	"Cortex"	119	3	221.213662647724	-84.2435543237301
+"Cortex.Cortex"	"Cortex"	"Cortex"	119	4	248.86537047869	-85.6310952184739
+"Cortex.Cortex"	"Cortex"	"Cortex"	119	5	252.136002587729	-94.8483311621291
+"Cortex.Cortex"	"Cortex"	"Cortex"	119	6	250.550241565164	-98.7136236546296
+"Cortex.Cortex"	"Cortex"	"Cortex"	120	1	221.431696131579	-83.0368860493422
+"Cortex.Cortex"	"Cortex"	"Cortex"	120	2	220.671285087171	-80.6035707072369
+"Cortex.Cortex"	"Cortex"	"Cortex"	120	3	220.215038460526	-70.4140627121711
+"Cortex.Cortex"	"Cortex"	"Cortex"	120	4	252.760631161184	-69.0453228322369
+"Cortex.Cortex"	"Cortex"	"Cortex"	120	5	254.737699876645	-78.3223375740132
+"Cortex.Cortex"	"Cortex"	"Cortex"	120	6	248.958575939145	-84.7097903470395
+"Cortex.Cortex"	"Cortex"	"Cortex"	121	1	220.167584505951	-69.5266056334584
+"Cortex.Cortex"	"Cortex"	"Cortex"	121	2	220.044678040171	-57.9694740939664
+"Cortex.Cortex"	"Cortex"	"Cortex"	121	3	221.374253134069	-55.0444088873901
+"Cortex.Cortex"	"Cortex"	"Cortex"	121	4	253.238982843356	-55.118023045559
+"Cortex.Cortex"	"Cortex"	"Cortex"	121	5	254.494943779085	-66.153496324915
+"Cortex.Cortex"	"Cortex"	"Cortex"	121	6	253.018140368849	-68.0742448075936
+"Cortex.Cortex"	"Cortex"	"Cortex"	122	1	88.148390812964	-285.249770270587
+"Cortex.Cortex"	"Cortex"	"Cortex"	122	2	94.9517901038974	-284.559570342521
+"Cortex.Cortex"	"Cortex"	"Cortex"	122	3	102.839789281791	-282.883370517219
+"Cortex.Cortex"	"Cortex"	"Cortex"	122	4	107.977124356963	-293.29534569166
+"Cortex.Cortex"	"Cortex"	"Cortex"	122	5	112.42425950407	-302.62272097914
+"Cortex.Cortex"	"Cortex"	"Cortex"	122	6	104.121589148199	-309.505367742611
+"Cortex.Cortex"	"Cortex"	"Cortex"	122	7	94.2615901758317	-297.67336897577
+"Cortex.Cortex"	"Cortex"	"Cortex"	122	8	91.5007904635688	-289.390969838981
+"Cortex.Cortex"	"Cortex"	"Cortex"	123	1	83.5141912959513	-267.107372161431
+"Cortex.Cortex"	"Cortex"	"Cortex"	123	2	98.5999897236733	-267.698972099773
+"Cortex.Cortex"	"Cortex"	"Cortex"	123	3	102.938389271515	-276.671571164627
+"Cortex.Cortex"	"Cortex"	"Cortex"	123	4	102.938389271515	-282.193170589153
+"Cortex.Cortex"	"Cortex"	"Cortex"	123	5	94.9779492848445	-283.92027275231
+"Cortex.Cortex"	"Cortex"	"Cortex"	123	6	88.0336164833444	-284.529595416469
+"Cortex.Cortex"	"Cortex"	"Cortex"	124	1	77.3502402314708	-254.842688350094
+"Cortex.Cortex"	"Cortex"	"Cortex"	124	2	76.6379912422307	-249.643270728642
+"Cortex.Cortex"	"Cortex"	"Cortex"	124	3	92.3074690055121	-248.218772750162
+"Cortex.Cortex"	"Cortex"	"Cortex"	124	4	98.5040352119006	-258.190258599523
+"Cortex.Cortex"	"Cortex"	"Cortex"	124	5	98.7177099086726	-266.950921167175
+"Cortex.Cortex"	"Cortex"	"Cortex"	124	6	83.4755815389353	-266.309897076859
+"Cortex.Cortex"	"Cortex"	"Cortex"	125	1	70.6926455842796	-235.729652702896
+"Cortex.Cortex"	"Cortex"	"Cortex"	125	2	92.9410518010479	-234.051551954897
+"Cortex.Cortex"	"Cortex"	"Cortex"	125	3	94.6066620483785	-237.516021269345
+"Cortex.Cortex"	"Cortex"	"Cortex"	125	4	92.4080565219021	-247.509682753328
+"Cortex.Cortex"	"Cortex"	"Cortex"	125	5	76.4181981475283	-248.7755465413
+"Cortex.Cortex"	"Cortex"	"Cortex"	125	6	71.1548697659636	-238.182265368277
+"Cortex.Cortex"	"Cortex"	"Cortex"	126	1	69.0207342613391	-224.006116371311
+"Cortex.Cortex"	"Cortex"	"Cortex"	126	2	89.3209502205565	-222.165563457675
+"Cortex.Cortex"	"Cortex"	"Cortex"	126	3	92.8396543201542	-233.371282667163
+"Cortex.Cortex"	"Cortex"	"Cortex"	126	4	70.7530193565256	-234.9952999439
+"Cortex.Cortex"	"Cortex"	"Cortex"	127	1	65.6195282167469	-220.86321314809
+"Cortex.Cortex"	"Cortex"	"Cortex"	127	2	68.8116132340464	-223.360683074496
+"Cortex.Cortex"	"Cortex"	"Cortex"	127	3	89.364423043337	-221.446450788337
+"Cortex.Cortex"	"Cortex"	"Cortex"	127	4	90.2711646525704	-216.610495539092
+"Cortex.Cortex"	"Cortex"	"Cortex"	127	5	88.6591795694887	-208.752068259069
+"Cortex.Cortex"	"Cortex"	"Cortex"	127	6	66.1921374740388	-208.449821055991
+"Cortex.Cortex"	"Cortex"	"Cortex"	128	1	65.6529188316492	-196.192730674674
+"Cortex.Cortex"	"Cortex"	"Cortex"	128	2	85.299228104538	-196.192730674674
+"Cortex.Cortex"	"Cortex"	"Cortex"	128	3	88.0479089890477	-201.059247650528
+"Cortex.Cortex"	"Cortex"	"Cortex"	128	4	88.6336934398448	-208.313962771938
+"Cortex.Cortex"	"Cortex"	"Cortex"	128	5	66.3288239671843	-207.953480032986
+"Cortex.Cortex"	"Cortex"	"Cortex"	128	6	64.5714706147929	-204.033230246882
+"Cortex.Cortex"	"Cortex"	"Cortex"	129	1	59.4517476497243	-186.684846095819
+"Cortex.Cortex"	"Cortex"	"Cortex"	129	2	61.6136293824416	-182.488252144074
+"Cortex.Cortex"	"Cortex"	"Cortex"	129	3	87.4926254182039	-183.251269226209
+"Cortex.Cortex"	"Cortex"	"Cortex"	129	4	87.1111168771362	-188.973897342225
+"Cortex.Cortex"	"Cortex"	"Cortex"	129	5	85.2035741717974	-195.713881567756
+"Cortex.Cortex"	"Cortex"	"Cortex"	129	6	65.5558843068083	-195.395957783532
+"Cortex.Cortex"	"Cortex"	"Cortex"	130	1	61.9951379235093	-170.534317857284
+"Cortex.Cortex"	"Cortex"	"Cortex"	130	2	82.8509381685463	-171.233750182575
+"Cortex.Cortex"	"Cortex"	"Cortex"	130	3	87.6197949318932	-182.615421657763
+"Cortex.Cortex"	"Cortex"	"Cortex"	130	4	61.7407988961308	-181.852404575627
+"Cortex.Cortex"	"Cortex"	"Cortex"	131	1	61.7466193919525	-169.631047325847
+"Cortex.Cortex"	"Cortex"	"Cortex"	131	2	58.0739580154795	-166.953065072169
+"Cortex.Cortex"	"Cortex"	"Cortex"	131	3	58.9156095809212	-165.728844613345
+"Cortex.Cortex"	"Cortex"	"Cortex"	131	4	58.8390958022447	-157.618384073633
+"Cortex.Cortex"	"Cortex"	"Cortex"	131	5	82.4053396346131	-157.541870294957
+"Cortex.Cortex"	"Cortex"	"Cortex"	131	6	86.1545147897627	-163.356917474372
+"Cortex.Cortex"	"Cortex"	"Cortex"	131	7	82.9409360853488	-170.549212669965
+"Cortex.Cortex"	"Cortex"	"Cortex"	132	1	55.6255170978308	-149.584437312599
+"Cortex.Cortex"	"Cortex"	"Cortex"	132	2	58.6095544662151	-144.993610592007
+"Cortex.Cortex"	"Cortex"	"Cortex"	132	3	76.360751119168	-144.611041698625
+"Cortex.Cortex"	"Cortex"	"Cortex"	132	4	81.6402018478479	-149.967006205981
+"Cortex.Cortex"	"Cortex"	"Cortex"	132	5	82.3920054268512	-156.853246286868
+"Cortex.Cortex"	"Cortex"	"Cortex"	132	6	58.8603090143597	-156.809686094501
+"Cortex.Cortex"	"Cortex"	"Cortex"	132	7	58.6095544662151	-153.257098689072
+"Cortex.Cortex"	"Cortex"	"Cortex"	133	1	52.4003597201124	-129.153256558705
+"Cortex.Cortex"	"Cortex"	"Cortex"	133	2	54.6417623902212	-126.245490932618
+"Cortex.Cortex"	"Cortex"	"Cortex"	133	3	77.5404166956576	-126.427226284248
+"Cortex.Cortex"	"Cortex"	"Cortex"	133	4	78.6308288054403	-138.300602590771
+"Cortex.Cortex"	"Cortex"	"Cortex"	133	5	76.5105830364184	-143.994976941858
+"Cortex.Cortex"	"Cortex"	"Cortex"	133	6	58.6399401260911	-144.176712293488
+"Cortex.Cortex"	"Cortex"	"Cortex"	133	7	55.4292822472865	-134.847630909792
+"Cortex.Cortex"	"Cortex"	"Cortex"	134	1	50.5849296675745	-110.267304050558
+"Cortex.Cortex"	"Cortex"	"Cortex"	134	2	57.408013204131	-108.071369119252
+"Cortex.Cortex"	"Cortex"	"Cortex"	134	3	74.3480826742025	-108.306647861892
+"Cortex.Cortex"	"Cortex"	"Cortex"	134	4	79.916346250013	-122.344946172738
+"Cortex.Cortex"	"Cortex"	"Cortex"	134	5	77.7988375662541	-125.56042232215
+"Cortex.Cortex"	"Cortex"	"Cortex"	134	6	54.5062420449058	-125.403569827057
+"Cortex.Cortex"	"Cortex"	"Cortex"	134	7	53.8788320645328	-119.28632251842
+"Cortex.Cortex"	"Cortex"	"Cortex"	135	1	50.9770609053076	-109.090910337358
+"Cortex.Cortex"	"Cortex"	"Cortex"	135	2	51.6044708856806	-92.9351033427531
+"Cortex.Cortex"	"Cortex"	"Cortex"	135	3	75.0539189021221	-93.6409395706728
+"Cortex.Cortex"	"Cortex"	"Cortex"	135	4	77.7204113187075	-102.189400553255
+"Cortex.Cortex"	"Cortex"	"Cortex"	135	5	74.5833614168424	-107.365532891333
+"Cortex.Cortex"	"Cortex"	"Cortex"	135	6	57.6432919467709	-106.973401653599
+"Cortex.Cortex"	"Cortex"	"Cortex"	136	1	49.643814697015	-78.5831000417204
+"Cortex.Cortex"	"Cortex"	"Cortex"	136	2	71.9168690002571	-79.3673625171866
+"Cortex.Cortex"	"Cortex"	"Cortex"	136	3	77.2498538334277	-87.9942497473156
+"Cortex.Cortex"	"Cortex"	"Cortex"	136	4	75.289197644762	-92.7782508476599
+"Cortex.Cortex"	"Cortex"	"Cortex"	136	5	51.8397496283205	-91.9939883721936
+"Cortex.Cortex"	"Cortex"	"Cortex"	137	1	45.4672250669352	-74.8969198375332
+"Cortex.Cortex"	"Cortex"	"Cortex"	137	2	49.4352738000495	-77.872956387369
+"Cortex.Cortex"	"Cortex"	"Cortex"	137	3	71.9759950756574	-78.7547449947277
+"Cortex.Cortex"	"Cortex"	"Cortex"	137	4	74.7866962616134	-67.6221638268236
+"Cortex.Cortex"	"Cortex"	"Cortex"	137	5	72.0862186515772	-62.6621029104307
+"Cortex.Cortex"	"Cortex"	"Cortex"	137	6	46.7347961900134	-61.2291964234727
+"Cortex.Cortex"	"Cortex"	"Cortex"	137	7	46.7347961900134	-72.8577836830161
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	138	1	103.441778543333	-282.469607066135
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	138	2	103.431154034348	-276.990551825732
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	138	3	112.077101894805	-277.566948349762
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	138	4	122.900547734932	-303.440747872906
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	138	5	113.229894942866	-302.672219174199
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	139	1	103.511066407987	-276.116421476218
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	139	2	99.339335771897	-267.512227039282
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	139	3	99.339335771897	-258.821121547427
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	139	4	104.901643286684	-257.343633613812
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	139	5	110.290128691634	-268.033693368793
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	139	6	111.593794515412	-276.55097675081
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	140	1	92.8833516037689	-247.73463667603
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	140	2	95.1454553697648	-237.863638424412
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	140	3	99.8753086986652	-237.657992627503
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	140	4	102.411606860539	-241.976554362586
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	140	5	104.879356423444	-256.714503141044
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	140	6	99.1898227089694	-258.016926521466
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	141	1	90.1316551109442	-221.590629410751
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	141	2	90.8373648245437	-216.911305491755
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	141	3	99.1609443528277	-221.298205080091
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	141	4	100.047749546227	-236.938223945496
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	141	5	95.2276398153391	-237.099461253387
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	141	6	93.3514448803421	-233.721153230737
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	142	1	89.2347466580003	-208.537723168153
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	142	2	88.6641920118494	-201.063457303576
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	142	3	97.7360108856487	-201.405790091267
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	142	4	99.6188412179467	-214.585602417352
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	142	5	99.3335638948712	-220.747592595782
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	142	6	90.946410596453	-216.24021089119
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	143	1	85.7921436237871	-195.81798005259
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	143	2	87.6188038854717	-189.546446487473
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	143	3	88.1059132885876	-183.214024246966
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	143	4	95.4217357330189	-182.935998026944
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	143	5	97.3609919477896	-193.991319790905
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	143	6	97.6654353247371	-200.749962759138
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	143	7	88.653911367093	-200.506408057581
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	144	1	83.4850351821759	-170.950602874627
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	144	2	86.6163874235925	-163.361054221702
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	144	3	92.8790919064258	-162.352652652432
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	144	4	96.5411818158792	-172.755110945952
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	144	5	95.3735589461984	-182.308388970613
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	144	6	88.2616741945064	-182.467610271024
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	145	1	82.2764629111951	-149.726456617581
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	145	2	93.7617559571741	-148.055868538166
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	145	3	95.7455793014795	-150.979397677142
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	145	4	92.6115830690506	-161.749193998665
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	145	5	86.7499610225727	-162.643564904235
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	145	6	83.2452962429161	-157.333129169625
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	146	1	77.2995023170675	-144.416928339165
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	146	2	79.4362330260889	-138.370278332981
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	146	3	92.6106426251164	-138.136413073827
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	146	4	93.8579240072729	-147.257158180846
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	146	5	82.0857542855733	-149.126176898884
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	147	1	77.3656496916031	-112.862830138339
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	147	2	92.4186946542227	-112.932844300956
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	147	3	92.4186946542227	-119.864246400022
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	147	4	91.5085105402039	-122.524784579462
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	147	5	80.5863011719776	-122.174713766378
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	148	1	78.3043143769477	-126.126272240443
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	148	2	80.4579591306155	-122.868194279766
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	148	3	91.391847880006	-123.089080921168
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	148	4	94.0977092371784	-127.230705447452
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	148	5	92.606724407716	-137.391490951937
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	148	6	79.4639692443073	-137.77804257439
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	149	1	77.3493066078903	-112.203090549277
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	149	2	75.2990840231029	-108.289029251046
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	149	3	78.4676098359562	-102.324745368028
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	149	4	90.4893695376645	-102.324745368028
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	149	5	92.4464001867798	-104.840927631177
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	149	6	92.4464001867798	-112.109898613605
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	150	1	75.7108706567778	-93.2276614064824
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	150	2	77.7340866096312	-88.1207805593167
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	150	3	89.4274232036778	-87.4774686983727
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	150	4	90.8849903031784	-92.1095683799055
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	150	5	90.618777677803	-101.693222893422
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	150	6	78.3729969105323	-101.799707943572
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	151	1	72.6342819735582	-78.8771387949029
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	151	2	75.3485675480559	-67.6942822279724
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	151	3	88.4314240171348	-69.2142821496911
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	151	4	90.9285667456727	-73.6114247803774
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	151	5	91.1999953031224	-82.1885671957901
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	151	6	89.2457096894841	-86.8571383839261
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	151	7	77.628567430634	-87.2914240758458
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	152	1	176.63067287026	-306.93940263592
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	152	2	188.3242177823	-278.642316053194
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	152	3	194.203292848574	-278.642316053194
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	152	4	191.619084028234	-288.397704349978
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	152	5	190.520795279589	-295.375068164897
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	152	6	185.998429843994	-305.711903446259
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	152	7	183.091194921111	-309.071374912701
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	153	1	188.659115323127	-277.760316001427
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	153	2	188.373597086067	-268.721946911128
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	153	3	194.957528634706	-241.898522083338
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	153	4	197.639871117485	-234.826891901466
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	153	5	202.029158816578	-233.241871343461
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	153	6	202.638782108119	-246.409734440739
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	153	7	196.786398509328	-270.794666102366
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	153	8	194.322180798219	-277.840571739291
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	1	197.935604143621	-233.415537083149
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	2	201.310054287326	-202.659834344808
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	3	202.428150293279	-185.373154915179
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	4	212.167076263163	-182.843466329744
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	5	211.066522383414	-187.285508004089
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	6	210.469276105954	-195.910934057398
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	7	209.890798938462	-212.493946192177
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	8	206.612761656005	-216.157634919629
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	9	205.262981598523	-227.34152682448
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	154	10	202.177770038564	-232.354995609413
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	155	1	202.566718532657	-184.432635779588
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	155	2	204.126159486661	-161.15223117368
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	155	3	215.797312483518	-155.780490134557
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	155	4	215.957591825113	-159.99698209753
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	155	5	214.211877356034	-169.703165889018
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	155	6	212.393779106647	-182.008504780406
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	156	1	204.115741520339	-159.718363898718
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	156	2	203.154065470773	-142.328055335737
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	156	3	208.183299263369	-133.79411929599
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	156	4	215.012858948453	-134.798681881402
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	156	5	215.739231220637	-154.940641388114
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	1	208.310629973928	-133.005775152311
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	2	208.212786587962	-119.040875897435
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	3	209.80773133202	-104.831368177644
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	4	210.38771123895	-92.071810225178
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	5	217.492465098846	-91.2018403647827
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	6	217.637460075578	-102.36645357319
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	7	217.637460075578	-117.735921106842
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	8	215.108082315268	-129.074456717536
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	157	9	214.915935747769	-133.830084263139
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	1	210.575400452592	-91.1839802296871
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	2	211.241578369977	-85.2860959104153
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	3	209.208109042519	-65.908329378175
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	4	213.275047697434	-55.8605985836801
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	5	220.093150736555	-54.6644401557641
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	6	218.98519372198	-57.991633400594
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	7	219.255839837014	-69.855652190298
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	8	219.734303208181	-81.4583889410839
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	9	220.093150736555	-83.850705796916
+"Endodermis.Endodermis"	"Endodermis"	"Endodermis"	158	10	217.581218037932	-90.1903454648711
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	159	1	129.362588931342	-298.409599942322
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	159	2	124.617712378342	-285.986650421739
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	159	3	131.605621483669	-282.018208213775
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	159	4	136.781850450578	-293.880399596276
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	159	5	137.040661898924	-298.193923735367
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	160	1	147.428235675153	-303.813221217721
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	160	2	146.752828251211	-284.925626787081
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	160	3	158.902150328136	-284.856986549358
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	160	4	158.833510090413	-300.369680274696
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	160	5	157.048863909622	-304.076253111724
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	161	1	117.815909484464	-266.023693548632
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	161	2	119.101640125105	-261.409390003914
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	161	3	130.105877583492	-258.998173009827
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	161	4	131.257576332119	-281.070335542275
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	161	5	124.536742908292	-285.082773407246
+"Stele.Pericycle"	"Stele"	"Pericycle"	162	1	110.817581014741	-267.741119543563
+"Stele.Pericycle"	"Stele"	"Pericycle"	162	2	105.188615092704	-256.912879754608
+"Stele.Pericycle"	"Stele"	"Pericycle"	162	3	103.134234278714	-242.038287576149
+"Stele.Pericycle"	"Stele"	"Pericycle"	162	4	109.802127371054	-242.910722186361
+"Stele.Pericycle"	"Stele"	"Pericycle"	162	5	113.915033390628	-241.103536208064
+"Stele.Pericycle"	"Stele"	"Pericycle"	162	6	115.722219368926	-246.151193595723
+"Stele.Pericycle"	"Stele"	"Pericycle"	162	7	118.339523199564	-261.543432790189
+"Stele.Pericycle"	"Stele"	"Pericycle"	162	8	117.217821557862	-265.531705294019
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	163	1	114.336288474713	-240.448409477192
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	163	2	114.134992192187	-238.032854086881
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	163	3	126.212769143742	-238.032854086881
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	163	4	126.212769143742	-244.776279551499
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	163	5	129.891551920538	-258.363778621997
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	163	6	118.946837833181	-260.824753368168
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	163	7	116.476003373819	-246.043094584963
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	164	1	112.381996181679	-218.03193075634
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	164	2	122.785317415564	-215.317389785768
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	164	3	126.171864312185	-221.397961559849
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	164	4	126.229739790275	-236.969780817917
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	164	5	114.010720764022	-236.925135911521
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	164	6	114.336465680491	-224.329665808067
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	1	100.763760827631	-214.340155036362
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	2	109.667455211107	-214.448736675185
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	3	111.513343071096	-217.923349117517
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	4	113.467812569908	-224.003920891598
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	5	113.033486014617	-237.793789022104
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	6	113.359230931085	-239.965421798561
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	7	110.101781766399	-241.919891297373
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	8	103.152556881735	-240.834074909145
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	9	101.198087382923	-238.01095229975
+"Stele.Pericycle"	"Stele"	"Pericycle"	165	10	100.220852633517	-221.615124837495
+"Stele.Pericycle"	"Stele"	"Pericycle"	166	1	100.693281358589	-213.594291702067
+"Stele.Pericycle"	"Stele"	"Pericycle"	166	2	98.3172804152207	-200.976907382114
+"Stele.Pericycle"	"Stele"	"Pericycle"	166	3	97.9076250801573	-194.094697753048
+"Stele.Pericycle"	"Stele"	"Pericycle"	166	4	111.835906472314	-194.832077356162
+"Stele.Pericycle"	"Stele"	"Pericycle"	166	5	112.081699673352	-205.073460732748
+"Stele.Pericycle"	"Stele"	"Pericycle"	166	6	109.869560864009	-213.758153836092
+"Stele.Pericycle"	"Stele"	"Pericycle"	167	1	96.1870726728909	-182.706279438285
+"Stele.Pericycle"	"Stele"	"Pericycle"	167	2	97.4160386780812	-173.038413530788
+"Stele.Pericycle"	"Stele"	"Pericycle"	167	3	108.06707738973	-173.857724200915
+"Stele.Pericycle"	"Stele"	"Pericycle"	167	4	112.163630740364	-187.622143459046
+"Stele.Pericycle"	"Stele"	"Pericycle"	167	5	111.999768606339	-194.176628820061
+"Stele.Pericycle"	"Stele"	"Pericycle"	167	6	98.1534182811953	-193.357318149934
+"Stele.Pericycle"	"Stele"	"Pericycle"	168	1	93.4509376510988	-161.845262744584
+"Stele.Pericycle"	"Stele"	"Pericycle"	168	2	96.3912544308187	-151.042794575613
+"Stele.Pericycle"	"Stele"	"Pericycle"	168	3	109.175240429601	-150.723194925644
+"Stele.Pericycle"	"Stele"	"Pericycle"	168	4	110.070119449516	-156.475988625096
+"Stele.Pericycle"	"Stele"	"Pericycle"	168	5	110.006199519522	-170.154853643793
+"Stele.Pericycle"	"Stele"	"Pericycle"	168	6	108.088601619705	-173.159090353507
+"Stele.Pericycle"	"Stele"	"Pericycle"	168	7	97.5418131707091	-172.264211333592
+"Stele.Pericycle"	"Stele"	"Pericycle"	169	1	96.5040956289581	-150.279167422202
+"Stele.Pericycle"	"Stele"	"Pericycle"	169	2	94.4536316368418	-147.69955143212
+"Stele.Pericycle"	"Stele"	"Pericycle"	169	3	93.3291836411651	-137.910239469758
+"Stele.Pericycle"	"Stele"	"Pericycle"	169	4	94.6520636360788	-127.327199510448
+"Stele.Pericycle"	"Stele"	"Pericycle"	169	5	104.639807597678	-127.393343510194
+"Stele.Pericycle"	"Stele"	"Pericycle"	169	6	109.137599580384	-135.595199478659
+"Stele.Pericycle"	"Stele"	"Pericycle"	169	7	109.269887579876	-150.080735422965
+"Stele.Pericycle"	"Stele"	"Pericycle"	170	1	92.072447645997	-122.829407527742
+"Stele.Pericycle"	"Stele"	"Pericycle"	170	2	93.130751641928	-120.315935537406
+"Stele.Pericycle"	"Stele"	"Pericycle"	170	3	93.2622788852383	-105.363785661004
+"Stele.Pericycle"	"Stele"	"Pericycle"	170	4	107.13867332145	-106.170552779389
+"Stele.Pericycle"	"Stele"	"Pericycle"	170	5	108.913560981896	-122.789955418108
+"Stele.Pericycle"	"Stele"	"Pericycle"	170	6	104.658022943049	-126.811467588371
+"Stele.Pericycle"	"Stele"	"Pericycle"	170	7	94.7046128752965	-126.700616364909
+"Stele.Pericycle"	"Stele"	"Pericycle"	171	1	93.5085114511188	-104.701569557248
+"Stele.Pericycle"	"Stele"	"Pericycle"	171	2	91.292696352284	-101.969299823992
+"Stele.Pericycle"	"Stele"	"Pericycle"	171	3	91.4990075304812	-91.8600520923264
+"Stele.Pericycle"	"Stele"	"Pericycle"	171	4	90.0032514885511	-87.1148949937896
+"Stele.Pericycle"	"Stele"	"Pericycle"	171	5	91.7970340190872	-82.5495073496233
+"Stele.Pericycle"	"Stele"	"Pericycle"	171	6	105.906870843125	-86.794165913899
+"Stele.Pericycle"	"Stele"	"Pericycle"	171	7	108.155424364211	-99.8357763361947
+"Stele.Pericycle"	"Stele"	"Pericycle"	171	8	107.090450677748	-105.450788275027
+"Stele.Pericycle"	"Stele"	"Pericycle"	172	1	89.228590130422	-69.0179790200538
+"Stele.Pericycle"	"Stele"	"Pericycle"	172	2	91.1574036388804	-67.0891655115955
+"Stele.Pericycle"	"Stele"	"Pericycle"	172	3	107.510387732332	-67.5923342529324
+"Stele.Pericycle"	"Stele"	"Pericycle"	172	4	108.684448128785	-77.8234319934508
+"Stele.Pericycle"	"Stele"	"Pericycle"	172	5	106.000881508321	-85.8741318548422
+"Stele.Pericycle"	"Stele"	"Pericycle"	172	6	92.0196119193943	-81.9338325012207
+"Stele.Pericycle"	"Stele"	"Pericycle"	172	7	91.9121567508858	-73.4626362351971
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	173	1	110.666651137451	-214.147953671639
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	173	2	112.877527630763	-205.734340349868
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	173	3	112.386221743361	-194.25006523183
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	173	4	112.693287922987	-187.740262223745
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	173	5	123.31777773807	-186.75765044894
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	173	6	123.993323333249	-211.875663942401
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	173	7	122.748515312398	-214.635123733455
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	173	8	112.079155563734	-217.341441939756
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	174	1	108.951822706159	-173.687284064249
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	174	2	110.883984306207	-170.424067638001
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	174	3	110.883984306207	-156.575345723802
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	174	4	122.848526368134	-156.669554716416
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	174	5	123.319571331202	-185.874342426632
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	174	6	113.050791136319	-187.004850337995
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	175	1	109.844290405193	-135.58904596891
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	175	2	114.620129118462	-135.141311089541
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	175	3	118.500498072993	-140.887242041443
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	175	4	123.425581746052	-144.24525363671
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	175	5	123.052469346578	-155.960982980199
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	175	6	110.814382643825	-155.960982980199
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	175	7	109.993535364982	-150.737409387561
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	176	1	105.19852036955	-127.043952053626
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	176	2	109.255529110879	-122.901831240802
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	176	3	114.277141329166	-122.589753645315
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	176	4	114.532477543656	-134.562185035808
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	176	5	109.681089468361	-135.072857464787
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	177	1	107.728060606997	-105.805418142176
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	177	2	108.92971214751	-99.6769952855594
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	177	3	114.757722118998	-99.1362520923285
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	177	4	114.757722118998	-118.723172202692
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	177	5	114.337144079819	-121.847466208026
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	177	6	109.530537917767	-122.147879093154
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	178	1	106.734563814471	-86.5387740438223
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	178	2	115.298465312229	-89.2827094601213
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	178	3	114.87788727305	-98.355178590995
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	178	4	108.869629570484	-98.9560043612516
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	179	1	106.939501778277	-85.7077174836116
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	179	2	109.229204006133	-77.8498757471056
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	179	3	115.62996250673	-77.6417209991187
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	179	4	116.410542811681	-81.5966612108701
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	179	5	115.525885132737	-88.6218839554284
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	180	1	107.812211283921	-63.7298825258331
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	180	2	117.486387504587	-63.8296163013039
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	180	3	115.659442186652	-76.9608717729784
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	180	4	109.401631866873	-77.2736686623785
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	181	1	159.559727841601	-281.914629535968
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	181	2	166.390637030296	-281.742782763925
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	181	3	174.338550237269	-289.304040733802
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	181	4	168.225772499872	-303.890285099452
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	181	5	159.519078174555	-300.336532313608
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	182	1	166.524039633909	-281.347830416368
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	182	2	174.352934459986	-268.693579030823
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	182	3	181.935637624865	-270.761588984881
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	182	4	174.697602785662	-288.782818584529
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	183	1	130.909915784516	-258.427732023751
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	183	2	142.405364243521	-256.417598959882
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	183	3	144.72958059862	-259.36998189744
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	183	4	145.985913763539	-284.433828537566
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	183	5	146.001101958706	-293.066241099829
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	183	6	137.412801843488	-292.990238443942
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	183	7	132.168618587293	-281.513837405022
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	184	1	146.742880700127	-284.218797641144
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	184	2	145.352190632914	-259.581646886708
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	184	3	160.124213109959	-256.988085688448
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	184	4	160.006056314523	-281.346161593433
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	184	5	158.92266251739	-281.383520000231
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	184	6	158.885304110593	-284.110683696463
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	185	1	160.682018673882	-256.526634516479
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	185	2	162.230102730247	-254.295572199953
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	185	3	174.79690271721	-254.568763504017
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	185	4	174.296051993092	-267.909605519162
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	185	5	166.054780987149	-280.886192462222
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	185	6	160.727550557893	-281.068319998265
+"Stele.Pericycle"	"Stele"	"Pericycle"	186	1	182.285879993281	-269.586837247554
+"Stele.Pericycle"	"Stele"	"Pericycle"	186	2	188.488599119512	-237.925196334551
+"Stele.Pericycle"	"Stele"	"Pericycle"	186	3	194.321006656118	-240.424799564525
+"Stele.Pericycle"	"Stele"	"Pericycle"	186	4	187.562820145448	-267.550123504612
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	187	1	175.502482224943	-267.617490144351
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	187	2	175.527693482611	-254.496639970304
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	187	3	178.544947210522	-227.467822565317
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	187	4	189.309194567337	-227.312626381618
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	187	5	187.680609300522	-237.845224065979
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	187	6	181.26752312181	-269.309103555335
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	188	1	127.065748404522	-221.385477947086
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	188	2	143.718638338595	-217.747031406869
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	188	3	142.350443384946	-255.897215760111
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	188	4	130.720285928871	-257.868979346024
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	188	5	126.925468885171	-244.430862520686
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	189	1	123.395367307237	-214.805857985299
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	189	2	124.802584610812	-211.962106350991
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	189	3	124.684505564792	-191.801128221539
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	189	4	142.772022204161	-191.984757832091
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	189	5	143.760292347936	-216.765069381257
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	189	6	127.12476180584	-220.560854987184
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	190	1	124.705146115414	-191.037754251597
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	190	2	124.021752024755	-186.396684060689
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	190	3	123.940850686187	-162.288085167423
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	190	4	143.518974619645	-161.155466427471
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	190	5	142.771748339097	-191.208091503073
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	191	1	123.98982680879	-161.488868709118
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	191	2	124.186844542067	-143.822945291976
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	191	3	128.573351070572	-138.660675002635
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	191	4	130.334629852361	-133.216722404379
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	191	5	130.975094863921	-123.609747230986
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	191	6	144.58497635956	-124.250212242546
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	191	7	144.74509261245	-151.950323992495
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	191	8	143.575116777559	-160.194522706181
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	1	123.496722878816	-143.009616844894
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	2	119.336555004143	-140.329791905395
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	3	115.837682187268	-134.956522936622
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	4	115.212883469968	-122.210629103719
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	5	115.587762700348	-119.836393977982
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	6	115.837682187268	-112.588728857312
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	7	130.208052685149	-112.088889883472
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	8	130.295059754233	-123.298629449379
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	9	129.703054113053	-132.824538402911
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	192	10	127.87321849486	-138.367863952141
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	193	1	116.0382401184	-111.917563977831
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	193	2	115.626172504343	-98.896227373636
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	193	3	116.367894209645	-89.3362587275178
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	193	4	116.615134778079	-85.9573042922519
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	193	5	130.295779564765	-85.9573042922519
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	193	6	129.96612547352	-111.175842272529
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	194	1	116.734891698746	-85.2785987535937
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	194	2	117.12727788933	-81.5836287922608
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	194	3	116.14631241287	-77.2346818466212
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	194	4	118.010146818144	-63.2068755332425
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	194	5	133.313208250921	-63.7627559699032
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	194	6	130.272215273895	-85.4420929996703
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	195	1	134.332887877389	-63.3768974907916
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	195	2	140.605240618746	-57.6272408112146
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	195	3	145.962875251988	-69.2572281858135
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	195	4	147.138941390992	-89.6423745952227
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	195	5	144.786809112984	-123.22559656457
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	195	6	131.327385522156	-122.4415524719
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	195	7	131.167870378585	-86.0492836399274
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	196	1	145.33320117953	-258.98662821032
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	196	2	143.185419881311	-256.122919812694
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	196	3	144.334488818543	-224.185407451154
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	196	4	160.904615591623	-223.727218564548
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	196	5	161.753180428231	-253.743597635165
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	196	6	160.000278408276	-256.364673729293
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	197	1	161.734309555518	-223.716320403142
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	197	2	176.857324221465	-224.386798885869
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	197	3	178.198281186918	-227.068712816776
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	197	4	174.821662549309	-253.862716433235
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	197	5	162.330290429053	-253.73885690746
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	198	1	144.505224643324	-223.544943235392
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	198	2	144.677050118524	-217.359226128186
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	198	3	143.388359054523	-191.585404848164
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	198	4	143.388359054523	-189.351673670562
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	198	5	162.375074064139	-189.781237358563
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	198	6	160.894751383718	-223.029466809791
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	199	1	143.49409607992	-188.614710152442
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	199	2	144.606709938854	-160.688240317519
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	199	3	145.735822466504	-152.115602392548
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	199	4	161.979424035295	-152.068107905479
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	199	5	162.282941899837	-188.974715760882
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	200	1	145.770971972962	-151.111705880582
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	200	2	145.474162489124	-123.8594705667
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	200	3	146.716569978347	-110.380645828559
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	200	4	162.838774539161	-98.4804221858759
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	200	5	165.753115023083	-105.887704249178
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	200	6	166.481700144064	-109.530629854081
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	200	7	163.324497953148	-136.24541762337
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	200	8	161.958255397559	-151.040003111189
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	201	1	141.03262751498	-56.608251874525
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	201	2	148.157459216429	-54.6562431891966
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	201	3	154.891889180812	-54.4610423206637
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	201	4	156.258295260542	-89.0115960509772
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	201	5	147.767057479364	-89.4995982223093
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	201	6	146.986254005232	-69.1987078948935
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	202	1	146.574421449473	-109.492527222677
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	202	2	147.796317677577	-89.9953134959797
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	202	3	156.190213505419	-89.6234320352525
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	202	4	156.349591274302	-102.533031314782
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	203	1	155.642823614575	-54.3685942137397
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	203	2	163.55230031517	-54.4949241760288
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	203	3	162.689775462953	-97.5262635335581
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	203	4	156.866158656265	-102.143228346156
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	203	5	156.819346910918	-89.5508688479364
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	203	6	156.245779833191	-72.130668252742
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	204	1	161.9412162044	-223.008075043995
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	204	2	163.089980027418	-194.569194386075
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	204	3	177.966270518705	-195.142183870248
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	204	4	176.748165235454	-223.575584515112
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	205	1	163.253170336058	-193.78069660898
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	205	2	163.002784973572	-189.450717633673
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	205	3	163.210118434824	-157.7412977124
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	205	4	178.932978011791	-162.184714549369
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	205	5	177.953690174095	-194.333283607657
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	206	1	163.378836195899	-156.808044556118
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	206	2	162.821989446765	-151.573685114259
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	206	3	164.38116034434	-135.647868089029
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	206	4	180.752454768878	-135.425129389375
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	206	5	178.994042681383	-161.374187899017
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	207	1	164.547382755559	-134.866227945993
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	207	2	167.177591487394	-109.757938669903
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	207	3	182.05617690028	-109.815862519791
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	207	4	180.777196975351	-134.778022433929
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	208	1	163.837756717239	-97.8123243146778
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	208	2	167.359527954919	-108.81352855802
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	208	3	173.128195005332	-108.851339166932
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	208	4	172.71441536291	-82.5951952078135
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	208	5	164.006835929538	-82.2570367832165
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	209	1	173.302115344432	-82.4725870576234
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	209	2	173.814700038279	-80.2692102407909
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	209	3	179.938092494508	-80.4817050540823
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	209	4	181.882503435941	-83.6942100877537
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	209	5	182.022690427651	-108.869175943581
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	209	6	174.113778058535	-108.793554725756
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	210	1	164.158353609142	-54.6083231543004
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	210	2	171.159420680207	-54.6083231543004
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	210	3	173.292299982318	-80.1599900795853
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	210	4	172.815157184225	-81.9194541475524
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	210	5	164.04765826927	-81.6510613236252
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	211	1	171.851819303806	-54.6079225966629
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	211	2	182.155200925818	-55.3377454615554
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	211	3	180.867278223067	-68.302834002587
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	211	4	173.010949736283	-68.2169724890703
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	212	1	173.89407038961	-79.5709761866821
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	212	2	173.05904484152	-68.7504367926908
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	212	3	180.817823892517	-69.0635713732243
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	212	4	180.991787548369	-73.4474555006934
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	212	5	179.878420150917	-79.7797325737044
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	213	1	178.716328950091	-226.448001441167
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	213	2	177.758624112983	-223.884918232136
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	213	3	179.039038740755	-195.117240289442
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	213	4	192.11196897193	-195.342635638255
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	213	5	192.337364320743	-201.353178273278
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	213	6	189.332093003232	-226.296930208625
+"Stele.Pericycle"	"Stele"	"Pericycle"	214	1	188.968967756581	-236.726239092486
+"Stele.Pericycle"	"Stele"	"Pericycle"	214	2	190.373593384107	-226.987501408301
+"Stele.Pericycle"	"Stele"	"Pericycle"	214	3	193.089202930659	-201.516956695819
+"Stele.Pericycle"	"Stele"	"Pericycle"	214	4	200.243593650646	-202.314751214163
+"Stele.Pericycle"	"Stele"	"Pericycle"	214	5	196.83487127073	-233.916987837432
+"Stele.Pericycle"	"Stele"	"Pericycle"	214	6	194.493828558185	-239.254565222034
+"Stele.Pericycle"	"Stele"	"Pericycle"	215	1	193.267961270145	-200.303783680429
+"Stele.Pericycle"	"Stele"	"Pericycle"	215	2	193.00737525495	-194.918339366385
+"Stele.Pericycle"	"Stele"	"Pericycle"	215	3	194.83147736132	-177.632800358403
+"Stele.Pericycle"	"Stele"	"Pericycle"	215	4	202.127885786799	-177.198490333077
+"Stele.Pericycle"	"Stele"	"Pericycle"	215	5	201.924324097081	-184.81303930597
+"Stele.Pericycle"	"Stele"	"Pericycle"	215	6	200.44182596622	-201.39420831066
+"Stele.Pericycle"	"Stele"	"Pericycle"	216	1	194.914687025553	-176.587643726008
+"Stele.Pericycle"	"Stele"	"Pericycle"	216	2	194.142175189919	-160.926829886427
+"Stele.Pericycle"	"Stele"	"Pericycle"	216	3	195.117195791294	-143.781223675993
+"Stele.Pericycle"	"Stele"	"Pericycle"	216	4	202.103748209353	-142.566171081548
+"Stele.Pericycle"	"Stele"	"Pericycle"	216	5	203.420055186668	-160.386942466741
+"Stele.Pericycle"	"Stele"	"Pericycle"	216	6	201.901239443612	-176.385134960267
+"Stele.Pericycle"	"Stele"	"Pericycle"	217	1	195.167056387851	-142.96751673882
+"Stele.Pericycle"	"Stele"	"Pericycle"	217	2	194.119116874429	-126.423329469635
+"Stele.Pericycle"	"Stele"	"Pericycle"	217	3	190.358239796385	-123.916078084273
+"Stele.Pericycle"	"Stele"	"Pericycle"	217	4	192.076831344439	-115.500505205795
+"Stele.Pericycle"	"Stele"	"Pericycle"	217	5	207.380292163491	-117.301855087037
+"Stele.Pericycle"	"Stele"	"Pericycle"	217	6	207.430333568555	-118.750043541704
+"Stele.Pericycle"	"Stele"	"Pericycle"	217	7	207.557747778364	-133.147849250086
+"Stele.Pericycle"	"Stele"	"Pericycle"	217	8	202.588593595825	-141.493479992556
+"Stele.Pericycle"	"Stele"	"Pericycle"	218	1	192.280920539924	-114.649349760879
+"Stele.Pericycle"	"Stele"	"Pericycle"	218	2	192.014932429049	-91.9695467423133
+"Stele.Pericycle"	"Stele"	"Pericycle"	218	3	209.626394119983	-91.4867966265316
+"Stele.Pericycle"	"Stele"	"Pericycle"	218	4	208.886038540347	-104.707431977187
+"Stele.Pericycle"	"Stele"	"Pericycle"	218	5	207.405327381073	-116.235826002958
+"Stele.Pericycle"	"Stele"	"Pericycle"	219	1	191.963625291509	-91.0637362953107
+"Stele.Pericycle"	"Stele"	"Pericycle"	219	2	191.646330043093	-80.3814629319815
+"Stele.Pericycle"	"Stele"	"Pericycle"	219	3	188.684907724546	-72.7663769700043
+"Stele.Pericycle"	"Stele"	"Pericycle"	219	4	192.915511036756	-66.3147069188848
+"Stele.Pericycle"	"Stele"	"Pericycle"	219	5	207.828387712294	-66.42047200169
+"Stele.Pericycle"	"Stele"	"Pericycle"	219	6	210.36674969962	-85.458186906633
+"Stele.Pericycle"	"Stele"	"Pericycle"	219	7	209.309098871568	-90.4291457984792
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	220	1	179.233096665476	-194.169188054266
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	220	2	179.595183729446	-162.215004658855
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	220	3	193.445013926324	-161.309786998928
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	220	4	193.535535692317	-165.383266468598
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	220	5	194.078666288273	-176.789008983674
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	220	6	191.996665670442	-194.350231586251
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	221	1	179.860566880929	-161.364936708493
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	221	2	181.559145162071	-135.508800651109
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	221	3	182.314068842578	-121.259616181529
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	221	4	189.674574727527	-124.373676363622
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	221	5	193.260462209938	-126.921543785335
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	221	6	194.3928477307	-143.529864756502
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	221	7	193.358521489746	-160.583072543208
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	222	1	182.421772347789	-120.565300937904
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	222	2	183.055731591395	-109.55025908024
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	222	3	182.468353991946	-83.7723739866442
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	222	4	191.050288283478	-83.6371749978212
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	222	5	191.21795685283	-91.6409104483541
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	222	6	191.614181380084	-115.097402461797
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	222	7	189.553813838362	-123.338872628682
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	223	1	180.53061645732	-80.1392006248049
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	223	2	182.383435922163	-83.3163768621443
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	223	3	190.967977157377	-83.0822452842933
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	223	4	190.878864900706	-80.3985449437996
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	223	5	187.755567118855	-72.9246695818332
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	223	6	181.880862265324	-73.2379871740216
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	224	1	181.840272047273	-72.7793345174469
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	224	2	181.462942439467	-68.6652090999652
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	224	3	182.799622272581	-57.8844150303308
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	224	4	189.451532950099	-57.6925329915562
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	224	5	192.777488288859	-65.2398931833563
+"Stele.Vascular Tissue"	"Stele"	"Vascular Tissue"	224	6	187.619189570864	-72.4682211221099
