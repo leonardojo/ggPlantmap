@@ -16,13 +16,6 @@ the visual representation of quantitative data in distinct plant cells
 and/or structures.
 <img src="man/figures/ggPlantmap.example1.jpg" align="center" height="250"/>
 
-## Required packages
-
-``` r
-library(tidyverse)
-library(XML)
-```
-
 ## Installation
 
 ``` r
@@ -162,7 +155,7 @@ ggPlantmap.
 ggPlantmap.plot(ggPm.At.roottip.longitudinal,ROI.id,linewidth = 1,show.legend = F)
 ```
 
-<img src="man/figures/README-unnamed-chunk-7-1.png" width="70%" />
+<img src="man/figures/README-unnamed-chunk-6-1.png" width="70%" />
 
 If you have experience with ggplot, you can feed your a ggPlantmap
 object into a ggplot with the geom\_polygon() function.
@@ -174,7 +167,7 @@ ggplot(ggPm.At.roottip.longitudinal,aes(x,y)) +
   coord_fixed() ## important to keep the aspect ratio of the plot
 ```
 
-<img src="man/figures/README-unnamed-chunk-8-1.png" width="50%" />
+<img src="man/figures/README-unnamed-chunk-7-1.png" width="50%" />
 
 ## How can I colormap distinct layers of a ggPlantmap?
 
@@ -222,7 +215,7 @@ c <- ggPlantmap.plot(ggPm.At.seed.devseries,Part,linewidth = 0.5) +
 plot_grid(a,b,c,ncol=1,labels=c("a","b","c"),align = "v")
 ```
 
-![](man/figures/README-unnamed-chunk-9-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-8-1.png)<!-- -->
 
 Each map will have their own classification. If you would like to adjust
 or create your own classification, you can save the ggPlantmap as a
@@ -256,7 +249,7 @@ head(ggPm)
 ggPlantmap.plot(ggPm)
 ```
 
-![](man/figures/README-unnamed-chunk-10-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-9-1.png)<!-- -->
 
 ## How can I overlay quantitative data into my ggPlantmap?
 
@@ -312,7 +305,7 @@ ggPlantmap.heatmap(expression.sample2,SCR.expression) +
   scale_fill_gradient(low="white",high="Red",na.value ="white")
 ```
 
-![](man/figures/README-unnamed-chunk-11-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-10-1.png)<!-- -->
 
 ``` r
 ##Quantitative sample data, the expression of AT5G47670 (LEC1-like) in distinct stages and parts of the Arabidopsis seed
@@ -348,7 +341,7 @@ ggPlantmap.heatmap(expression.sample,AT5G47670.expression) +
   scale_fill_gradient(low="white",high="Red")
 ```
 
-![](man/figures/README-unnamed-chunk-12-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-11-1.png)<!-- -->
 
 ## Is ggPlantmap only usefull for molecular expression data?
 
