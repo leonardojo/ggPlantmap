@@ -12,25 +12,26 @@ ggPlantmap is an open-source R package with the goal of facilitating the
 generation of informative ggplot maps from plant images to explore
 quantitative cell-type specific data. When combined with external
 quantitative data, ggPlantmap can be used for the visualization and
-displaying of spatial profiles in distinct parts/cells of the plant
-(Figure 1). The conceptual workflow is like other ggplot based
-geographic map packages. Included in the package there is a set of
-pre-loaded maps created from previously published plant images that can
-be directly inserted into a ggplot coding workflow. ggPlantmap enables
-users to plot heatmap signatures of gene expression or any spatial
-quantitative data onto plant images providing a customizable and
-extensible platform for visualizing, and analyzing spatial quantitative
-patterns within specific plant regions. This package uses the
-flexibility of the well-known ggplot2 R package to allow users to tailor
-maps to their specific research questions.
+displaying of spatial profiles in distinct parts/cells of the plant.
+
+Included in the package there is a set of pre-loaded maps created from
+previously published plant images that can be directly inserted into a
+ggplot coding workflow. ggPlantmap enables users to plot heatmap
+signatures of gene expression or any spatial quantitative data onto
+plant images providing a customizable and extensible platform for
+visualizing, and analyzing spatial quantitative patterns within specific
+plant regions This package uses the flexibility of the well-known
+ggplot2 R package to allow users to tailor maps to their specific
+research questions.
 <img src="man/figures/ggPlantmap.example1.jpg" align="center" height="250"/>
 
-## ggPlantmap Fuides
+## ggPlantmap guides
 
-We created a step-by-step[user
+We created a step-by-step [user
 guide](https://github.com/leonardojo/ggPlantmap/blob/main/ggPlantmap.userguide.md)
-to help users navigate through the package. We also created a
-[step-by-step guide with
+to help users navigate through the package.
+
+We also created a [step-by-step guide with
 tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
 on how to create your ggPlantmap.
 
@@ -240,11 +241,6 @@ plot_grid(a,b,c,ncol=1,labels=c("a","b","c"),align = "v")
 ```
 
 ![](man/figures/README-unnamed-chunk-8-1.png)<!-- -->
-
-Each map will have their own classification. If you would like to adjust
-or create your own classification, you can save the ggPlantmap as a
-table and modify it on to mach the degree of separation you want to
-show.
 
 ## How can I overlay quantitative data into my ggPlantmap?
 

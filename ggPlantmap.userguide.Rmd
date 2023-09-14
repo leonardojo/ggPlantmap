@@ -14,7 +14,9 @@ knitr::opts_chunk$set(
 
 ## Introduction
 
-ggPlantmap is an open-source R package with the goal of facilitating the generation of informative ggplot maps from plant images to explore quantitative cell-type specific data. When combined with external quantitative data, ggPlantmap can be used for the visualization and displaying of spatial profiles in distinct parts/cells of the plant. Included in the package there is a set of pre-loaded maps created from previously published plant images that can be directly inserted into a ggplot coding workflow. ggPlantmap enables users to plot heatmap signatures of gene expression or any spatial quantitative data onto plant images providing a customizable and extensible platform for visualizing, and analyzing spatial quantitative patterns within specific plant regions This package uses the flexibility of the well-known ggplot2 R package (Wickham, 2011) to allow users to tailor maps to their specific research questions.
+ggPlantmap is an open-source R package with the goal of facilitating the generation of informative ggplot maps from plant images to explore quantitative cell-type specific data. When combined with external quantitative data, ggPlantmap can be used for the visualization and displaying of spatial profiles in distinct parts/cells of the plant. 
+
+Included in the package there is a set of pre-loaded maps created from previously published plant images that can be directly inserted into a ggplot coding workflow. ggPlantmap enables users to plot heatmap signatures of gene expression or any spatial quantitative data onto plant images providing a customizable and extensible platform for visualizing, and analyzing spatial quantitative patterns within specific plant regions This package uses the flexibility of the well-known ggplot2 R package to allow users to tailor maps to their specific research questions.
 
 
 ## 1. Installing ggPlant map
