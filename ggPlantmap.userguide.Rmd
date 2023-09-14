@@ -104,6 +104,8 @@ ggPlantmap.plot(ggPm.At.shootapex.longitudinal,layer=ROI.id,show.legend = FALSE)
 ## Note that in the last example I included show.legend=FALSE, that's because if you map based on individual ROIs,
 ## there will be too many of them, so you can exclude the legend in the plot by adding the option
 ```
+Each map will have their own classification. If you would like to adjust or create your own classification, you can save the ggPlantmap as a table and modify it on to mach the degree of separation you want to show.
+
 
 You can also change the width of the tracing line
 ```{r}
