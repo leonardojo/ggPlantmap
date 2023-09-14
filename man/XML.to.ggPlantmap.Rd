@@ -16,5 +16,5 @@ A tibble table with x,y coordinates of individual ROIs (ROI.id) and the name of 
 Open an Icy generated XML file and extract x and y coordinates of ROIs
 }
 \examples{
-XML.to.ggPlantmap("arabidopsis.root.crossection.xml")
+XML.to.ggPlantmap("ggPm.sample.xml")
 }

@@ -69,7 +69,7 @@ ggPlantmap.plot <- function(data,layer=ROI.name,linewidth=0.5,show.legend=T) {
 #' @export
 #'
 #' @examples
-#' ggPlantmap.merge(map=ggPm.At.seed.developmentalseries,value=ggPm.seed.expression.sample,id.x="ROI.name")
+#' ggPlantmap.merge(map=ggPm.At.seed.devseries,value=ggPm.seed.expression.sample,id.x="ROI.name")
 ggPlantmap.merge <- function(map,value,id.x,id.y=id.x) {
   map %>%
     merge(value,by.x={{id.x}},by.y={{id.y}},all.x=T) %>%
@@ -90,7 +90,7 @@ ggPlantmap.merge <- function(map,value,id.x,id.y=id.x) {
 #' @export
 #'
 #' @examples
-#' quant.data <- ggPlantmap.merge(map=ggPm.At.seed.developmentalseries,value=ggPm.seed.expression.sample,id.x="ROI.name")
+#' quant.data <- ggPlantmap.merge(map=ggPm.At.seed.devseries,value=ggPm.seed.expression.sample,id.x="ROI.name")
 #' ggPlantmap.heatmap(map.quant=quant.data,value.quant=AT5G47670.expression,linewdith=1,show.legend=T)
 ggPlantmap.heatmap <- function(map.quant,value.quant=value.quant,show.legend=T,linewidth=0.5) {
   ggPlantmap <- map.quant

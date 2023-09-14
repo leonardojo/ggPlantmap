@@ -22,5 +22,5 @@ A merged tibble with values assigned to specific levels of your ggPlantmap
 combine a ggPlantmap with a table that contain quantitative data for specific ROIs of your ggPlantmap.
 }
 \examples{
-ggPlantmap.merge(map=ggPm.At.seed.developmentalseries,value=ggPm.At.seed.expressionsample,id.x="ROI.name")
+ggPlantmap.merge(map=ggPm.At.seed.developmentalseries,value=ggPm.seed.expression.sample,id.x="ROI.name")
 }

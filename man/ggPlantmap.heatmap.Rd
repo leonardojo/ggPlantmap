@@ -27,7 +27,6 @@ A ggplot generated heatmap of your ggPlantmap with colors that depicts the conti
 produce a heatmap from a ggPlantmap that contains quantitative values for specific ROI levels.
 }
 \examples{
-quant.data <- ggPlantmap.merge(map=ggPm.At.seed.developmentalseries,value=ggPm.At.seed.expressionsample,id.x="ROI.name")
-ggPlantmap.heatmap(map.quant=quant.data,value.quant=gene.expression,linewdith=1,show.legend=T) +
-scale_fill_gradient(low="white",high="red")
+quant.data <- ggPlantmap.merge(map=ggPm.At.seed.developmentalseries,value=ggPm.seed.expression.sample,id.x="ROI.name")
+ggPlantmap.heatmap(map.quant=quant.data,value.quant=AT5G47670.expression,linewdith=1,show.legend=T)
 }
