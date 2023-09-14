@@ -10,7 +10,7 @@
 #' @export
 #'
 #' @examples
-#' XML.to.ggPlantmap("ggPm.sample.xml")
+#' XML.to.ggPlantmap("data/ggPm.sample.xml")
 XML.to.ggPlantmap <- function(data) {
   xml.ROI <- XML::xmlToList(data)
   final.ROI <- NULL
