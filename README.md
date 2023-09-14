@@ -8,13 +8,29 @@
 
 ## Overview
 
-ggPlantmap is a R tidyverse based package with a series of plant images
-to be mapped in a ggplot enviroment. We also provide a series of
-functions and instructions to easily create your own personal
-ggPlantmap. These ggPlantmap objects can be added into R pipelines for
-the visual representation of quantitative data in distinct plant cells
-and/or structures.
+ggPlantmap is an open-source R package with the goal of facilitating the
+generation of informative ggplot maps from plant images to explore
+quantitative cell-type specific data. When combined with external
+quantitative data, ggPlantmap can be used for the visualization and
+displaying of spatial profiles in distinct parts/cells of the plant
+(Figure 1). The conceptual workflow is like other ggplot based
+geographic map packages. Included in the package there is a set of
+pre-loaded maps created from previously published plant images that can
+be directly inserted into a ggplot coding workflow. ggPlantmap enables
+users to plot heatmap signatures of gene expression or any spatial
+quantitative data onto plant images providing a customizable and
+extensible platform for visualizing, and analyzing spatial quantitative
+patterns within specific plant regions. This package uses the
+flexibility of the well-known ggplot2 R package to allow users to tailor
+maps to their specific research questions.
 <img src="man/figures/ggPlantmap.example1.jpg" align="center" height="250"/>
+
+## ggPlantmap User Guide
+
+Below you can find general instructions on how to navigate through
+ggPlantmap. We also created a step-by-step [user
+guide](https://github.com/leonardojo/ggPlantmap/blob/main/ggPlantmap.userguide.md)
+to help you get familiar with the package.
 
 ## Installation
 
@@ -46,6 +62,8 @@ head(ggPm.At.roottip.longitudinal)
 #> 6 Meristem.QC Meristem QC          1     6  134. -327.
 ```
 
+<img src="man/figures/guide/Slide6.JPG" align="center" height="500"/>
+
 ## Where can I find the list of all ggPlantmaps objects?
 
 The whole list of pre-loaded ggPlantmap objects can be found in the
@@ -72,21 +90,21 @@ head(ggPm.summary)
 
 ##Listing all the ggPlantmap objects
 ggPm.summary$ggPlantmap.name
-#>  [1] "ggPm.At.roottip.crosssection"         
-#>  [2] "ggPm.At.roottip.longitudinal"         
-#>  [3] "ggPm.At.3weekrosette.topview"         
-#>  [4] "ggPm.At.leafepidermis.topview"        
-#>  [5] "ggPm.At.leaf.crosssection"            
-#>  [6] "ggPm.At.seed.devseries"               
-#>  [7] "ggPm.At.earlyembryogenesis.devseries" 
-#>  [8] "ggPm.At.shootapex.longitudinal"       
-#>  [9] "ggPm.At.inflorescencestem.crossection"
-#> [10] "ggPm.Sl.root.crossection"             
-#> [11] "ggPm.At.leaf.topview"                 
-#> [12] "ggPm.At.rootelong.longitudinal"       
-#> [13] "ggPm.At.rootmatur.crosssection"       
-#> [14] "ggPm.At.flower.diagram"               
-#> [15] "ggPm.At.lateralroot.devseries"        
+#>  [1] "ggPm.At.roottip.crosssection"          
+#>  [2] "ggPm.At.roottip.longitudinal"          
+#>  [3] "ggPm.At.3weekrosette.topview"          
+#>  [4] "ggPm.At.leafepidermis.topview"         
+#>  [5] "ggPm.At.leaf.crosssection"             
+#>  [6] "ggPm.At.seed.devseries"                
+#>  [7] "ggPm.At.earlyembryogenesis.devseries"  
+#>  [8] "ggPm.At.shootapex.longitudinal"        
+#>  [9] "ggPm.At.inflorescencestem.crosssection"
+#> [10] "ggPm.Sl.root.crosssection"             
+#> [11] "ggPm.At.leaf.topview"                  
+#> [12] "ggPm.At.rootelong.longitudinal"        
+#> [13] "ggPm.At.rootmatur.crosssection"        
+#> [14] "ggPm.At.flower.diagram"                
+#> [15] "ggPm.At.lateralroot.devseries"         
 #> [16] "ggPm.Ms.root.crosssection"
 ```
 
@@ -172,48 +190,19 @@ ggplot(ggPm.At.roottip.longitudinal,aes(x,y)) +
 ## How can I colormap distinct layers of a ggPlantmap?
 
 Because each polygon on ggPlantmap is characterized by specific levels
-(examples: Region,Stage,Part), you can color map them individually. Just
-specify the column you want to colormap in the layer option of the
-function. ggPlantmap.plot() is based on ggplot so you can add specific
-modifications to it using ggplot coding logic.
+(examples: Region,Stage,Part), you can color map them individually.
+Using ggPlantmap, you can color map based on unique layers of the
+ggPlantmap.
 
-``` r
-library(ggplot2)
-library(cowplot)
-
-head(ggPm.At.seed.devseries)
-#> # A tibble: 6 × 8
-#>   ROI.name                           Stage Part  Region ROI.id point     x     y
-#>   <chr>                              <chr> <chr> <chr>   <int> <int> <dbl> <dbl>
-#> 1 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     1  277. -693.
-#> 2 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     2  280. -689.
-#> 3 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     3  280. -685.
-#> 4 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     4  285. -681.
-#> 5 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     5  286. -675.
-#> 6 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     6  286. -669.
-
-## Stage: Seed development stage
-## Part: Distinct parts of a seed (Seed coat, Endosperm and Embryo)
-## Region: Specific regions of each part of the Arabidopsis seed
-## Reference: Belmonte, Mark F., et al. "Comprehensive developmental profiles of gene activity in regions and subregions of the Arabidopsis seed." Proceedings of the National Academy of Sciences 110.5 (2013): E435-E444.
-
-a <- ggPlantmap.plot(ggPm.At.seed.devseries,Region,linewidth = 0.5) +
-  scale_fill_brewer(palette="Set3") +
-  ggtitle("Regions of Arabidopsis seed development") +
-   theme(legend.key.height= unit(0.25, 'cm'),
-        legend.key.width= unit(0.25, 'cm'))
-b <- ggPlantmap.plot(ggPm.At.seed.devseries,Stage,linewidth = 0.5) +
-  scale_fill_brewer(palette="Set1") +
-  ggtitle("Stages of Arabidopsis seed development") +
-   theme(legend.key.height= unit(0.25, 'cm'),
-        legend.key.width= unit(0.25, 'cm'))
-c <- ggPlantmap.plot(ggPm.At.seed.devseries,Part,linewidth = 0.5) +
-  scale_fill_brewer(palette="Set1") +
-  ggtitle("Parts of Arabidopsis seed development") +
-   theme(legend.key.height= unit(0.25, 'cm'),
-        legend.key.width= unit(0.25, 'cm'))
-plot_grid(a,b,c,ncol=1,labels=c("a","b","c"),align = "v")
-```
+    #> # A tibble: 6 × 8
+    #>   ROI.name                           Stage Part  Region ROI.id point     x     y
+    #>   <chr>                              <chr> <chr> <chr>   <int> <int> <dbl> <dbl>
+    #> 1 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     1  277. -693.
+    #> 2 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     2  280. -689.
+    #> 3 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     3  280. -685.
+    #> 4 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     4  285. -681.
+    #> 5 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     5  286. -675.
+    #> 6 Preglobular.seedcoat.Distal Seed … Preg… seed… Dista…      1     6  286. -669.
 
 ![](man/figures/README-unnamed-chunk-8-1.png)<!-- -->
 
@@ -237,14 +226,14 @@ tutorial here.
 ggPm <- XML.to.ggPlantmap("data/ggPm.sample.xml")
 head(ggPm)
 #> # A tibble: 6 × 5
-#>   ROI.name  ROI.id point     x     y
-#>   <chr>      <int> <int> <dbl> <dbl>
-#> 1 Epidermis      1     1  156. -333.
-#> 2 Epidermis      1     2  167. -332.
-#> 3 Epidermis      1     3  177. -340.
-#> 4 Epidermis      1     4  176. -380.
-#> 5 Epidermis      1     5  173. -384.
-#> 6 Epidermis      1     6  165. -387.
+#>   ROI.name ROI.id point     x     y
+#>   <chr>     <int> <int> <dbl> <dbl>
+#> 1 C1            1     1  270. -308.
+#> 2 C1            1     2  234. -287.
+#> 3 C1            1     3  241. -257.
+#> 4 C1            1     4  271. -238.
+#> 5 C1            1     5  285. -243.
+#> 6 C1            1     6  307. -270.
 ##plotting the ggPm
 ggPlantmap.plot(ggPm)
 ```
@@ -253,95 +242,34 @@ ggPlantmap.plot(ggPm)
 
 ## How can I overlay quantitative data into my ggPlantmap?
 
-Over the recent years, we are seeing a crescent interest on the
-characterization of molecular events that occur in specific cells/parts
-of the plant, such as single-cell sequencing approaches
-(ScRNA-seq,ScATAC-seq,TRAP-seq,LCM-RNAseq,etc) as well as
-high-resolution spatial profiling of RNAs in plant cells (PHYTOmap,In
-situ hybridization chain reaction (HCR), merFISH, Stereo-Seq,etc). These
-techniques offer powerful insights to understand cell-type specific
-events in a complex plant tissue. To better explore this type of data,
-it would be important to create tools that allow us to visualize and
-communicate the quantitative features of cells/parts the plant.
-
-With ggPlantmap, we can overlay external quantitative data in the map as
-a form of a heatmap. You can combine the ggPlantmap with a external
-quantitative data using the ggPlantmap.merge() function. later, the
-heatmap can be generated using the ggPlantmap.heatmap() function.
+With ggPlantmap you can overlay quantitative data into your ggPlantmap
+to visualize it as sort of a heatmap. To do so, you will need another
+table with contains quantitative data attributed to your ROIs.
+<img src="man/figures/guide/Slide7.JPG" align="center" width="1200"/><br />
 
 This approach can be very helpful for R Shiny app developers to create
 web interactive tools to visualize gene expression gene profiles.
 
-``` r
-##Quantitative sample data, the expression of SCR in distinct cell-types of the Tomato root.
-## Adapted data from: Kajala, Kaisa, et al. "Innovation, conservation, and repurposing of gene function in root cell type development." Cell 184.12 (2021): 3333-3348.
-head(ggPm.tomatoatlas.expression.sample)
-#> # A tibble: 6 × 2
-#>   Cell.layer SCR.expression
-#>   <chr>               <dbl>
-#> 1 Epidermis            1.24
-#> 2 Cortex               1.17
-#> 3 Endodermis          75.8 
-#> 4 Phloem               0.44
-#> 5 Procambium           0.95
-#> 6 Pericycle            0.95
-##important: Names in the quantitative data needs to match the ones found in the map.
-
-##Merging both datasets
-expression.sample2 <- ggPlantmap.merge(ggPm.Sl.root.crosssection,ggPm.tomatoatlas.expression.sample,id.x = "ROI.name",id.y="Cell.layer") ##Column names between tables are different, need to specify both identifiers in x and y.
-head(expression.sample2)
-#> # A tibble: 6 × 6
-#>   ROI.name  ROI.id point     x     y SCR.expression
-#>   <chr>      <int> <int> <dbl> <dbl>          <dbl>
-#> 1 Exodermis      1     1  615. -370.             NA
-#> 2 Exodermis      1     2  601. -349.             NA
-#> 3 Exodermis      1     3  598. -327.             NA
-#> 4 Exodermis      1     4  617. -312.             NA
-#> 5 Exodermis      1     5  636. -307.             NA
-#> 6 Exodermis      1     6  651. -310.             NA
-
-##Ploting
-ggPlantmap.heatmap(expression.sample2,SCR.expression) +
-  scale_fill_gradient(low="white",high="Red",na.value ="white")
-```
+    #> # A tibble: 6 × 2
+    #>   Cell.layer SCR.expression
+    #>   <chr>               <dbl>
+    #> 1 Epidermis            1.24
+    #> 2 Cortex               1.17
+    #> 3 Endodermis          75.8 
+    #> 4 Phloem               0.44
+    #> 5 Procambium           0.95
+    #> 6 Pericycle            0.95
+    #> # A tibble: 6 × 6
+    #>   ROI.name  ROI.id point     x     y SCR.expression
+    #>   <chr>      <int> <int> <dbl> <dbl>          <dbl>
+    #> 1 Exodermis      1     1  615. -370.             NA
+    #> 2 Exodermis      1     2  601. -349.             NA
+    #> 3 Exodermis      1     3  598. -327.             NA
+    #> 4 Exodermis      1     4  617. -312.             NA
+    #> 5 Exodermis      1     5  636. -307.             NA
+    #> 6 Exodermis      1     6  651. -310.             NA
 
 ![](man/figures/README-unnamed-chunk-10-1.png)<!-- -->
-
-``` r
-##Quantitative sample data, the expression of AT5G47670 (LEC1-like) in distinct stages and parts of the Arabidopsis seed
-## Data from: Belmonte, Mark F., et al. "Comprehensive developmental profiles of gene activity in regions and subregions of the Arabidopsis seed." Proceedings of the National Academy of Sciences 110.5 (2013): E435-E444.
-head(ggPm.At.seed.expression.sample)
-#> # A tibble: 6 × 2
-#>   ROI.name                                AT5G47670.expression
-#>   <chr>                                                  <int>
-#> 1 Globular.endosperm.Chalazal Endosperm                     16
-#> 2 Globular.seedcoat.Chalazal Seed Coat                       8
-#> 3 Globular.embryo.Embryo Proper                             10
-#> 4 Globular.endosperm.Micropylar Endosperm                   48
-#> 5 Globular.endosperm.Peripheral Endosperm                   10
-#> 6 Globular.seedcoat.Distal Seed Coat                        10
-##important: Names in the quantitative data needs to match the ones found in the map.
-
-##Merging both datasets
-expression.sample <- ggPlantmap.merge(ggPm.At.seed.devseries,ggPm.At.seed.expression.sample,"ROI.name")
-head(expression.sample)
-#> # A tibble: 6 × 9
-#>   ROI.name                   Stage Part  Region ROI.id point     x     y AT5G4…¹
-#>   <chr>                      <chr> <chr> <chr>   <int> <int> <dbl> <dbl>   <int>
-#> 1 Preglobular.seedcoat.Dist… Preg… seed… Dista…      1     1  277. -693.       8
-#> 2 Preglobular.seedcoat.Dist… Preg… seed… Dista…      1     2  280. -689.       8
-#> 3 Preglobular.seedcoat.Dist… Preg… seed… Dista…      1     3  280. -685.       8
-#> 4 Preglobular.seedcoat.Dist… Preg… seed… Dista…      1     4  285. -681.       8
-#> 5 Preglobular.seedcoat.Dist… Preg… seed… Dista…      1     5  286. -675.       8
-#> 6 Preglobular.seedcoat.Dist… Preg… seed… Dista…      1     6  286. -669.       8
-#> # … with abbreviated variable name ¹​AT5G47670.expression
-
-##Ploting
-ggPlantmap.heatmap(expression.sample,AT5G47670.expression) +
-  scale_fill_gradient(low="white",high="Red")
-```
-
-![](man/figures/README-unnamed-chunk-11-1.png)<!-- -->
 
 ## Is ggPlantmap only usefull for molecular expression data?
 
@@ -350,7 +278,7 @@ plots. Essentially anything that you can trace, you can create! Be
 creative! We hope to build a community where people explore the usage of
 ggPlantmap for the communication of Plant science.
 
-<img src="man/figures/ggPm.otherexamples.png" align="center" height="500"/></a>
+<img src="man/figures/ggPm.otherexamples.png" align="center" height="450"/></a>
 
 ## Can my ggPlantmap be included in the package?
 
