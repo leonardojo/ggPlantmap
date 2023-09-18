@@ -106,8 +106,39 @@ ggPlantmap.plot(ggPm.At.shootapex.longitudinal,layer=ROI.id,show.legend = FALSE)
 ## Note that in the last example I included show.legend=FALSE, that's because if you map based on individual ROIs,
 ## there will be too many of them, so you can exclude the legend in the plot by adding the option
 ```
-Each map will have their own classification. If you would like to adjust or create your own classification, you can save the ggPlantmap as a table and modify it on to mach the degree of separation you want to show.
 
+## Different maps will have different layers
+
+Because each polygon on ggPlantmap is characterized by specific levels (examples: Region,Stage,Part), you can color map them individually. Using ggPlantmap, you can color map based on unique layers of the ggPlantmap.
+Each map will have their own classification. If you would like to adjust or create your own classification, you can save the ggPlantmap as a table and modify it on to mach the degree of separation you want to show.
+```{r,warning=F}
+library(ggplot2)
+library(cowplot)
+
+head(ggPm.At.seed.devseries)
+
+## Stage: Seed development stage
+## Part: Distinct parts of a seed (Seed coat, Endosperm and Embryo)
+## Region: Specific regions of each part of the Arabidopsis seed
+## Reference: Belmonte, Mark F., et al. "Comprehensive developmental profiles of gene activity in regions and subregions of the Arabidopsis seed." Proceedings of the National Academy of Sciences 110.5 (2013): E435-E444.
+
+a <- ggPlantmap.plot(ggPm.At.seed.devseries,Region,linewidth = 0.5) +
+  scale_fill_brewer(palette="Set3") +
+  ggtitle("Regions of Arabidopsis seed development") +
+   theme(legend.key.height= unit(0.25, 'cm'),
+        legend.key.width= unit(0.25, 'cm'))
+b <- ggPlantmap.plot(ggPm.At.seed.devseries,Stage,linewidth = 0.5) +
+  scale_fill_brewer(palette="Set1") +
+  ggtitle("Stages of Arabidopsis seed development") +
+   theme(legend.key.height= unit(0.25, 'cm'),
+        legend.key.width= unit(0.25, 'cm'))
+c <- ggPlantmap.plot(ggPm.At.seed.devseries,Part,linewidth = 0.5) +
+  scale_fill_brewer(palette="Set1") +
+  ggtitle("Parts of Arabidopsis seed development") +
+   theme(legend.key.height= unit(0.25, 'cm'),
+        legend.key.width= unit(0.25, 'cm'))
+plot_grid(a,b,c,ncol=1,labels=c("a","b","c"),align = "v")
+```
 
 You can also change the width of the tracing line
 ```{r}
