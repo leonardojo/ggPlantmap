@@ -163,6 +163,18 @@ ggPlantmap.plot(data=ggPm.At.lateralroot.devseries) ## or ggPlantmap.plot(ggPm.A
 
 ![](man/figures/userguide-unnamed-chunk-8-1.png)<!-- -->
 
+### Note that the same plot can be obtained using geom\_polygon() on ggplot2
+
+``` r
+library(ggplot2)
+#> Warning: package 'ggplot2' was built under R version 4.1.2
+ggplot(ggPm.At.lateralroot.devseries,aes(x,y)) +
+  geom_polygon(aes(group=ROI.id,fill=ROI.name),colour="black") +
+  coord_fixed()
+```
+
+![](man/figures/userguide-unnamed-chunk-9-1.png)<!-- -->
+
 ### 2.6 Changing the color map, legends and aesthetics
 
 You can change the color mapping based on different layers of each ROI
@@ -190,19 +202,19 @@ column in the layer parameter of the function.
 ggPlantmap.plot(ggPm.At.shootapex.longitudinal,layer=Zone)
 ```
 
-![](man/figures/userguide-unnamed-chunk-10-1.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-11-1.png)<!-- -->
 
 ``` r
 ggPlantmap.plot(ggPm.At.shootapex.longitudinal,layer=Layer)
 ```
 
-![](man/figures/userguide-unnamed-chunk-10-2.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-11-2.png)<!-- -->
 
 ``` r
 ggPlantmap.plot(ggPm.At.shootapex.longitudinal,layer=ROI.id,show.legend = FALSE)
 ```
 
-![](man/figures/userguide-unnamed-chunk-10-3.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-11-3.png)<!-- -->
 
 ``` r
 ## Note that in the last example I included show.legend=FALSE, that's because if you map based on individual ROIs,
@@ -257,7 +269,7 @@ c <- ggPlantmap.plot(ggPm.At.seed.devseries,Part,linewidth = 0.5) +
 plot_grid(a,b,c,ncol=1,labels=c("a","b","c"),align = "v")
 ```
 
-![](man/figures/userguide-unnamed-chunk-11-1.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-12-1.png)<!-- -->
 
 You can also change the width of the tracing line
 
@@ -265,13 +277,13 @@ You can also change the width of the tracing line
 ggPlantmap.plot(ggPm.At.shootapex.longitudinal,layer=Zone,linewidth = 1)
 ```
 
-![](man/figures/userguide-unnamed-chunk-12-1.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-13-1.png)<!-- -->
 
 ``` r
 ggPlantmap.plot(ggPm.At.shootapex.longitudinal,layer=Zone,linewidth = 5)
 ```
 
-![](man/figures/userguide-unnamed-chunk-12-2.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-13-2.png)<!-- -->
 
 ### 2.7 Working in ggPlantmap through ggplot command lines.
 
@@ -288,7 +300,7 @@ ggPlantmap.plot(ggPm.At.inflorescencestem.crosssection) +
   scale_fill_brewer(palette="Paired")
 ```
 
-![](man/figures/userguide-unnamed-chunk-13-1.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-14-1.png)<!-- -->
 
 ``` r
 ggPlantmap.plot(ggPm.At.leaf.topview,show.legend = F) +
@@ -296,7 +308,7 @@ ggPlantmap.plot(ggPm.At.leaf.topview,show.legend = F) +
   theme_bw()
 ```
 
-![](man/figures/userguide-unnamed-chunk-13-2.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-14-2.png)<!-- -->
 
 ## 3. Overlay quantitative data
 
@@ -409,7 +421,7 @@ example: AT5G47670.expression
 ggPlantmap.heatmap(quant.data,AT5G47670.expression)
 ```
 
-![](man/figures/userguide-unnamed-chunk-18-1.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-19-1.png)<!-- -->
 
 ``` r
 ## you can change the gradient
@@ -417,7 +429,7 @@ ggPlantmap.heatmap(quant.data,AT5G47670.expression) +
   scale_fill_gradient(low="white",high="darkred")
 ```
 
-![](man/figures/userguide-unnamed-chunk-18-2.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-19-2.png)<!-- -->
 
 ### 4 Create your own ggPlantmap
 
@@ -441,7 +453,11 @@ new.ggPlantmap <- XML.to.ggPlantmap("data-raw/roi.xml")
 ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
 
-![](man/figures/userguide-unnamed-chunk-19-1.png)<!-- -->
+![](man/figures/userguide-unnamed-chunk-20-1.png)<!-- -->
+
+A more detailed tutorial can be found
+[here](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
+on how to generate xml images from plant images.
 
 ### 5 That’s it!
 

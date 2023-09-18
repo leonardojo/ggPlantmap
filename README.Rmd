@@ -33,34 +33,48 @@ library(devtools)
 install_github("leonardojo/ggPlantmap")
 ```
 
+
 ## ggPlantmap guides (HIGHLY RECOMMENDED!)
 
 We  created a step-by-step [user guide](https://github.com/leonardojo/ggPlantmap/blob/main/ggPlantmap.userguide.md) to help users navigate through the package. 
 
-We also created a [step-by-step guide with tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf) on how to create your ggPlantmap.
+We also created a [step-by-step guide with tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf) on how to create your own ggPlantmap.
+
 
 ## What is a ggPlantmap?
 
-Each unique ggPlantmap is a table (tibble) object with points coordinates (x,y) of specific polygons extracted from plant images.
+Each unique ggPlantmap is a table (tibble) object with points coordinates (x,y) of specific points of polygons (ROIs) extracted from plant images.
 ```{r}
 library(ggPlantmap)
 head(ggPm.At.roottip.longitudinal)
 ```
 <img src="man/figures/guide/Slide6.JPG" align="center" height="500"/>
 
+
+## Plotting a ggPlantmap
+
+ggPlantmaps can be plotted easily plotted using the ggPlantmap.plot() function
+```{r,warning=F,echo=T,out.width="50%",fig.align="center"}
+library(ggPlantmap)
+ggPlantmap.plot(ggPm.At.earlyembryogenesis.devseries,Cell)
+ggPlantmap.plot(ggPm.At.roottip.longitudinal,Level1)
+```
+
 ## Pre-loaded ggPlantmaps
 The package contain a series of pre-loaded ggPlantmaps created from previously published plant images.
 We hope to update the package with the contribution of the plant research community.
+
 ```{r}
 library(ggPlantmap)
-head(ggPm.summary)
+ggPm.summary
 ```
 <img src="man/figures/ggPm.someexamples.jpg" align="center" height="500"/>
+
 
 ## Color mapping
 These maps can be easily loaded into a ggplot coding environment and their color mapping changed based on the distinct layer classification of each ggPlantmap.
 
-```{r,warning=F,echo=F}
+```{r,warning=F,echo=F,out.width="50%",fig.align="center"}
 library(ggplot2)
 library(cowplot)
 ## Stage: Seed development stage
@@ -85,19 +99,36 @@ c <- ggPlantmap.plot(ggPm.At.seed.devseries,Part,linewidth = 0.5) +
 plot_grid(a,b,c,ncol=1,labels=c("a","b","c"),align = "v")
 ```
 
-We created a series of pre-loaded ggPlantmaps
+```{r,warning=F,echo=F,out.width="50%",fig.align="center"}
+library(ggPlantmap)
+library(ggplot2)
+library(cowplot)
+a <- ggPlantmap.plot(ggPm.At.shootapex.longitudinal,Zone) +
+  scale_fill_brewer(palette="Set2") +
+    ggtitle("Shoot Apical Meristem - Zones") +
+   theme(legend.key.height= unit(0.25, 'cm'),
+        legend.key.width= unit(0.25, 'cm'))
+b <- ggPlantmap.plot(ggPm.At.shootapex.longitudinal,Layer) +
+  scale_fill_brewer(palette="YlGn") +
+  ggtitle("Shoot Apical Meristem - Layers") +
+   theme(legend.key.height= unit(0.25, 'cm'),
+        legend.key.width= unit(0.25, 'cm'))
+plot_grid(a,b,ncol=1,labels=c("d","e"),align = "v")
+```
+
 
 ## Overlaying external quantitative data into a ggPlantmap
 
   With ggPlantmap you can overlay quantitative data into your ggPlantmap to visualize it as sort of a heatmap.
-To do so, you will need another table with contains quantitative data attributed to your ROIs.
+To do so, you will need another table that contains quantitative data attributed to your ROIs.
 <img src="man/figures/guide/Slide7.JPG" align="center" width="1200"/><br />
-his approach can be very helpful for R Shiny app developers to create web interactive tools to visualize gene expression gene profiles.
 
+This approach can be very helpful for R Shiny app developers to create web interactive tools to visualize quantitative data in plant cell or structures.
 
 Some examples of heatmaps generated from available published data:
 <img src="man/figures/README-Slide2.PNG" align="center" width="1000"/><br />
 <img src="man/figures/README-Slide3.PNG" align="center" width="1000"/><br />
+
 
 ## Is ggPlantmap only usefull for molecular expression data?
 
@@ -105,10 +136,11 @@ Not at all. ggPlantmap can also be used to produce many other type of plots. Ess
 
 <img src="man/figures/README-Slide4.PNG" align="center" width="1000"/><br />
 
+
 ## How can I create my own ggPlantmap?
 
 The principle of creating a ggPlantmap is fairly simple. We generate a list of ROIs (region of interests) in the Icy open-source software (https://icy.bioimageanalysis.org/) from any image. These ROIs are saved as XML files and later be converted into ggPlantmaps with the XML.to.ggPlantmap() function.
-[We created step-by-step guide with tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf). on how to generate xml images from plant images.
+[We created step-by-step guide with tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf) on how to generate xml images from plant images.
 
 <img src="man/figures/README-Slide1.PNG" align="center" width="600"/>
 
@@ -117,9 +149,10 @@ new.ggPlantmap <- XML.to.ggPlantmap("data/ggPm.sample.xml")
 ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
 
+
 ## Can my ggPlantmap be included in the package?
 
-YES!!! Any Plant map can be included in the package. If you create one, please email me (l.jo@uu.nl) your ggPlantmap as tab-delimited table and I'll make sure to include in the package. You will be credited and your information will be displayed in the summary file. I really hope this becomes an organic package with the contribution of the plant research community.
+YES!!! Any Plant map can be included in the package. If you create one, please email me (jo.leonardo85@gmail.com) your ggPlantmap as tab-delimited table and I'll make sure to include in the package. You will be credited and your information will be displayed in the summary file. I really hope this becomes an organic package with the contribution of the plant research community.
 
 ## Acknowledgements
 We would like to acknowledge Kaisa Kajala, Lisa Oskam, Monica Garcia Gomez, Pierre Gautrat and Kyra van der Velde for testing ggPlantmap. We also would like to acknowledge Andres Romanowski for providing some data for the initial tests of ggPlantmap.

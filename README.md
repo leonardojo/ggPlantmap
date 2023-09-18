@@ -44,12 +44,13 @@ to help users navigate through the package.
 
 We also created a [step-by-step guide with
 tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
-on how to create your ggPlantmap.
+on how to create your own ggPlantmap.
 
 ## What is a ggPlantmap?
 
 Each unique ggPlantmap is a table (tibble) object with points
-coordinates (x,y) of specific polygons extracted from plant images.
+coordinates (x,y) of specific points of polygons (ROIs) extracted from
+plant images.
 
 ``` r
 library(ggPlantmap)
@@ -67,6 +68,24 @@ head(ggPm.At.roottip.longitudinal)
 
 <img src="man/figures/guide/Slide6.JPG" align="center" height="500"/>
 
+## Plotting a ggPlantmap
+
+ggPlantmaps can be plotted easily plotted using the ggPlantmap.plot()
+function
+
+``` r
+library(ggPlantmap)
+ggPlantmap.plot(ggPm.At.earlyembryogenesis.devseries,Cell)
+```
+
+<img src="man/figures/README-unnamed-chunk-4-1.png" width="50%" style="display: block; margin: auto;" />
+
+``` r
+ggPlantmap.plot(ggPm.At.roottip.longitudinal,Level1)
+```
+
+<img src="man/figures/README-unnamed-chunk-4-2.png" width="50%" style="display: block; margin: auto;" />
+
 ## Pre-loaded ggPlantmaps
 
 The package contain a series of pre-loaded ggPlantmaps created from
@@ -75,16 +94,26 @@ the contribution of the plant research community.
 
 ``` r
 library(ggPlantmap)
-head(ggPm.summary)
-#> # A tibble: 6 × 9
-#>   ggPlantmap.name    Species Tissue Type  Descr…¹ Layers Image…² Made.by Conta…³
-#>   <chr>              <chr>   <chr>  <chr> <chr>   <chr>  <chr>   <chr>   <chr>  
-#> 1 ggPm.At.roottip.c… Arabid… root   cros… Cross-… Cells  https:… Leonar… jo.leo…
-#> 2 ggPm.At.roottip.l… Arabid… root   long… Longit… Cells  https:… Leonar… jo.leo…
-#> 3 ggPm.At.3weekrose… Arabid… roset… top … Top vi… Leaves https:… Leonar… jo.leo…
-#> 4 ggPm.At.leafepide… Arabid… leaf … top … Top vi… Cells  https:… Leonar… jo.leo…
-#> 5 ggPm.At.leaf.cros… Arabid… leaves cros… Cross-… Cells  https:… Leonar… jo.leo…
-#> 6 ggPm.At.seed.devs… Arabid… seed   deve… Diagra… Cells… https:… Leonar… jo.leo…
+ggPm.summary
+#> # A tibble: 16 × 9
+#>    ggPlantmap.name   Species Tissue Type  Descr…¹ Layers Image…² Made.by Conta…³
+#>    <chr>             <chr>   <chr>  <chr> <chr>   <chr>  <chr>   <chr>   <chr>  
+#>  1 ggPm.At.roottip.… Arabid… root   cros… Cross-… Cells  https:… Leonar… jo.leo…
+#>  2 ggPm.At.roottip.… Arabid… root   long… Longit… Cells  https:… Leonar… jo.leo…
+#>  3 ggPm.At.3weekros… Arabid… roset… top … Top vi… Leaves https:… Leonar… jo.leo…
+#>  4 ggPm.At.leafepid… Arabid… leaf … top … Top vi… Cells  https:… Leonar… jo.leo…
+#>  5 ggPm.At.leaf.cro… Arabid… leaves cros… Cross-… Cells  https:… Leonar… jo.leo…
+#>  6 ggPm.At.seed.dev… Arabid… seed   deve… Diagra… Cells… https:… Leonar… jo.leo…
+#>  7 ggPm.At.earlyemb… Arabid… embryo deve… Diagra… Cells… https:… Leonar… jo.leo…
+#>  8 ggPm.At.shootape… Arabid… shoot… long… Diagra… Layer… https:… Leonar… jo.leo…
+#>  9 ggPm.At.inflores… Arabid… inflo… cros… Cross-… Cells  https:… Leonar… jo.leo…
+#> 10 ggPm.Sl.root.cro… Solanu… root   cros… Cross-… Cells  https:… Leonar… jo.leo…
+#> 11 ggPm.At.leaf.top… Arabid… leaf   top … Top vi… Leaves http:/… Leonar… jo.leo…
+#> 12 ggPm.At.rootelon… Arabid… root … long… Longit… Cells  https:… Leonar… jo.leo…
+#> 13 ggPm.At.rootmatu… Arabid… root … cros… Cross-… Cells  https:… Leonar… jo.leo…
+#> 14 ggPm.At.flower.d… Arabid… flower diag… Diagra… Tissu… Taiz, … Leonar… jo.leo…
+#> 15 ggPm.At.lateralr… Arabid… later… deve… Diagra… Cells… https:… Leonar… jo.leo…
+#> 16 ggPm.Ms.root.cro… Medica… root   cros… Cross-… Cells  Unpubl… Leonar… jo.leo…
 #> # … with abbreviated variable names ¹​Description, ²​Image.Reference,
 #> #   ³​Contact.Info
 ```
@@ -97,18 +126,20 @@ These maps can be easily loaded into a ggplot coding environment and
 their color mapping changed based on the distinct layer classification
 of each ggPlantmap.
 
-![](man/figures/README-unnamed-chunk-5-1.png)<!-- -->
+<img src="man/figures/README-unnamed-chunk-6-1.png" width="50%" style="display: block; margin: auto;" />
 
-We created a series of pre-loaded ggPlantmaps
+<img src="man/figures/README-unnamed-chunk-7-1.png" width="50%" style="display: block; margin: auto;" />
 
 ## Overlaying external quantitative data into a ggPlantmap
 
 With ggPlantmap you can overlay quantitative data into your ggPlantmap
 to visualize it as sort of a heatmap. To do so, you will need another
-table with contains quantitative data attributed to your ROIs.
+table that contains quantitative data attributed to your ROIs.
 <img src="man/figures/guide/Slide7.JPG" align="center" width="1200"/><br />
-his approach can be very helpful for R Shiny app developers to create
-web interactive tools to visualize gene expression gene profiles.
+
+This approach can be very helpful for R Shiny app developers to create
+web interactive tools to visualize quantitative data in plant cell or
+structures.
 
 Some examples of heatmaps generated from available published data:
 <img src="man/figures/README-Slide2.PNG" align="center" width="1000"/><br />
@@ -130,7 +161,7 @@ list of ROIs (region of interests) in the Icy open-source software
 (<https://icy.bioimageanalysis.org/>) from any image. These ROIs are
 saved as XML files and later be converted into ggPlantmaps with the
 XML.to.ggPlantmap() function. [We created step-by-step guide with
-tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf).
+tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
 on how to generate xml images from plant images.
 
 <img src="man/figures/README-Slide1.PNG" align="center" width="600"/>
@@ -140,16 +171,16 @@ new.ggPlantmap <- XML.to.ggPlantmap("data/ggPm.sample.xml")
 ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
 
-<img src="man/figures/README-unnamed-chunk-6-1.png" width="50%" />
+<img src="man/figures/README-unnamed-chunk-8-1.png" width="50%" />
 
 ## Can my ggPlantmap be included in the package?
 
 YES!!! Any Plant map can be included in the package. If you create one,
-please email me (<l.jo@uu.nl>) your ggPlantmap as tab-delimited table
-and I’ll make sure to include in the package. You will be credited and
-your information will be displayed in the summary file. I really hope
-this becomes an organic package with the contribution of the plant
-research community.
+please email me (<jo.leonardo85@gmail.com>) your ggPlantmap as
+tab-delimited table and I’ll make sure to include in the package. You
+will be credited and your information will be displayed in the summary
+file. I really hope this becomes an organic package with the
+contribution of the plant research community.
 
 ## Acknowledgements
 

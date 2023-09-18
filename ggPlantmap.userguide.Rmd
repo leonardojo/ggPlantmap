@@ -90,6 +90,14 @@ Run the ggPlantmap.plot() function to create a plot:
 ggPlantmap.plot(data=ggPm.At.lateralroot.devseries) ## or ggPlantmap.plot(ggPm.At.lateralroot.devseries)
 ```
 
+### Note that the same plot can be obtained using geom_polygon() on ggplot2
+```{r}
+library(ggplot2)
+ggplot(ggPm.At.lateralroot.devseries,aes(x,y)) +
+  geom_polygon(aes(group=ROI.id,fill=ROI.name),colour="black") +
+  coord_fixed()
+```
+
 ### 2.6 Changing the color map, legends and aesthetics
 You can change the color mapping based on different layers of each ROI of the ggPlantmap
 Each ggPlantmap is separated by specific layers, you can access them by checking the column name.
@@ -106,6 +114,7 @@ ggPlantmap.plot(ggPm.At.shootapex.longitudinal,layer=ROI.id,show.legend = FALSE)
 ## Note that in the last example I included show.legend=FALSE, that's because if you map based on individual ROIs,
 ## there will be too many of them, so you can exclude the legend in the plot by adding the option
 ```
+
 
 ## Different maps will have different layers
 
@@ -225,6 +234,9 @@ Now that you have your .xml file, let's run the function XML.to.ggPlantmap() fun
 new.ggPlantmap <- XML.to.ggPlantmap("data-raw/roi.xml")
 ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
+
+A more detailed tutorial can be found 
+[here](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf) on how to generate xml images from plant images.
 
 ### 5 That's it!
 Hopefully everything ran smoothly. Thank you very much for your interest in ggPlantmap!
