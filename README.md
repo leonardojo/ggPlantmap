@@ -1,5 +1,5 @@
 
-# ggPlantmap <img src="man/figures/hex.png" align="right" height="200"/>
+# ggPlantmap <img src="man/figures/hex.png" align="right" height="250"/>
 
 ###### Version Beta.1
 
@@ -23,7 +23,7 @@ visualizing, and analyzing spatial quantitative patterns within specific
 plant regions This package uses the flexibility of the well-known
 ggplot2 R package to allow users to tailor maps to their specific
 research questions.
-<img src="man/figures/ggPlantmap.example1.jpg" align="center" height="250"/>
+<img src="man/figures/ggPlantmap.example.jpg" align="center" width="1000"/>
 
 ## Installation
 
@@ -70,8 +70,7 @@ head(ggPm.At.roottip.longitudinal)
 
 ## Plotting a ggPlantmap
 
-ggPlantmaps can be plotted easily plotted using the ggPlantmap.plot()
-function
+ggPlantmaps can be easily plotted using the ggPlantmap.plot() function.
 
 ``` r
 library(ggPlantmap)
@@ -158,13 +157,13 @@ ggPlantmap for the communication of Plant science.
 
 The principle of creating a ggPlantmap is fairly simple. We generate a
 list of ROIs (region of interests) in the Icy open-source software
-(<https://icy.bioimageanalysis.org/>) from any image. These ROIs are
-saved as XML files and later be converted into ggPlantmaps with the
+(<https://icy.bioimageanalysis.org/>) from any plant image. These ROIs
+are saved as XML files and later be converted into ggPlantmaps with the
 XML.to.ggPlantmap() function. [We created step-by-step guide with
 tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
 on how to generate xml images from plant images.
 
-<img src="man/figures/README-Slide1.PNG" align="center" width="600"/>
+<img src="man/figures/README-Slide1.PNG" align="center" width="800"/>
 
 ``` r
 new.ggPlantmap <- XML.to.ggPlantmap("data/ggPm.sample.xml")
