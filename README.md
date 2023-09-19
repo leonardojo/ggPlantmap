@@ -1,7 +1,7 @@
 
 # ggPlantmap <img src="man/figures/hex.png" align="right" height="250"/>
 
-###### Version Beta.2
+###### Version 1.0.0
 
 ###### Author: Leonardo Jo
 

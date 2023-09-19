@@ -1,7 +1,7 @@
 Package: ggPlantmap
 Type: Package
 Title: ggPlantmap
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: 
     person("Leonardo", "jo", ,"l.jo@uu.nl", role = c("aut", "cre"))
 Maintainer: Leonardo Jo <jo.leonardo85@gmail.com>
