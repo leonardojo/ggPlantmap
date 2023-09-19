@@ -19,7 +19,7 @@ plant regions This package uses the flexibility of the well-known
 ggplot2 R package to allow users to tailor maps to their specific
 research questions.
 
-## 1. Installing ggPlant map
+## 1. Installing ggPlantmap
 
 ``` r
 ## ggPlantmap installation requires devtools.
@@ -316,7 +316,8 @@ With ggPlantmap you can overlay quantitative data into your ggPlantmap
 to visualize it as sort of a heatmap. To do so, you will need another
 table with contains quantitative data attributed to your ROIs.
 <img src="man/figures/guide/Slide7.JPG" align="center" width="1200"/><br />
-<b>IMPORTANT!!!!
+
+<b> \#\#\# IMPORTANT!!!!
 
 Note that the name of the ROI levels on your map should exactly match
 the ones on your quantitative data!!!</b>
@@ -433,9 +434,9 @@ ggPlantmap.heatmap(quant.data,AT5G47670.expression) +
 
 ### 4 Create your own ggPlantmap
 
-Hopefully by now you should be a little familiar with the package. But
-we encourage you to create your own ggPlantmap. To do so, we will
-require a specific open-source imaging software called Icy
+Hopefully by now you should be a little familiar with the package. But I
+encourage you to create your own ggPlantmap. To do so, we will require a
+specific open-source imaging software called Icy
 (<https://icy.bioimageanalysis.org/>). Source image:
 <https://www.mdpi.com/ijms/ijms-16-13989/article_deploy/html/images/ijms-16-13989-g007.png>
 
