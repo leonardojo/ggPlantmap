@@ -1,7 +1,9 @@
 
 # ggPlantmap <img src="man/figures/hex.png" align="right" height="250"/>
 
-###### Version Beta.1
+###### Version Beta.2
+
+###### Author: Leonardo Jo
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -38,11 +40,11 @@ install_github("leonardojo/ggPlantmap")
 
 ## ggPlantmap guides (HIGHLY RECOMMENDED!)
 
-We created a step-by-step [user
+I created a step-by-step [user
 guide](https://github.com/leonardojo/ggPlantmap/blob/main/ggPlantmap.userguide.md)
 to help users navigate through the package.
 
-We also created a [step-by-step guide with
+I also created a [step-by-step guide with
 tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
 on how to create your own ggPlantmap.
 
@@ -88,8 +90,8 @@ ggPlantmap.plot(ggPm.At.roottip.longitudinal,Level1)
 ## Pre-loaded ggPlantmaps
 
 The package contain a series of pre-loaded ggPlantmaps created from
-previously published plant images. We hope to update the package with
-the contribution of the plant research community.
+previously published plant images. I hope to update the package with the
+contribution of the plant research community.
 
 ``` r
 library(ggPlantmap)
@@ -148,7 +150,7 @@ Some examples of heatmaps generated from available published data:
 
 Not at all. ggPlantmap can also be used to produce many other type of
 plots. Essentially anything that you can trace, you can create! Be
-creative! We hope to build a community where people explore the usage of
+creative! I hope to build a community where people explore the usage of
 ggPlantmap for the communication of Plant science.
 
 <img src="man/figures/README-Slide4.PNG" align="center" width="1000"/><br />
@@ -183,7 +185,7 @@ contribution of the plant research community.
 
 ## Acknowledgements
 
-We would like to acknowledge Kaisa Kajala, Lisa Oskam, Monica Garcia
-Gomez, Pierre Gautrat and Kyra van der Velde for testing ggPlantmap. We
+I would like to acknowledge Kaisa Kajala, Lisa Oskam, Monica Garcia
+Gomez, Pierre Gautrat and Kyra van der Velde for testing ggPlantmap. I
 also would like to acknowledge Andres Romanowski for providing some data
 for the initial tests of ggPlantmap.
