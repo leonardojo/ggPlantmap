@@ -238,7 +238,7 @@ ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
 
 A more detailed tutorial can be found 
-[here](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf) on how to generate xml images from plant images.
+[here](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf) on how to generate xml images from plant images.
 
 ### 5 That's it!
 Hopefully everything ran smoothly. Thank you very much for your interest in ggPlantmap!

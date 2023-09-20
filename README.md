@@ -3,7 +3,7 @@
 
 ###### Version 1.0.0
 
-###### Author: Leonardo Jo
+###### Author: Leonardo Jo (<l.jo@uu.nl>)
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -38,15 +38,19 @@ library(devtools)
 install_github("leonardojo/ggPlantmap")
 ```
 
-## ggPlantmap guides (HIGHLY RECOMMENDED!)
+## ggPlantmap usefull guides (HIGHLY RECOMMENDED!)
 
 I created a step-by-step [user
 guide](https://github.com/leonardojo/ggPlantmap/blob/main/ggPlantmap.userguide.md)
 to help users navigate through the package.
 
 I also created a [step-by-step guide with
-tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
+tips](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf)
 on how to create your own ggPlantmap.
+
+Finally, here are some
+[instructions](github.com/leonardojo/ggPlantmap/contributetoggPlantmap.md)
+on how your newly created ggPlantmap can be included in the package.
 
 ## What is a ggPlantmap?
 
@@ -162,7 +166,7 @@ list of ROIs (region of interests) in the Icy open-source software
 (<https://icy.bioimageanalysis.org/>) from any plant image. These ROIs
 are saved as XML files and later be converted into ggPlantmaps with the
 XML.to.ggPlantmap() function. [We created step-by-step guide with
-tips](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
+tips](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf)
 on how to generate xml images from plant images.
 
 <img src="man/figures/README-Slide1.PNG" align="center" width="800"/>
@@ -176,8 +180,11 @@ ggPlantmap.plot(new.ggPlantmap,ROI.name)
 
 ## Can my ggPlantmap be included in the package?
 
-YES!!! Any Plant map can be included in the package. If you create one,
-please email me (<jo.leonardo85@gmail.com>) your ggPlantmap as
+YES!!! Any Plant map can be included in the package. Here are some
+[instructions](github.com/leonardojo/ggPlantmap/contributetoggPlantmap.md)
+on how your newly created ggPlantmap can be included in the package.
+
+If you create one, please email me (<l.jo@uu.nl>) your ggPlantmap as
 tab-delimited table and I’ll make sure to include in the package. You
 will be credited and your information will be displayed in the summary
 file. I really hope this becomes an organic package with the
@@ -189,3 +196,7 @@ I would like to acknowledge Kaisa Kajala, Lisa Oskam, Monica Garcia
 Gomez, Pierre Gautrat and Kyra van der Velde for testing ggPlantmap. I
 also would like to acknowledge Andres Romanowski for providing some data
 for the initial tests of ggPlantmap.
+
+## How to cite
+
+(Soon)

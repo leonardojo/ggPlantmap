@@ -398,16 +398,16 @@ ggPlantmap.merge(ggPm.Sl.root.crosssection,ggPm.tomatoatlas.expression.sample,"R
 #> # A tibble: 4,314 × 6
 #>    ROI.name  ROI.id point     x     y SCR.expression
 #>    <chr>      <int> <int> <dbl> <dbl>          <dbl>
-#>  1 Exodermis      1     1  615. -370.             NA
-#>  2 Exodermis      1     2  601. -349.             NA
-#>  3 Exodermis      1     3  598. -327.             NA
-#>  4 Exodermis      1     4  617. -312.             NA
-#>  5 Exodermis      1     5  636. -307.             NA
-#>  6 Exodermis      1     6  651. -310.             NA
-#>  7 Exodermis      1     7  671. -327.             NA
-#>  8 Exodermis      1     8  684. -343.             NA
-#>  9 Exodermis      1     9  676. -354.             NA
-#> 10 Exodermis      1    10  668. -365.             NA
+#>  1 Exodermis      1     1  615. -370.              0
+#>  2 Exodermis      1     2  601. -349.              0
+#>  3 Exodermis      1     3  598. -327.              0
+#>  4 Exodermis      1     4  617. -312.              0
+#>  5 Exodermis      1     5  636. -307.              0
+#>  6 Exodermis      1     6  651. -310.              0
+#>  7 Exodermis      1     7  671. -327.              0
+#>  8 Exodermis      1     8  684. -343.              0
+#>  9 Exodermis      1     9  676. -354.              0
+#> 10 Exodermis      1    10  668. -365.              0
 #> # … with 4,304 more rows
 ```
 
@@ -457,7 +457,7 @@ ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ![](man/figures/userguide-unnamed-chunk-20-1.png)<!-- -->
 
 A more detailed tutorial can be found
-[here](https://github.com/leonardojo/ggPlantmap/blob/main/Tutorial%20for%20XML%20file.pdf)
+[here](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf)
 on how to generate xml images from plant images.
 
 ### 5 That’s it!
