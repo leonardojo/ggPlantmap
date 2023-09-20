@@ -38,7 +38,7 @@ library(devtools)
 install_github("leonardojo/ggPlantmap")
 ```
 
-## ggPlantmap usefull guides (HIGHLY RECOMMENDED!)
+## ggPlantmap useful guides (HIGHLY RECOMMENDED!)
 
 I created a step-by-step [user
 guide](https://github.com/leonardojo/ggPlantmap/blob/main/ggPlantmap.userguide.md)
