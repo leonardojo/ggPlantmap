@@ -49,7 +49,7 @@ tips](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf)
 on how to create your own ggPlantmap.
 
 Finally, here are some
-[instructions](github.com/leonardojo/ggPlantmap/contributetoggPlantmap.md)
+[instructions](https://github.com/leonardojo/ggPlantmap/blob/main/contributetoggPlantmap.md)
 on how your newly created ggPlantmap can be included in the package.
 
 ## What is a ggPlantmap?
@@ -181,7 +181,7 @@ ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ## Can my ggPlantmap be included in the package?
 
 YES!!! Any Plant map can be included in the package. Here are some
-[instructions](github.com/leonardojo/ggPlantmap/contributetoggPlantmap.md)
+[instructions](https://github.com/leonardojo/ggPlantmap/blob/main/contributetoggPlantmap.md)
 on how your newly created ggPlantmap can be included in the package.
 
 If you create one, please email me (<l.jo@uu.nl>) your ggPlantmap as
