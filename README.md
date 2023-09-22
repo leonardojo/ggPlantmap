@@ -199,4 +199,8 @@ for the initial tests of ggPlantmap.
 
 ## How to cite
 
-(Soon)
+### Pre-print
+
+Leonardo Jo, Kaisa Kajala. ggPlantmap: an R package for the graphic
+mapping of plant images. Authorea. September 21, 2023. DOI:
+10.22541/au.169531385.58441696/v1

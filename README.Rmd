@@ -164,4 +164,9 @@ If you create one, please email me (l.jo@uu.nl) your ggPlantmap as tab-delimited
 I would like to acknowledge Kaisa Kajala, Lisa Oskam, Monica Garcia Gomez, Pierre Gautrat and Kyra van der Velde for testing ggPlantmap. I also would like to acknowledge Andres Romanowski for providing some data for the initial tests of ggPlantmap.
 
 ## How to cite
-(Soon)
+### Pre-print
+Leonardo Jo, Kaisa Kajala. ggPlantmap: an R package for the  graphic mapping of plant images. Authorea. September 21, 2023.
+DOI: 10.22541/au.169531385.58441696/v1
+
+
+
