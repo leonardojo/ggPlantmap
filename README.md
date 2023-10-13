@@ -6,6 +6,8 @@
 ###### Author: Leonardo Jo (<l.jo@uu.nl>)
 
 <!-- badges: start -->
+
+[![status](https://joss.theoj.org/papers/2642d62fd8fa1570556da2ba79923c9f/status.svg)](https://joss.theoj.org/papers/2642d62fd8fa1570556da2ba79923c9f)
 <!-- badges: end -->
 
 ## Overview
