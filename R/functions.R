@@ -102,7 +102,6 @@ ggPlantmap.heatmap <- function(map.quant,value.quant=value.quant,show.legend=T,l
     theme(aspect.ratio = ar)
 }
 
-
 #' ggPlantmap.to.SVG
 #'
 #' @description Convert the ggPlantmap table into a SVG file that can be used to create a SVG file suitable to create a Plant eFP viewer or worked in graphic software (i.e. Adobe Illustrator, Inkspace, Power Point)
