@@ -125,7 +125,7 @@ ggPlantmap.to.SVG <- function(object,group.name="ROI.name",author="ggPlantmap",s
   ## Collapsing x and y coordinates into Series column
   grouped_data <- for.plot %>%
     mutate(foo = paste0(round(x,2),",",round(y,2))) %>%
-    group_by(ROI.id,ROI.name) %>%
+    group_by(ROI.id,!!sym(group.name)) %>%
     summarize(Series = paste(foo, collapse = ' ')) %>%
     ungroup()
 
