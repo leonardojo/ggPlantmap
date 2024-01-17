@@ -212,9 +212,6 @@ ggPlantmap.to.SVG(ggPm.At.3weekrosette.topview,
 ## This will create an image file (.svg) that can be opened in an graphic software (Illustrator, Power-Point)
 ```
 
-Note that the polygons will be grouped based on a column that you input
-in the group.name argument. The default is “ROI.name”
-
 ## Acknowledgements
 
 I would like to acknowledge Kaisa Kajala, Lisa Oskam, Monica Garcia
