@@ -1,0 +1,70 @@
+---
+output: github_document
+---
+# Practical Guide on using ggPlantmap for the visualization of single-cell data
+```{r setup}
+# Loading Packages
+library(ggPlantmap)
+library(tidyverse)
+```
+
+As you will notice, data organization is not standardized. Each study structures their quantitative data in their own specific way. Therefore, it is important that each specific dataset to be handle uniquely so that can be used to feed a ggPlantmap pipeline. Here, I present an example of a single-cell RNA-seq dataset from this paper:
+
+<b>Denyer, T., Ma, X., Klesen, S., Scacchi, E., Nieselt, K., & Timmermans, M. (2019). Spatiotemporal Developmental Trajectories in the Arabidopsis Root Revealed Using High-Throughput Single-Cell RNA Sequencing. Developmental cell, 48(6), 840–852.e5. </b>
+
+The datasets used for this guide can be found in the data folder
+
+## Single-cell data
+The data used for this guide was extracted from [The Arabidopsis Root scRNA-Seq Atlas](https://www.zmbp-resources.uni-tuebingen.de/timmermans/plant-single-cell-browser-root-atlas/). We downloaded the data that shows the expression of four genes (AT1G03550, AT1G09750, AT1G29950 and AT5G06200) in the Arabidopsis Root with protoplasting-induced genes dataset.
+
+```{r}
+data <- read.csv("data/download_avg_UMI.csv")
+print(data)
+```
+
+The data is organized with gene names in the first column followed by the average expression (Raw UMI reads) for all the cells in a specific cluster (C0 to C16). Note that there is an additional column for each cluster (example: C0.), that describes the percentage of cells in the cluster that expresses the gene at a certain threshold. For now, we will only focus in the average expression values.
+
+```{r}
+processed.data <- data %>%
+    pivot_longer(-X) %>% ## making it tidy
+    filter(!str_detect(name,"[.]")) ## removing columns that correspond to the percentage of cells with signal
+processed.data
+```
+Now we have the data in tidy format, with only the average expression values. But, in order to map them into a ggPlantmap, we need to refer each cluster to a specific cell type. According to the Arabidopsis Root with protoplasting-induced genes dataset, each cluster is annotated to a specific cell-type based on unique molecular markers.
+
+```{r}
+reference <- read.table("data/Summary of celltypes Arabidopsis Root.txt",fill=T,sep="\t",header=T)
+reference
+```
+This reference table was generated based on the image provided in the [database](https://www.zmbp-resources.uni-tuebingen.de/timmermans/plant-single-cell-browser-root-atlas/cluster_lengend_1.png).
+<b>We created a rough association for demonstration purposes.</b>
+This is an extremely challenging part, as the distinction between clusters is not clear in many datasets.
+
+Ok, now we can proceed in plotting the expression values in a ggPlantmap heatmap.
+We will use the pre-loaded ggPm.At.rootmatur.crossection map
+```{r}
+ggPm.At.rootmatur.crosssection
+ggPlantmap.plot(ggPm.At.rootmatur.crosssection)
+```
+
+
+The example below show a for loop that will generate a plot for every unique gene in the processed.data object
+```{r}
+for  (k in unique(data$X)) {
+  single.data <- processed.data %>%
+    filter(X == k) %>% ## filtering for one gene
+    merge(reference,by.x="name",by.y="Cluster",all.x=T) ## combining with the reference dataset for labeling clusters
+  
+## Merging with the ggPm.At.rootmatur.crossection using the ggPlantmap.merge() function  
+final.table <- ggPlantmap.merge(ggPm.At.rootmatur.crosssection,single.data,id.x = "ROI.name",id.y="Identity")
+  
+## Using the ggPlantmap.heatmap to create a heatmap
+plot <- ggPlantmap.heatmap(final.table,value.quant = value) + 
+    scale_fill_gradient(low="white",high="red",limits=c(0,1.5)) +
+    labs(title=paste0(k)) ## Title of the plot should be name of the gene
+  print(plot) ## printing the plot
+  ##ggsave(plot=plot,paste0(k,".png"),dpi=300) ## in case you want to save your heatmap
+}
+```
+
+

@@ -1,0 +1,19 @@
+Cluster	Identity
+C0	Lateral Root Cap
+C1	Lateral Root Cap
+C2	Lateral Root Cap
+C3	Meristem
+C4	Trichoblast
+C5	Phloem
+C5	Pericycle
+C6	Atrichoblast
+C7	Meristem
+C8	Meristem
+C9	Meristem
+C10	Endodermis
+C11	Cortex
+C12	Columella
+C13	Xylem
+C14	Unknown
+C15	Trichoblast
+C16	Lateral Root Cap
