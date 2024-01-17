@@ -101,3 +101,77 @@ ggPlantmap.heatmap <- function(map.quant,value.quant=value.quant,show.legend=T,l
     theme(panel.grid = element_blank(),legend.position="right") +
     theme(aspect.ratio = ar)
 }
+
+
+#' ggPlantmap.to.SVG
+#'
+#' @description Convert the ggPlantmap table into a SVG file that can be used to create a SVG file suitable to create a Plant eFP viewer or worked in graphic software (i.e. Adobe Illustrator, Inkspace, Power Point)
+#' @param object The ggPlantmap table object (Ex: ggPm.At.seed.devseries)
+#' @group.name Column name (as string) of the column to be used for grouping objects (Default="ROI.name).
+#' @author Name of the author (as string) to be attached to the SVG file (Default="ggPlantmap").
+#' @svg.name Name of the SVG file (as string) to be saved as (Default="ggPlantmap.svg")
+#' @return A SVG file that can be used in any graphic software and it is compatible to create a Plant eFP viewer
+#' @import dplyr ggplot2
+#' @export
+#'
+#' @examples
+#' ggPlantmap.to.SVG(ggPm.At.roottip.longitudinal)
+#' ggPlantmap.to.SVG(ggPm.At.seed.devseries,group.name="Region",author="LJ",svg.name="ggPm.At.seed.devseries.svg")
+#'
+ggPlantmap.to.SVG <- function(object,group.name="ROI.name",author="ggPlantmap",svg.name="ggPlantmap.svg"){
+  ## Changing y coordinates (svg y axis is flipped compared to ggplot)
+  for.plot <- object %>%
+    mutate(y=y*-1)
+
+  ## Collapsing x and y coordinates into Series column
+  grouped_data <- for.plot %>%
+    mutate(foo = paste0(round(x,2),",",round(y,2))) %>%
+    group_by(ROI.id,ROI.name) %>%
+    summarize(Series = paste(foo, collapse = ' ')) %>%
+    ungroup()
+
+  ## Getting coordinates for svg viewBox
+  width <- max(for.plot$x) - min(for.plot$x) + 200
+  height <- max(for.plot$y) - min(for.plot$y) + 200
+  x.min <-  min(for.plot$x) - 100
+  y.min <-  min(for.plot$y) - 100
+
+  ## Getting names of each group based on the group.name argument
+  groups <- grouped_data %>%
+    select(!!sym(group.name)) %>%
+    unique()
+  names(groups) <- "groups"
+
+
+  ## Preparing lines to match svg format and separating by group
+  final.temp <- NULL
+  for (x in groups$groups){
+    temp <- NULL
+    filtered_data <- grouped_data %>%
+      filter(!!sym(group.name) == x)
+    for(k in unique(filtered_data$ROI.id)) {
+      filtered_data2 <- filtered_data %>%
+        filter(ROI.id == k)
+      coordinates <- pull(filtered_data2,var = Series)
+      line <- paste0('<polygon id="',k,'" points=',"'",coordinates," ' />")
+      temp <- temp %>% rbind(line)
+    }
+    line1 <- paste0('<g id="',x,'" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="2">')
+    line2 <- paste0('</g>')
+    tempo2 <- rbind(line1,temp,line2)
+    final.temp <- final.temp %>% rbind(tempo2)
+  }
+
+  ## Preparing header & last line
+  header <- paste0('<svg xmlns="http://www.w3.org/2000/svg" id="',str_sub(svg.name,1,-5),'" version="1.1" viewBox="',
+                   x.min," ",y.min," ",width," ",height,
+                   '" author="',author,'ggPlantmap">)')
+  final.line <- paste0("</svg>")
+
+  ## Appending Header and final line
+  final = rbind(header,final.temp,final.line)
+
+  ## Saving as SVG file
+  write.table(final,paste0(svg.name),row.names=F,col.names=F,quote=F)
+}
+
