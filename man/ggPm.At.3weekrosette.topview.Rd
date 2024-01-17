@@ -36,7 +36,5 @@ Top view of 3.5 week old Arabidopsis thaliana rosettes.
 }
 \author{
 ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
-
-ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
 }
 \keyword{datasets}
