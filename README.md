@@ -1,7 +1,7 @@
 
 # ggPlantmap <img src="man/figures/hex.png" align="right" height="250"/>
 
-###### Version 1.0.0
+###### Version 1.1.0
 
 ###### Author: Leonardo Jo (<l.jo@uu.nl>)
 
@@ -40,8 +40,12 @@ install_github("leonardojo/ggPlantmap")
 
 ## ggPlantmap useful guides (HIGHLY RECOMMENDED!)
 
+**(NEW)** Here is a [practical
+guide](https://github.com/leonardojo/ggPlantmap/blob/main/guides/guide_practical_sc.md)
+on how to work with ggPlantmap to explore single-cell data
+
 I created a step-by-step [user
-guide](https://github.com/leonardojo/ggPlantmap/blob/main/ggPlantmap.userguide.md)
+guide](https://github.com/leonardojo/ggPlantmap/blob/main/guides/ggPlantmap.userguide.md)
 to help users navigate through the package.
 
 Here is a recorded
@@ -49,11 +53,11 @@ Here is a recorded
 overview of the package.
 
 I also created a [step-by-step guide with
-tips](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf)
+tips](https://github.com/leonardojo/ggPlantmap/blob/main/guides/TutorialforXMLfile.pdf)
 on how to create your own ggPlantmap.
 
 Finally, here are some
-[instructions](https://github.com/leonardojo/ggPlantmap/blob/main/contributetoggPlantmap.md)
+[instructions](https://github.com/leonardojo/ggPlantmap/blob/main/guides/contributetoggPlantmap.md)
 on how your newly created ggPlantmap can be included in the package.
 
 ## What is a ggPlantmap?

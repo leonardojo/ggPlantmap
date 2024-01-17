@@ -1,12 +1,12 @@
 
-# Contribute to ggPlantmap <img src="man/figures/hex.png" align="right" height="200"/>
+# Contribute to ggPlantmap
 
 ## Create your own ggPlantmap!
 
 ### Anything you can trace, you can create!
 
 We created a [step-by-step guide with
-tips](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf)
+tips](https://github.com/leonardojo/ggPlantmap/blob/main/guides/TutorialforXMLfile.pdf)
 on how to create your own ggPlantmap. With our described method, users
 can generate new ggPlantmaps without the necessity of high-resolution
 images and advanced coding skills. The ggPlantmap package is an
@@ -20,15 +20,18 @@ community.
 
 ## How can my ggPlantmap be included in the package?
 
-<img src="man/figures/contributetoggPlantmap.png" align="center" height="500"/>
+<p>
+<img src="https://github.com/leonardojo/ggPlantmap/blob/f7f426ecf5ee8f53a4603f125dcde6620c9f9edc/man/figures/hex.png" align="center" height="500"/>
+</p>
 
 If you create a new ggPlantmap and want it to be included in the
 package, please save your new map as a tab-delimited text file using the
 following code:
 
 ``` r
-your.ggPlantmap <- XML.to.ggPlantmap("ggPlantmap.xml")
-write.table(your.ggPlantmap,"ggPm.Species.Tissue.Type.txt",sep="\t",header=T)
+library(ggPlantmap)
+your.ggPlantmap <- XML.to.ggPlantmap("data/ggPm.sample.xml")
+write.table(your.ggPlantmap,"data/ggPm.Species.Tissue.Type.txt",sep="\t",col.names=T)
 ```
 
 ### We then ask you to send this table (<l.jo@uu.nl>) along with the following information:
