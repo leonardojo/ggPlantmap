@@ -155,7 +155,7 @@ ggPlantmap.to.SVG <- function(object,group.name="ROI.name",author="ggPlantmap",s
       line <- paste0('<polygon id="',k,'" points=',"'",coordinates," ' />")
       temp <- temp %>% rbind(line)
     }
-    line1 <- paste0('<g id="',x,'" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="2">')
+    line1 <- paste0('<g id="',x,'" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="4">')
     line2 <- paste0('</g>')
     tempo2 <- rbind(line1,temp,line2)
     final.temp <- final.temp %>% rbind(tempo2)
