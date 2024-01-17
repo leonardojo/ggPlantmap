@@ -110,7 +110,7 @@ ggPlantmap.heatmap <- function(map.quant,value.quant=value.quant,show.legend=T,l
 #' @param author Name of the author (as string) to be attached to the SVG file (Default="ggPlantmap").
 #' @param svg.name Name of the SVG file (as string) to be saved as (Default="ggPlantmap.svg")
 #' @return A SVG file that can be used in any graphic software and it is compatible to create a Plant eFP viewer
-#' @import dplyr ggplot2
+#' @import dplyr ggplot2 stringr
 #' @export
 #'
 #' @examples
@@ -162,7 +162,7 @@ ggPlantmap.to.SVG <- function(object,group.name="ROI.name",author="ggPlantmap",s
   }
 
   ## Preparing header & last line
-  header <- paste0('<svg xmlns="http://www.w3.org/2000/svg" id="',str_sub(svg.name,1,-5),'" version="1.1" viewBox="',
+  header <- paste0('<svg xmlns="http://www.w3.org/2000/svg" id="',stringr::str_sub(svg.name,1,-5),'" version="1.1" viewBox="',
                    x.min," ",y.min," ",width," ",height,
                    '" author="',author,'ggPlantmap">)')
   final.line <- paste0("</svg>")
