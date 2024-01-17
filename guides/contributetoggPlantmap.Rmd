@@ -8,7 +8,7 @@ knitr::opts_chunk$set(
   fig.path = "images/userguide-"
 )
 ```
-# Contribute to ggPlantmap
+# Contribute to ggPlantmap <img src="images/hex.png" align="right" height="200"/>
 
 ## Create your own ggPlantmap!
 ### Anything you can trace, you can create!
@@ -17,7 +17,7 @@ We created a [step-by-step guide with tips](https://github.com/leonardojo/ggPlan
 
 ## How can my ggPlantmap be included in the package?
 <p>
-<img src="https://github.com/leonardojo/ggPlantmap/blob/f7f426ecf5ee8f53a4603f125dcde6620c9f9edc/man/figures/hex.png" align="center" height="500"/>
+<img src="images/contributetoggPlantmap.png" align="center" height="500"/>
 </p>
 If you create a new ggPlantmap and want it to be included in the package, please save your new map as a tab-delimited text file using the following code:
 ```{r, eval=F}

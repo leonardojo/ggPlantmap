@@ -1,5 +1,5 @@
 
-# Contribute to ggPlantmap
+# Contribute to ggPlantmap <img src="images/hex.png" align="right" height="200"/>
 
 ## Create your own ggPlantmap!
 
@@ -21,7 +21,7 @@ community.
 ## How can my ggPlantmap be included in the package?
 
 <p>
-<img src="https://github.com/leonardojo/ggPlantmap/blob/f7f426ecf5ee8f53a4603f125dcde6620c9f9edc/man/figures/hex.png" align="center" height="500"/>
+<img src="images/contributetoggPlantmap.png" align="center" height="500"/>
 </p>
 
 If you create a new ggPlantmap and want it to be included in the
