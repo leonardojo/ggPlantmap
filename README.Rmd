@@ -155,13 +155,27 @@ new.ggPlantmap <- XML.to.ggPlantmap("data/ggPm.sample.xml")
 ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
 
-
 ## Can my ggPlantmap be included in the package?
 
 YES!!! Any Plant map can be included in the package. 
 Here are some [instructions](https://github.com/leonardojo/ggPlantmap/blob/main/contributetoggPlantmap.md) on how your newly created ggPlantmap can be included in the package. 
 
 If you create one, please email me (l.jo@uu.nl) your ggPlantmap as tab-delimited table and I'll make sure to include in the package. You will be credited and your information will be displayed in the summary file. I really hope this becomes an organic package with the contribution of the plant research community.
+
+
+## Can my ggPlantmap be integrated into an ePlant EFP browser or any other graphical software?
+
+YES!! You can convert your ggPlantmap table into an SVG file that can be used 
+
+<img src="man/figures/svg.png" align="center" width="800" />
+```{r}
+ggPlantmap.to.SVG(ggPm.At.3weekrosette.topview,
+                  group.name = "ROI.name",
+                  author = "ggPlantmap",
+                  svg.name="ggPlantmap.svg")
+## This will create an image file (.svg) that can be opened in an graphic software (Illustrator, Power-Point)
+```
+
 
 ## Acknowledgements
 

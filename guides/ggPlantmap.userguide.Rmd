@@ -6,11 +6,11 @@ output: github_document
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  fig.path = "man/figures/userguide-"
+  fig.path = "images/userguide-"
 )
 ```
 
-# ggPlantmap User Guide <img src="man/figures/hex.png" align="right" height="200"/>
+# ggPlantmap User Guide <img src="images/hex.png" align="right" height="200"/>
 
 ## Introduction
 
@@ -67,7 +67,7 @@ p
 ```
 
 ### Overview of a ggPlantmap
-<img src="man/figures/guide/Slide6.JPG" align="center" width="1200"/><br />
+<img src="images/guide/Slide6.JPG" align="center" width="1200"/><br />
 
 
 ### 2.4 Documentation of functions and objects in ggPlantmap
@@ -175,7 +175,7 @@ ggPlantmap.plot(ggPm.At.leaf.topview,show.legend = F) +
 
 With ggPlantmap you can overlay quantitative data into your ggPlantmap to visualize it as sort of a heatmap.
 To do so, you will need another table with contains quantitative data attributed to your ROIs.
-<img src="man/figures/guide/Slide7.JPG" align="center" width="1200"/><br />
+<img src="images/guide/Slide7.JPG" align="center" width="1200"/><br />
 
 <b>
 ### IMPORTANT!!!!
@@ -225,22 +225,32 @@ But I encourage you to create your own ggPlantmap.
 To do so, we will require a specific open-source imaging software called Icy (https://icy.bioimageanalysis.org/).
 Source image: https://www.mdpi.com/ijms/ijms-16-13989/article_deploy/html/images/ijms-16-13989-g007.png
 
-<img src="man/figures/guide/Slide1.JPG" align="center" width="1000"/><br />
-<img src="man/figures/guide/Slide2.JPG" align="center" width="1200"/><br />
-<img src="man/figures/guide/Slide3.JPG" align="center" width="1200"/><br />
-<img src="man/figures/guide/Slide4.JPG" align="center" width="1200"/><br />
-<img src="man/figures/guide/Slide5.JPG" align="center" width="1200"/><br />
+<img src="images/guide/Slide1.JPG" align="center" width="1000"/><br />
+<img src="images/guide/Slide2.JPG" align="center" width="1200"/><br />
+<img src="images/guide/Slide3.JPG" align="center" width="1200"/><br />
+<img src="images/guide/Slide4.JPG" align="center" width="1200"/><br />
+<img src="images/guide/Slide5.JPG" align="center" width="1200"/><br />
 Now that you have your .xml file, let's run the function XML.to.ggPlantmap() function to create your map
 ```{r}
-## Just make sure that the xml file is in your path
-new.ggPlantmap <- XML.to.ggPlantmap("data-raw/roi.xml")
+new.ggPlantmap <- XML.to.ggPlantmap("data/roi.xml")
 ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
 
 A more detailed tutorial can be found 
 [here](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf) on how to generate xml images from plant images.
 
-### 5 That's it!
+### 5 Creating an SVG file
+You can convert your ggPlantmap table into an SVG file that can be used to create a ePlant EFP Browser or to be opened as a interactive object in a graphic software. For example: Illustrator or Powerpoint
+```{r}
+ggPlantmap.to.SVG(ggPm.At.3weekrosette.topview,
+                  group.name = "ROI.name",
+                  author = "ggPlantmap",
+                  svg.name="ggPlantmap.svg")
+## This will create an image file (.svg) that can be opened in an graphic software (Illustrator, Power-Point)
+```
+Note that the polygons will be grouped based on a column that you input in the group.name argument. The default is "ROI.name"
+
+### 6 That's it!
 Hopefully everything ran smoothly. Thank you very much for your interest in ggPlantmap!
 If you want your map to be included in the package. Please send me an email with a tab delimited table version of your ggPlantmap with specific description. I will make sure to include it in future versions.
 Looking forward to hear from you any suggestions on how to improve ggPlantmap!

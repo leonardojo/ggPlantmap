@@ -197,6 +197,24 @@ will be credited and your information will be displayed in the summary
 file. I really hope this becomes an organic package with the
 contribution of the plant research community.
 
+## Can my ggPlantmap be integrated into an ePlant EFP browser or any other graphical software?
+
+YES!! You can convert your ggPlantmap table into an SVG file that can be
+used
+
+<img src="man/figures/svg.png" align="center" width="800" />
+
+``` r
+ggPlantmap.to.SVG(ggPm.At.3weekrosette.topview,
+                  group.name = "ROI.name",
+                  author = "ggPlantmap",
+                  svg.name="ggPlantmap.svg")
+## This will create an image file (.svg) that can be opened in an graphic software (Illustrator, Power-Point)
+```
+
+Note that the polygons will be grouped based on a column that you input
+in the group.name argument. The default is “ROI.name”
+
 ## Acknowledgements
 
 I would like to acknowledge Kaisa Kajala, Lisa Oskam, Monica Garcia
