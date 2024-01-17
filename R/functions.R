@@ -106,9 +106,9 @@ ggPlantmap.heatmap <- function(map.quant,value.quant=value.quant,show.legend=T,l
 #'
 #' @description Convert the ggPlantmap table into a SVG file that can be used to create a SVG file suitable to create a Plant eFP viewer or worked in graphic software (i.e. Adobe Illustrator, Inkspace, Power Point)
 #' @param object The ggPlantmap table object (Ex: ggPm.At.seed.devseries)
-#' @group.name Column name (as string) of the column to be used for grouping objects (Default="ROI.name).
-#' @author Name of the author (as string) to be attached to the SVG file (Default="ggPlantmap").
-#' @svg.name Name of the SVG file (as string) to be saved as (Default="ggPlantmap.svg")
+#' @param group.name Column name (as string) of the column to be used for grouping objects (Default="ROI.name).
+#' @param author Name of the author (as string) to be attached to the SVG file (Default="ggPlantmap").
+#' @param svg.name Name of the SVG file (as string) to be saved as (Default="ggPlantmap.svg")
 #' @return A SVG file that can be used in any graphic software and it is compatible to create a Plant eFP viewer
 #' @import dplyr ggplot2
 #' @export
