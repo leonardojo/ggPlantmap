@@ -221,11 +221,14 @@ for the initial tests of ggPlantmap.
 
 ## How to cite
 
-### Pre-print
+### Peer-reviewed manuscript
 
 Jo, Leonardo, and Kaisa Kajala. “ggPlantmap: an open-source R package
 for the creation of informative and quantitative ggplot maps derived
-from plant images.” Journal of Experimental Botany (2024): erae043.
+from plant images.” Journal of Experimental Botany (2024): erae043. doi:
+<https://doi.org/10.1093/jxb/erae043>
+
+### Pre-print
 
 (Pre-print1) Leonardo Jo, Kaisa Kajala. ggPlantmap: an R package for
 creation of informative and quantitative ggplot maps derived from plant

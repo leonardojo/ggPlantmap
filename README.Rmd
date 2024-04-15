@@ -182,10 +182,12 @@ ggPlantmap.to.SVG(ggPm.At.3weekrosette.topview,
 I would like to acknowledge Kaisa Kajala, Lisa Oskam, Monica Garcia Gomez, Pierre Gautrat and Kyra van der Velde for testing ggPlantmap. I also would like to acknowledge Andres Romanowski for providing some data for the initial tests of ggPlantmap.
 
 ## How to cite
+
+### Peer-reviewed manuscript
+
+Jo, Leonardo, and Kaisa Kajala. "ggPlantmap: an open-source R package for the creation of informative and quantitative ggplot maps derived from plant images." Journal of Experimental Botany (2024): erae043. doi: https://doi.org/10.1093/jxb/erae043
+
 ### Pre-print
-
-Jo, Leonardo, and Kaisa Kajala. "ggPlantmap: an open-source R package for the creation of informative and quantitative ggplot maps derived from plant images." Journal of Experimental Botany (2024): erae043.
-
 (Pre-print1) Leonardo Jo, Kaisa Kajala. ggPlantmap: an R package for creation of informative and quantitative ggplot maps derived from plant images.
 bioRxiv 2023.11.30.569429; doi: https://doi.org/10.1101/2023.11.30.569429
 
