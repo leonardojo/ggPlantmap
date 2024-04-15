@@ -173,7 +173,7 @@ list of ROIs (region of interests) in the Icy open-source software
 (<https://icy.bioimageanalysis.org/>) from any plant image. These ROIs
 are saved as XML files and later be converted into ggPlantmaps with the
 XML.to.ggPlantmap() function. [We created step-by-step guide with
-tips](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf)
+tips](https://github.com/leonardojo/ggPlantmap/blob/main/guides/TutorialforXMLfile.pdf)
 on how to generate xml images from plant images.
 
 <img src="man/figures/README-Slide1.PNG" align="center" width="800"/>
@@ -188,7 +188,7 @@ ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ## Can my ggPlantmap be included in the package?
 
 YES!!! Any Plant map can be included in the package. Here are some
-[instructions](https://github.com/leonardojo/ggPlantmap/blob/main/contributetoggPlantmap.md)
+[instructions](https://github.com/leonardojo/ggPlantmap/blob/main/guides/contributetoggPlantmap.md)
 on how your newly created ggPlantmap can be included in the package.
 
 If you create one, please email me (<l.jo@uu.nl>) your ggPlantmap as
@@ -223,11 +223,15 @@ for the initial tests of ggPlantmap.
 
 ### Pre-print
 
-(current version) Leonardo Jo, Kaisa Kajala. ggPlantmap: an R package
-for creation of informative and quantitative ggplot maps derived from
-plant images. bioRxiv 2023.11.30.569429; doi:
+Jo, Leonardo, and Kaisa Kajala. “ggPlantmap: an open-source R package
+for the creation of informative and quantitative ggplot maps derived
+from plant images.” Journal of Experimental Botany (2024): erae043.
+
+(Pre-print1) Leonardo Jo, Kaisa Kajala. ggPlantmap: an R package for
+creation of informative and quantitative ggplot maps derived from plant
+images. bioRxiv 2023.11.30.569429; doi:
 <https://doi.org/10.1101/2023.11.30.569429>
 
-(previous version) Leonardo Jo, Kaisa Kajala. ggPlantmap: an R package
-for the graphic mapping of plant images. Authorea. September 21, 2023.
-DOI: 10.22541/au.169531385.58441696/v1
+(Pre-print2) Leonardo Jo, Kaisa Kajala. ggPlantmap: an R package for the
+graphic mapping of plant images. Authorea. September 21, 2023. DOI:
+10.22541/au.169531385.58441696/v1

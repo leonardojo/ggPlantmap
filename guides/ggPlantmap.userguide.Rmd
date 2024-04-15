@@ -237,7 +237,7 @@ ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
 
 A more detailed tutorial can be found 
-[here](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf) on how to generate xml images from plant images.
+[here](https://github.com/leonardojo/ggPlantmap/blob/main/guides/TutorialforXMLfile.pdf) on how to generate xml images from plant images.
 
 ### 5 Creating an SVG file
 You can convert your ggPlantmap table into an SVG file that can be used to create a ePlant EFP Browser or to be opened as a interactive object in a graphic software. For example: Illustrator or Powerpoint

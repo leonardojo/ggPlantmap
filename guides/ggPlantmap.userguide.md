@@ -455,7 +455,7 @@ ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ![](images/userguide-unnamed-chunk-20-1.png)<!-- -->
 
 A more detailed tutorial can be found
-[here](https://github.com/leonardojo/ggPlantmap/blob/main/TutorialforXMLfile.pdf)
+[here](https://github.com/leonardojo/ggPlantmap/blob/main/guides/TutorialforXMLfile.pdf)
 on how to generate xml images from plant images.
 
 ### 5 Creating an SVG file
