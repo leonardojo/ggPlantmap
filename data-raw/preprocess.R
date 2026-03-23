@@ -17,6 +17,8 @@ ggPm.At.lateralroot.devseries <- dplyr::tibble(read.table("data-raw/ggPm.At.late
 ggPm.Ms.root.crosssection <- dplyr::tibble(read.table("data-raw/ggPm.Ms.root.crosssection.txt",sep="\t",header=T))
 ggPm.At.seed.expression.sample <- dplyr::tibble(read.table("data-raw/ggPm.arabidopsis.seed.expression.sample.txt",sep="\t",header=T))
 ggPm.tomatoatlas.expression.sample <- dplyr::tibble(read.table("data-raw/ggPm.tomatoatlas.expression.sample.txt",sep="\t",header=T))
+ggPm.Os.leaf.crosssection <- dplyr::tibble(read.table("data-raw/ggPm.Os.leaf.crosssection.txt",sep="\t",header=T))
+ggPm.At.seedling.saltdrought <- dplyr::tibble(read.table("data-raw/ggPm.At.seedling.saltdrought.txt",sep="\t",header=T))
 ggPm.summary <- dplyr::tibble(read.csv("data-raw/ggPm.summary.csv"))
 
 # Apply preprocessing...
@@ -40,3 +42,5 @@ usethis::use_data(ggPm.Ms.root.crosssection,overwrite=T)
 usethis::use_data(ggPm.At.seed.expression.sample,overwrite=T)
 usethis::use_data(ggPm.tomatoatlas.expression.sample,overwrite=T)
 usethis::use_data(ggPm.summary,overwrite=T)
+usethis::use_data(ggPm.Os.leaf.crosssection,overwrite=T)
+usethis::use_data(ggPm.At.seedling.saltdrought,overwrite=T)

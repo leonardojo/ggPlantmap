@@ -22,6 +22,6 @@ Cross-section of Solanum lycopersicum (Tomato) root.
 }
 }
 \author{
-ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 }
 \keyword{datasets}

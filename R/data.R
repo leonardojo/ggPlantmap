@@ -23,7 +23,7 @@
 #'   \item{Type}{cross-section}
 #' }
 #' @source <https://www.future-science.com/doi/10.2144/000114621>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 "ggPm.At.roottip.crosssection"
 
 #' @title ggPm.At.roottip.longitudinal
@@ -35,7 +35,7 @@
 #'   \item{Type}{longitudinal view}
 #' }
 #' @source <https://doi.org/10.1186/s13007-019-0417-9>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.3weekrosette.topview"
 
@@ -48,7 +48,7 @@
 #'   \item{Type}{top view}
 #' }
 #' @source <https://doi.org/10.1186/s12870-015-0483-8>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.3weekrosette.topview"
 
@@ -61,7 +61,7 @@
 #'   \item{Type}{top view}
 #' }
 #' @source <https://www.nature.com/articles/s41477-021-00906-0>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.leafepidermis.topview"
 
@@ -74,7 +74,7 @@
 #'   \item{Type}{cross-section}
 #' }
 #' @source <https://doi.org/10.1199/tab.0181>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.leaf.crosssection"
 
@@ -87,7 +87,7 @@
 #'   \item{Type}{development series}
 #' }
 #' @source <https://doi.org/10.1073/pnas.1222061110>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.seed.devseries"
 
@@ -100,7 +100,7 @@
 #'   \item{Type}{development series}
 #' }
 #' @source <https://doi.org/10.1111/nph.12267>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.earlyembryogenesis.devseries"
 
@@ -113,7 +113,7 @@
 #'   \item{Type}{longitudinal}
 #' }
 #' @source <https://doi.org/10.1007/s10265-020-01174-3>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.shootapex.longitudinal"
 
@@ -126,7 +126,7 @@
 #'   \item{Type}{longitudinal}
 #' }
 #' @source <https://academic.oup.com/plcell/article/33/2/200/6017181>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.inflorescencestem.crosssection"
 
@@ -139,7 +139,7 @@
 #'   \item{Type}{cross-section}
 #' }
 #' @source <https://doi.org/10.1016/j.cell.2021.04.024>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.Sl.root.crosssection"
 
@@ -152,7 +152,7 @@
 #'   \item{Type}{top view}
 #' }
 #' @source <http://doi.org/10.1199/tab.0181>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.leaf.topview"
 
@@ -165,7 +165,7 @@
 #'   \item{Type}{longitudinal}
 #' }
 #' @source <https://doi.org/10.1016/j.devcel.2022.01.008>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.rootelong.longitudinal"
 
@@ -178,7 +178,7 @@
 #'   \item{Type}{cross-section}
 #' }
 #' @source <https://doi.org/10.1016/j.devcel.2022.01.008>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.rootmatur.crosssection"
 
@@ -191,7 +191,7 @@
 #'   \item{Type}{diagram}
 #' }
 #' @source <Taiz, Lincoln, et al. Plant physiology and development. No. Ed. 6. Sinauer Associates Incorporated, 2015.>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.flower.diagram"
 
@@ -204,7 +204,7 @@
 #'   \item{Type}{development series}
 #' }
 #' @source <https://doi.org/10.3389/fpls.2019.00206>
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.At.lateralroot.devseries"
 
@@ -217,9 +217,36 @@
 #'   \item{Type}{cross-section}
 #' }
 #' @source Unpublished image (Leonardo Jo)
-#' @author ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+#' @author ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 #'
 "ggPm.Ms.root.crosssection"
+
+#' @title ggPm.Ms.root.crosssection
+#'
+#' @description Cross-section of a large vascular bundle in the maturation zone of a developing rice leaf.
+#' \describe{
+#'   \item{Species}{Oryza sativa}
+#'   \item{Tissue}{leaf}
+#'   \item{Type}{cross-section}
+#' }
+#' @source manuscript in progress (Sean Robertson)
+#' @author ggPlantmap author: Sean Robertson (rober136@myumanitoba.ca)
+#'
+"ggPm.Os.leaf.crosssection"
+
+#' @title ggPm.Ms.root.crosssection
+#'
+#' @description Diagram of Arabidopsis seedlings in control, salt and drought (sorbitol) conditions
+#' \describe{
+#'   \item{Species}{Arabidopsis thaliana}
+#'   \item{Tissue}{seedlings}
+#'   \item{Type}{diagram}
+#' }
+#' @source https://doi.org/10.64898/2025.12.03.691840 (Kilian Duijts)
+#' @author ggPlantmap author: Kilian Duijts (kilian.duijts@wur.nl)
+#'
+"ggPm.At.seedling.saltdrought"
+
 
 
 

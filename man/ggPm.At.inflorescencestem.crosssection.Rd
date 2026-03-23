@@ -22,6 +22,6 @@ Cross-section of Arabidopsis thaliana inflorescence stem.
 }
 }
 \author{
-ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 }
 \keyword{datasets}

@@ -7,14 +7,29 @@ knitr::opts_chunk$set(
   comment = "#>",
   fig.path = "man/figures/README-"
 )
+library(ggPlantmap)
 ```
 
 # ggPlantmap <img src="man/figures/hex.png" align="right" height="250"/>
-###### Version 1.1.0
+###### Version 1.1.1
 ###### Author: Leonardo Jo (l.jo@uu.nl)
 
 <!-- badges: start -->
 <!-- badges: end -->
+
+## Updates:
+### Version 1.1.1
+#### New Plant maps
+Cross-section of a large vascular bundle in the maturation zone of a developing rice leaf
+Author: Sean Roberston (rober136@myumanitoba.ca)
+```{r}
+ggPlantmap.plot(ggPm.Os.leaf.crosssection)
+```
+Diagram of Arabidopsis seedlings in control, salt (NaCl) and drought (Sorbitol) conditions
+Author: Kilian Duijts (kilian.duijts@wur.nl)
+```{r}
+ggPlantmap.plot(ggPm.At.seedling.saltdrought)
+```
 
 ## Overview
 

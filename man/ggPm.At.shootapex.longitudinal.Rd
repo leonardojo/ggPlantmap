@@ -22,6 +22,6 @@ Diagram of the Arabidopsis thaliana shoot apical meristem.
 }
 }
 \author{
-ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 }
 \keyword{datasets}

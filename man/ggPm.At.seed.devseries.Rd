@@ -22,6 +22,6 @@ Diagram of the development of Arabidopsis thaliana seed tissues.
 }
 }
 \author{
-ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 }
 \keyword{datasets}

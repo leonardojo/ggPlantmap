@@ -22,6 +22,6 @@ Cross-section of Arabidopsis thaliana root at the maturation zone.
 }
 }
 \author{
-ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 }
 \keyword{datasets}

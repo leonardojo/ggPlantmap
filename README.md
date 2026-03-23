@@ -1,12 +1,32 @@
 
 # ggPlantmap <img src="man/figures/hex.png" align="right" height="250"/>
 
-###### Version 1.1.0
+###### Version 1.1.1
 
 ###### Author: Leonardo Jo (<l.jo@uu.nl>)
 
 <!-- badges: start -->
 <!-- badges: end -->
+
+## Updates:
+
+### Version 1.1.1
+
+#### New Plant maps
+
+Cross-section of a large vascular bundle in the maturation zone of a
+developing rice leaf Author: Sean Roberston (<rober136@myumanitoba.ca>)
+
+``` r
+ggPlantmap.plot(ggPm.Os.leaf.crosssection)
+```
+
+Diagram of Arabidopsis seedlings in control, salt (NaCl) and drought
+(Sorbitol) conditions Author: Kilian Duijts (<kilian.duijts@wur.nl>)
+
+``` r
+ggPlantmap.plot(ggPm.At.seedling.saltdrought)
+```
 
 ## Overview
 
@@ -91,13 +111,13 @@ library(ggPlantmap)
 ggPlantmap.plot(ggPm.At.earlyembryogenesis.devseries,Cell)
 ```
 
-<img src="man/figures/README-unnamed-chunk-4-1.png" width="50%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-6-1.png" width="50%" style="display: block; margin: auto;" />
 
 ``` r
 ggPlantmap.plot(ggPm.At.roottip.longitudinal,Level1)
 ```
 
-<img src="man/figures/README-unnamed-chunk-4-2.png" width="50%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-6-2.png" width="50%" style="display: block; margin: auto;" />
 
 ## Pre-loaded ggPlantmaps
 
@@ -138,9 +158,9 @@ These maps can be easily loaded into a ggplot coding environment and
 their color mapping changed based on the distinct layer classification
 of each ggPlantmap.
 
-<img src="man/figures/README-unnamed-chunk-6-1.png" width="50%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-8-1.png" width="50%" style="display: block; margin: auto;" />
 
-<img src="man/figures/README-unnamed-chunk-7-1.png" width="50%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-9-1.png" width="50%" style="display: block; margin: auto;" />
 
 ## Overlaying external quantitative data into a ggPlantmap
 
@@ -183,7 +203,7 @@ new.ggPlantmap <- XML.to.ggPlantmap("data/ggPm.sample.xml")
 ggPlantmap.plot(new.ggPlantmap,ROI.name)
 ```
 
-<img src="man/figures/README-unnamed-chunk-8-1.png" width="50%" />
+<img src="man/figures/README-unnamed-chunk-10-1.png" width="50%" />
 
 ## Can my ggPlantmap be included in the package?
 

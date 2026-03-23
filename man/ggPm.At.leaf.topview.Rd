@@ -22,6 +22,6 @@ Top view of Arabidopsis thaliana leaves from left to right in order of emergence
 }
 }
 \author{
-ggPlantmap author: Leonardo Jo (jo.leonardo85@gmail.com)
+ggPlantmap author: Leonardo Jo (l.jo@uu.nl)
 }
 \keyword{datasets}
