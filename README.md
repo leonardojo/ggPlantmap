@@ -21,12 +21,16 @@ developing rice leaf Author: Sean Roberston (<rober136@myumanitoba.ca>)
 ggPlantmap.plot(ggPm.Os.leaf.crosssection)
 ```
 
+![](man/figures/README-unnamed-chunk-2-1.png)<!-- -->
+
 Diagram of Arabidopsis seedlings in control, salt (NaCl) and drought
 (Sorbitol) conditions Author: Kilian Duijts (<kilian.duijts@wur.nl>)
 
 ``` r
 ggPlantmap.plot(ggPm.At.seedling.saltdrought)
 ```
+
+![](man/figures/README-unnamed-chunk-3-1.png)<!-- -->
 
 ## Overview
 
@@ -128,7 +132,7 @@ contribution of the plant research community.
 ``` r
 library(ggPlantmap)
 ggPm.summary
-#> # A tibble: 16 × 9
+#> # A tibble: 18 × 9
 #>    ggPlantmap.name       Species Tissue Type  Description Layers Image.Reference
 #>    <chr>                 <chr>   <chr>  <chr> <chr>       <chr>  <chr>          
 #>  1 ggPm.At.roottip.cros… Arabid… root   cros… Cross-sect… Cells  https://www.fu…
@@ -147,6 +151,8 @@ ggPm.summary
 #> 14 ggPm.At.flower.diagr… Arabid… flower diag… Diagram of… Tissu… Taiz, Lincoln,…
 #> 15 ggPm.At.lateralroot.… Arabid… later… deve… Diagram of… Cells… https://doi.or…
 #> 16 ggPm.Ms.root.crossse… Medica… root   cros… Cross-sect… Cells  Unpublished    
+#> 17 ggPm.Os.leaf.crossse… Oryza … leaf   cros… Cross-sect… Cells  manuscript in …
+#> 18 ggPm.At.seedling.sal… Arabid… seedl… diag… Diagram of… Tissu… https://doi.or…
 #> # ℹ 2 more variables: Made.by <chr>, Contact.Info <chr>
 ```
 

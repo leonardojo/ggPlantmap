@@ -25,6 +25,7 @@ Author: Sean Roberston (rober136@myumanitoba.ca)
 ```{r}
 ggPlantmap.plot(ggPm.Os.leaf.crosssection)
 ```
+
 Diagram of Arabidopsis seedlings in control, salt (NaCl) and drought (Sorbitol) conditions
 Author: Kilian Duijts (kilian.duijts@wur.nl)
 ```{r}
