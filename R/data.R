@@ -229,7 +229,7 @@
 #'   \item{Tissue}{leaf}
 #'   \item{Type}{cross-section}
 #' }
-#' @source manuscript in progress (Sean Robertson)
+#' @source https://doi.org/10.1111/nph.71378
 #' @author ggPlantmap author: Sean Robertson (rober136@myumanitoba.ca)
 #'
 "ggPm.Os.leaf.crosssection"
@@ -243,7 +243,7 @@
 #'   \item{Type}{diagram}
 #' }
 #' @source https://doi.org/10.64898/2025.12.03.691840 (Kilian Duijts)
-#' @author ggPlantmap author: Kilian Duijts (kilian.duijts@wur.nl)
+#' @author ggPlantmap author: Kilian Duijts (kilian.duijts@wur.nl) & Eliza van Veen (eliza.veen@wur.nl)
 #'
 "ggPm.At.seedling.saltdrought"
 
